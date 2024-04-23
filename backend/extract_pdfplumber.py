@@ -1,5 +1,6 @@
 # Import the pdfplumber library
 import pdfplumber
+import regex as re
 
 # Function to extract text from each page of a PDF file
 def text_from_pdf_with_pdfplumber(pdf_path):
