@@ -9,12 +9,12 @@ def text_from_pdf_with_pdfplumber(pdf_path):
     # Open the PDF file
     with pdfplumber.open(pdf_path) as pdf:
         # Iterate through the pages of the PDF
-        for page in pdf.pages:
+        for page in pdf.pages[16:]:
             # Extract text from the current page
             page_text = page.extract_text()
             # Append the text of the current page to the full text
             if page_text:
-                full_text += page_text + '\n'
+                full_text += page_text.lower() + '\n'
     
     # Return the full extracted text
     return full_text
@@ -25,7 +25,7 @@ def write_to_file(text, output_file):
         file.write(text)
 
 # Example usage
-pdf_path = r'src\Leis\Código Penal.pdf'  # Path to your PDF file
+pdf_path = 'src/Research/Código Penal.pdf'  # Path to your PDF file
 output_file = 'extracted_text_pdfplumber.txt'  # Path to the output text file
 extracted_text = text_from_pdf_with_pdfplumber(pdf_path)  # Correct function name
 write_to_file(extracted_text, output_file)

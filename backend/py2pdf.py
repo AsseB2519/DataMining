@@ -13,12 +13,12 @@ def text_from_pdf(pdf_path):
         full_text = ""
         
         # Iterate over each page in the PDF
-        for page in pdf_reader.pages:
+        for page in pdf_reader.pages[17]:
             # Extract text from the page and 
             # add it to the full_text variable
             full_text += page.extract_text() + "\n"
         
-        return full_text
+        return full_text.lower()
 
 # Function to write text to a file
 def write_to_file(text, output_file):
@@ -26,7 +26,7 @@ def write_to_file(text, output_file):
         file.write(text)
 
 # Example usage
-pdf_path = 'src\Leis\Código Penal.pdf'  # Path to your PDF file
-output_file = 'extracted_text.txt'  # Path to the output text file
+pdf_path = 'src/Research/Código Penal.pdf'  # Path to your PDF file
+output_file = 'extracted_text_py2pdf.txt'  # Path to the output text file
 extracted_text = text_from_pdf(pdf_path)
 write_to_file(extracted_text, output_file)
