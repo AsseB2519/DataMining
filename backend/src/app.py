@@ -7,14 +7,14 @@ from models import check_if_model_is_available
 from document_loader import load_documents
 import argparse
 import sys
-
+import pickle
 from llm import getChatChain
 
 
 TEXT_SPLITTER = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
 
 
-def load_documents_into_database(model_name: str, documents_path: str) -> Chroma:
+def load_documents_into_database(model_name: str, documents_path: str, reload: bool) -> Chroma:
     """
     Loads documents from the specified directory into the Chroma database
     after splitting the text into chunks.
@@ -26,16 +26,24 @@ def load_documents_into_database(model_name: str, documents_path: str) -> Chroma
     print("Loading documents")
     raw_documents = load_documents(documents_path)
     documents = TEXT_SPLITTER.split_documents(raw_documents)
-
-    print("Creating embeddings and loading documents into Chroma")
-    db = Chroma.from_documents(
-        documents,
-        OllamaEmbeddings(model=model_name),
-    )
+    
+    # ESCREVER
+    if reload:
+        print("Creating embeddings and loading documents into Chroma")
+        db = Chroma.from_documents(
+            documents=documents,
+            embedding=OllamaEmbeddings(model=model_name),
+            persist_directory="Embeddings",
+        )
+        db.persist()
+    else:
+        # LER
+        db = Chroma(persist_directory="Embeddings", embedding_function=OllamaEmbeddings(model=model_name))
+    
     return db
 
 
-def main(llm_model_name: str, embedding_model_name: str, documents_path: str) -> None:
+def main(llm_model_name: str, embedding_model_name: str, documents_path: str, reload: bool) -> None:
     # Check to see if the models available, if not attempt to pull them
     try:
         check_if_model_is_available(llm_model_name)
@@ -46,7 +54,7 @@ def main(llm_model_name: str, embedding_model_name: str, documents_path: str) ->
 
     # Creating database form documents
     try:
-        db = load_documents_into_database(embedding_model_name, documents_path)
+        db = load_documents_into_database(embedding_model_name, documents_path, reload)
     except FileNotFoundError as e:
         print(e)
         sys.exit()
@@ -84,12 +92,19 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument(
         "-p",
         "--path",
-        default="Leis",
+        default="Codigo_Penal_Divided",
         help="The path to the directory containing documents to load.",
+    )
+    parser.add_argument(
+        "-r",
+        "--reload",
+        action="store_true",
+        default=False,
+        help="If provided, Embeddings will be reloaded. Otherwise(default), they are read from the Vector Database.",
     )
     return parser.parse_args()
 
 
 if __name__ == "__main__":
     args = parse_arguments()
-    main(args.model, args.embedding_model, args.path)
+    main(args.model, args.embedding_model, args.path,args.reload)
