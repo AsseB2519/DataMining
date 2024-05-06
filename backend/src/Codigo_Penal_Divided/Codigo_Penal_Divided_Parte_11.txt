@@ -1,30 +1,8 @@
+Este ficheiro corresponde ao livro 2, titulo 2 (dos crimes contra o património) do código penal portuges.
 
-artigo 200.º
-omissão de auxílio
-1 - quem, em caso de grave necessidade, nomeadamente provocada por desastre, acidente, calamidade pública ou situação de
-perigo comum, que ponha em perigo a vida, a integridade física ou a liberdade de outra pessoa, deixar de lhe prestar o auxílio
-necessário ao afastamento do perigo, seja por acção pessoal, seja promovendo o socorro, é punido com pena de prisão até 1
-ano ou com pena de multa até 120 dias.
-2 - se a situação referida no número anterior tiver sido criada por aquele que omite o auxílio devido, o omitente é punido com
-pena de prisão até 2 anos ou com pena de multa até 240 dias.
-3 - a omissão de auxílio não é punível quando se verificar grave risco para a vida ou integridade física do omitente ou quando,
-por outro motivo relevante, o auxílio lhe não for exigível.
-artigo 201.º
-subtracção às garantias do estado de direito português
-1 - quem por meio de violência, ameaça ou qualquer meio ardiloso, fizer com que outra pessoa saia do âmbito de protecção da
-lei penal portuguesa e se exponha a ser perseguido por razões políticas, com risco para a vida, a integridade física ou a
-liberdade, tornando-se objecto de violência ou de medidas contrárias aos princípios fundamentais do estado de direito
-português, é punido com pena de prisão de 2 a 10 anos.
-2 - na mesma pena incorre quem, pelos mesmos meios, impedir outra pessoa de abandonar a situação de perigo referida no
-número anterior ou a forçar a nela permanecer.
-título ii
-dos crimes contra o património
-capítulo i
-disposição preliminar
-artigo 202.º
-definições legais
-para efeito do disposto nos artigos seguintes considera-se:
-a) valor elevado: aquele que exceder 50 unidades de conta avaliadas no momento da prática do facto;
+capítulo 1 -disposição preliminar
+    artigo 202.º - definições legais : para efeito do disposto nos artigos seguintes considera-se:
+            a) valor elevado: aquele que exceder 50 unidades de conta avaliadas no momento da prática do facto;
 b) valor consideravelmente elevado: aquele que exceder 200 unidades de conta avaliadas no momento da prática do facto;
 c) valor diminuto: aquele que não exceder uma unidade de conta avaliada no momento da prática do facto;
 d) arrombamento: o rompimento, fractura ou destruição, no todo ou em parte, de dispositivo destinado a fechar ou impedir a
@@ -40,29 +18,23 @@ g) marco: qualquer construção, plantação, valado, tapume ou outro sinal dest
 propriedades, postos por decisão judicial ou com o acordo de quem esteja legitimamente autorizado para o dar.
 capítulo ii
 dos crimes contra a propriedade
-artigo 203.º
-furto
-1 - quem, com ilegítima intenção de apropriação para si ou para outra pessoa, subtrair coisa móvel ou animal alheios, é punido
-com pena de prisão até 3 anos ou com pena de multa.
-2 - a tentativa é punível.
-3 - o procedimento criminal depende de queixa.
-artigo 204.º
-furto qualificado
-1 - quem furtar coisa móvel ou animal alheios:
-a) de valor elevado;
-b) colocada ou transportada em veículo ou colocada em lugar destinado ao depósito de objectos ou transportada por
-passageiros utentes de transporte colectivo, mesmo que a subtracção tenha lugar na estação, gare ou cais;
-c) afecta ao culto religioso ou à veneração da memória dos mortos e que se encontre em lugar destinado ao culto ou em
-cemitério;
-d) explorando situação de especial debilidade da vítima, de desastre, acidente, calamidade pública ou perigo comum;
-e) fechada em gaveta, cofre ou outro receptáculo equipados com fechadura ou outro dispositivo especialmente destinado à sua
-segurança;
-f) introduzindo-se ilegitimamente em habitação, ainda que móvel, estabelecimento comercial ou industrial ou espaço fechado,
-ou aí permanecendo escondido com intenção de furtar;
-g) com usurpação de título, uniforme ou insígnia de empregado público, civil ou militar, ou alegando falsa ordem de autoridade
-pública;
-h) fazendo da prática de furtos modo de vida; ou
-i) deixando a vítima em difícil situação económica;
+
+artigo 203.º - furto
+    1 - quem, com ilegítima intenção de apropriação para si ou para outra pessoa, subtrair coisa móvel ou animal alheios, é punido com pena de prisão até 3 anos ou com pena de multa.
+    2 - a tentativa é punível.
+    3 - o procedimento criminal depende de queixa.
+
+artigo 204.º - furto qualificado
+    1 - quem furtar coisa móvel ou animal alheios:
+        a) de valor elevado;
+        b) colocada ou transportada em veículo ou colocada em lugar destinado ao depósito de objectos ou transportada por passageiros utentes de transporte colectivo, mesmo que a subtracção tenha lugar na estação, gare ou cais;
+        c) afecta ao culto religioso ou à veneração da memória dos mortos e que se encontre em lugar destinado ao culto ou em cemitério;
+        d) explorando situação de especial debilidade da vítima, de desastre, acidente, calamidade pública ou perigo comum;
+        e) fechada em gaveta, cofre ou outro receptáculo equipados com fechadura ou outro dispositivo especialmente destinado à sua segurança;
+        f) introduzindo-se ilegitimamente em habitação, ainda que móvel, estabelecimento comercial ou industrial ou espaço fechado, ou aí permanecendo escondido com intenção de furtar;
+        g) com usurpação de título, uniforme ou insígnia de empregado público, civil ou militar, ou alegando falsa ordem de autoridade pública;
+        h) fazendo da prática de furtos modo de vida; ou
+        i) deixando a vítima em difícil situação económica;
 j) impedindo ou perturbando, por qualquer forma, a exploração de serviços de comunicações ou de fornecimento ao público de
 água, luz, energia, calor, óleo, gasolina ou gás;
 é punido com pena de prisão até cinco anos ou com pena de multa até 600 dias.
