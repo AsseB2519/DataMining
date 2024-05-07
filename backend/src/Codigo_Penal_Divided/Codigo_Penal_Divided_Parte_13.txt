@@ -1,33 +1,6 @@
+Este ficheiro corresponde ao livro 2, titulo 4 (dos crimes contra a vida em sociedade) do código penal de portugal.
 
-3 - considera-se tortura, tratamento cruel, degradante ou desumano, o acto que consista em infligir sofrimento físico ou
-psicológico agudo, cansaço físico ou psicológico grave ou no emprego de produtos químicos, drogas ou outros meios, naturais
-ou artificiais, com intenção de perturbar a capacidade de determinação ou a livre manifestação de vontade da vítima.
-4 - o disposto no número anterior não abrange os sofrimentos inerentes à execução das sanções previstas no n.º 1 ou por ela
-ocasionados, nem as medidas legais privativas ou restritivas da liberdade.
-artigo 244.º
-tortura e outros tratamentos cruéis, degradantes ou desumanos graves
-1 - quem, nos termos e condições referidos no artigo anterior:
-a) produzir ofensa à integridade física grave;
-b) empregar meios ou métodos de tortura particularmente graves, designadamente espancamentos, electrochoques, simulacros
-de execução ou substâncias alucinatórias; ou
-c) praticar habitualmente actos referidos no artigo anterior;
-é punido com pena de prisão de 3 a 12 anos.
-2 - se dos factos descritos neste artigo ou no artigo anterior resultar suicídio ou morte da vítima, o agente é punido com pena
-de prisão de 8 a 16 anos.
-artigo 245.º
-omissão de denúncia
-o superior hierárquico que, tendo conhecimento da prática, por subordinado, de facto descrito nos artigos 243.º ou 244.º, não
-fizer a denúncia no prazo máximo de 3 dias após o conhecimento, é punido com pena de prisão de 6 meses a 3 anos.
-artigo 246.º
-incapacidades
-quem for condenado por crime previsto nos artigos 240.º e 243.º a 245.º pode, atenta a concreta gravidade do facto e a sua
-projecção na idoneidade cívica do agente, ser incapacitado para eleger o presidente da república, os deputados à assembleia
-da república, os deputados ao parlamento europeu, os deputados às assembleias legislativas das regiões autónomas e os
-titulares dos órgãos das autarquias locais, para ser eleito como tal ou para ser jurado, por período de 2 a 10 anos.
-título iv
-dos crimes contra a vida em sociedade
-capítulo i
-dos crimes contra a família, os sentimentos religiosos e o respeito devido aos mortos
+capítulo 1 - dos crimes contra a família, os sentimentos religiosos e o respeito devido aos mortos
 secção i
 dos crimes contra a família
 artigo 247.º

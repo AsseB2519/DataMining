@@ -33,7 +33,8 @@ artigo 204.º - furto qualificado
         g) com usurpação de título, uniforme ou insígnia de empregado público, civil ou militar, ou alegando falsa ordem de autoridade pública;
         h) fazendo da prática de furtos modo de vida; ou
         i) deixando a vítima em difícil situação económica;
-        j) impedindo ou perturbando, por qualquer forma, a exploração de serviços de comunicações ou de fornecimento ao público de água, luz, energia, calor, óleo, gasolina ou gás; é punido com pena de prisão até cinco anos ou com pena de multa até 600 dias.
+        j) impedindo ou perturbando, por qualquer forma, a exploração de serviços de comunicações ou de fornecimento ao público de água, luz, energia, calor, óleo, gasolina ou gás;
+        é punido com pena de prisão até cinco anos ou com pena de multa até 600 dias.
     2 - quem furtar coisa móvel ou animal alheios:
         a) de valor consideravelmente elevado;
         b) que possua significado importante para o desenvolvimento tecnológico ou económico;
@@ -41,7 +42,8 @@ artigo 204.º - furto qualificado
         d) que possua importante valor científico, artístico ou histórico e se encontre em colecção ou exposição públicas ou acessíveis ao público;
         e) penetrando em habitação, ainda que móvel, estabelecimento comercial ou industrial ou outro espaço fechado, por arrombamento, escalamento ou chaves falsas;
         f) trazendo, no momento do crime, arma aparente ou oculta; ou
-        g) como membro de bando destinado à prática reiterada de crimes contra o património, com a colaboração de pelo menos outro membro do bando; é punido com pena de prisão de 2 a 8 anos.
+        g) como membro de bando destinado à prática reiterada de crimes contra o património, com a colaboração de pelo menos outro membro do bando;
+        é punido com pena de prisão de 2 a 8 anos.
     3 - se na mesma conduta concorrerem mais do que um dos requisitos referidos nos números anteriores, só é considerado para efeito de determinação da pena aplicável o que tiver efeito agravante mais forte, sendo o outro ou outros valorados na medida da pena.
     4 - não há lugar à qualificação se a coisa ou o animal furtados forem de diminuto valor.
 
@@ -97,12 +99,14 @@ artigo 213.º - dano qualificado
         b) monumento público;
         c) coisa ou animal destinados ao uso e utilidade públicos ou a organismos ou serviços públicos;
         d) coisa pertencente ao património cultural e legalmente classificada ou em vias de classificação; ou
-        e) coisa ou animal alheios afetos ao culto religioso ou à veneração da memória dos mortos e que se encontre em lugardestinado ao culto ou em cemitério; é punido com pena de prisão até 5 anos ou com pena de multa até 600 dias.
+        e) coisa ou animal alheios afetos ao culto religioso ou à veneração da memória dos mortos e que se encontre em lugardestinado ao culto ou em cemitério;
+        é punido com pena de prisão até 5 anos ou com pena de multa até 600 dias.
     2 - quem destruir, no todo ou em parte, danificar, desfigurar ou tornar não utilizável coisa ou animal alheios:
         a) de valor consideravelmente elevado;
         b) natural ou produzida pelo homem, oficialmente arrolada ou posta sob protecção oficial pela lei;
         c) que possua importante valor científico, artístico ou histórico e se encontre em colecção ou exposição públicas ou acessíveis ao público; ou
-        d) que possua significado importante para o desenvolvimento tecnológico ou económico; é punido com pena de prisão de 2 a 8 anos.
+        d) que possua significado importante para o desenvolvimento tecnológico ou económico;
+        é punido com pena de prisão de 2 a 8 anos.
     3 - é correspondentemente aplicável o disposto nos n.os 3 e 4 do artigo 204.º e 2 e 3 do artigo 206.º e na alínea a) do n.º 1 do artigo 207.º.
     4 - o n.º 1 do artigo 206.º aplica-se nos casos da alínea a) do n.º 1 e da alínea a) do n.º 2.
 
@@ -145,7 +149,8 @@ artigo 218.º - burla qualificada
 artigo 219.º - burla relativa a seguros
     1 - quem receber ou fizer com que outra pessoa receba valor total ou parcialmente seguro:
         a) provocando ou agravando sensivelmente resultado causado por acidente cujo risco estava coberto; ou
-        b) causando, a si próprio ou a outra pessoa, lesão da integridade física ou agravando as consequências de lesão da integridade física provocada por acidente cujo risco esteja coberto; é punido com pena de prisão até 3 anos ou com pena de multa.
+        b) causando, a si próprio ou a outra pessoa, lesão da integridade física ou agravando as consequências de lesão da integridade física provocada por acidente cujo risco esteja coberto;
+        é punido com pena de prisão até 3 anos ou com pena de multa.
     2 - a tentativa é punível.
     3 - o procedimento criminal depende de queixa.
     4 - se o prejuízo patrimonial provocado for:
@@ -157,7 +162,8 @@ artigo 220.º - burla para obtenção de alimentos, bebidas ou serviços
     1 - quem, com intenção de não pagar:
         a) se fizer servir de alimentos ou bebidas em estabelecimento que faça do seu fornecimento comércio ou indústria;
         b) utilizar quarto ou serviço de hotel ou estabelecimento análogo; ou
-        c) utilizar meio de transporte ou entrar em qualquer recinto público sabendo que tal supõe o pagamento de um preço; e se negar a solver a dívida contraída é punido com pena de prisão até 6 meses ou com pena de multa até 60 dias.
+        c) utilizar meio de transporte ou entrar em qualquer recinto público sabendo que tal supõe o pagamento de um preço;
+        e se negar a solver a dívida contraída é punido com pena de prisão até 6 meses ou com pena de multa até 60 dias.
     2 - o procedimento criminal depende de queixa.
     3 - é correspondentemente aplicável o disposto nos artigos 206.º e 207.º.
 
@@ -256,3 +262,21 @@ artigo 231.º - receptação
         a) no artigo 206.º; e
         b) na alínea a) do n.º 1 do artigo 207.º, se a relação familiar interceder entre o recetador e a vítima do facto ilícito típico contra o património.
 4 - se o agente fizer da receptação modo de vida, é punido com pena de prisão de 1 a 8 anos.
+
+artigo 232.º - auxílio material
+    1 - quem auxiliar outra pessoa a aproveitar-se do benefício de coisa ou animal obtidos por meio de facto ilícito típico contra o património é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
+    2 - é correspondentemente aplicável o disposto no n.º 3 do artigo 231.º.
+
+artigo 233.º - âmbito do objecto da receptação
+    são equiparados às coisas e aos animais referidos no artigo 231.º os valores ou produtos com eles diretamente obtidos.
+
+
+capítulo v - dos crimes contra o sector público ou cooperativo agravados pela qualidade do agente
+
+artigo 234.º apropriação ilegítima
+    1 - quem, por força do cargo que desempenha, detiver a administração, gerência ou simples capacidade de dispor de bens do sector público ou cooperativo, e por qualquer forma deles se apropriar ilegitimamente ou permitir intencionalmente que outra pessoa ilegitimamente se aproprie, é punido com a pena que ao respectivo crime corresponder agravada de um terço nos seus limites mínimo e máximo.
+    2 - a tentativa é punível.
+
+artigo 235.º - administração danosa
+    1 - quem, infringindo intencionalmente normas de controlo ou regras económicas de uma gestão racional, provocar dano patrimonial importante em unidade económica do sector público ou cooperativo é punido com pena de prisão até 5 anos ou com pena de multa até 600 dias.
+    2 - a punição não tem lugar se o dano se verificar contra a expectativa fundada do agente.
