@@ -63,10 +63,14 @@ def main(llm_model_name: str, embedding_model_name: str, documents_path: str) ->
                     st.write(response)
                     st.session_state.conversation.append((user_input.strip(), response))  # Save conversation
                     st.session_state.question_key += 1  # Update question key
-                    ask_question(question_key + 1)  # Recursive call to ask the next question
                 except KeyboardInterrupt:
                     st.stop()
 
+    for user_message, bot_response in st.session_state.conversation:
+        st.write(f"You: {user_message}")
+        st.write(f"Bot: {bot_response}")
+    
+    
     ask_question(st.session_state.question_key)
 
 def main_streamlit():
@@ -75,7 +79,7 @@ def main_streamlit():
     st.sidebar.header("Settings")
     llm_model_name = st.sidebar.text_input("LLM Model Name", "mistral")
 
-    main(llm_model_name, "nomic-embed-text", "Temp")
+    main(llm_model_name, "nomic-embed-text", "./Temp")
 
 if __name__ == "__main__":
     main_streamlit()
