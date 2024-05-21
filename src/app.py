@@ -34,7 +34,6 @@ def load_documents_into_database(model_name: str, documents_path: str, reload: b
             embedding=OllamaEmbeddings(model=model_name),
             persist_directory="../Embeddings",
         )
-        db.persist()
     else:
         # LER
         db = Chroma(persist_directory="../Embeddings", embedding_function=OllamaEmbeddings(model=model_name))

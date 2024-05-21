@@ -92,7 +92,10 @@ def getChatChain(llm, db):
 
     def translate_to_portuguese(text):
         translator = Translator(to_lang="pt-pt")
-        translation = translator.translate(text)
+        max_chunk_size = 500  # Define the maximum chunk size
+        chunks = [text[i:i + max_chunk_size] for i in range(0, len(text), max_chunk_size)]
+        translated_chunks = [translator.translate(chunk) for chunk in chunks]
+        translation = ''.join(translated_chunks)
         return translation
 
 
@@ -101,6 +104,6 @@ def getChatChain(llm, db):
         result = final_chain.invoke(inputs)
         translated_result = translate_to_portuguese(result["answer"])
         memory.save_context(inputs, {"answer": translated_result})
-        
+        return translated_result
 
     return chat
