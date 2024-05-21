@@ -76,11 +76,11 @@ def set_background_image(png_file):
 
 def setup():
     st.set_page_config(page_title='LawTalk', page_icon="📊", initial_sidebar_state="expanded", layout='wide')
-    st.sidebar.image("images/lawtalk_logo.png")
+    st.sidebar.image("../Images/lawtalk_logo.png")
 
 def main(reload: bool):
     setup()
-    #set_background_image("../Images/background6.png")
+    set_background_image("../Images/background.png")
     st.sidebar.header("Settings")
     reload_embedings = st.sidebar.checkbox("Reload Embeddings",True)
     llm_model_name = st.sidebar.selectbox("LLM Model Name", ["mistral","llama2","zephyr"],0)
@@ -117,7 +117,7 @@ def main(reload: bool):
             st.markdown(message["content"])
 
     # Accept user input
-    if prompt := st.chat_input("Message FitBot"):
+    if prompt := st.chat_input("Envia Mensagem ao LawTalk"):
         st.session_state.messages.append({"role": "user", "content": prompt})
 
         with st.chat_message("user"):

@@ -5,7 +5,7 @@ from PyPDF2 import PdfReader, PdfWriter
 
 def divide_pdf(input_pdf_path, page_ranges):
     # Create a directory to store divided PDFs
-    output_dir = "/Codigo_Penal_Divided"
+    output_dir = "../Codigo_Penal_Divided"
     #os.makedirs(output_dir, exist_ok=True)
 
     # Read the input PDF
@@ -25,7 +25,7 @@ def divide_pdf(input_pdf_path, page_ranges):
             
             
             # Write the new PDF to file
-            output_pdf_path = "Codigo_Penal_Divided/Codigo_Penal_Divided" + f"_Parte_{i + 1}.pdf"
+            output_pdf_path = "../Codigo_Penal_Divided/Codigo_Penal_Divided" + f"_Parte_{i + 1}.pdf"
             with open(output_pdf_path, 'wb') as output_file:
                 writer.write(output_file)
 
@@ -34,7 +34,7 @@ def divide_pdf(input_pdf_path, page_ranges):
 # Example usage:
 page_ranges = [(0, 12), (13, 18), (18, 29), (29, 32), (32, 39), (39, 70), (70,72), (72,76), (76,91), (91,104), (104,116,), 
                (116,120), (120,143), (143,169)]
-divide_pdf("Research/Codigo_Penal.pdf", page_ranges)
+divide_pdf("../Original Files/Codigo_Penal.pdf", page_ranges)
 
 def text_from_pdf_with_pdfplumber(pdf_path):
     # Initialize an empty string to gather all the text
@@ -78,5 +78,5 @@ def convert_pdfs_to_txt(input_folder):
             write_to_file(text, output_file)
 
 # Example usage:
-base_dir = "Codigo_Penal_Divided"
+base_dir = "../Codigo_Penal_Divided"
 convert_pdfs_to_txt(base_dir)

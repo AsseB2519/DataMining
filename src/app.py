@@ -8,6 +8,7 @@ from document_loader import load_documents
 import argparse
 import sys
 import pandas as pd
+import openai
 from llm import getChatChain
 
 TEXT_SPLITTER = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
@@ -40,33 +41,6 @@ def load_documents_into_database(model_name: str, documents_path: str, reload: b
     
     return db
 
-def load_documents_into_database2(model_name: str, documents_path: str, reload: bool) -> tuple:
-    """
-    Loads documents from the specified directory into the Chroma database
-    after splitting the text into chunks.
-
-    Returns:
-        tuple: The Chroma database with loaded documents and the documents path.
-    """
-
-    print("Loading documents")
-    raw_documents = load_documents(documents_path)
-    documents = TEXT_SPLITTER.split_documents(raw_documents)
-
-    # ESCREVER
-    if reload:
-        print("Creating embeddings and loading documents into Chroma")
-        db = Chroma.from_documents(
-            documents=documents,
-            embedding=OllamaEmbeddings(model=model_name),
-            persist_directory="Embeddings",
-        )
-        db.persist()
-    else:
-        # LER
-        db = Chroma(persist_directory="Embeddings", embedding_function=OllamaEmbeddings(model=model_name))
-    
-    return db, documents_path
 
 def evalute(llm_model_name: str, db: Chroma):
     accuracy_criteria = {
@@ -93,7 +67,30 @@ def evalute(llm_model_name: str, db: Chroma):
         evaluation = evaluator.evaluate_strings(prediction=chat(question=question),reference=answer,input=question)
         print(evaluation)
 
+
+# MODELO DO OPENAI COM CUSTOM EMBEDDINGS PARA COMPARACOES
+openai.api_key = 'sk-proj-JMrLIkbxcJlIgYlwHPG3T3BlbkFJorXQLAgdbTNsLvixYcp9'
+def generate_gpt_chat(prompt):
+    response = openai.Completion.create(
+      model="gpt-3.5-turbo",
+      organization="org-ZabQCXoLTtRLYzgxcp5uSRma",
+    )
+    return response.choices[0].text.strip()
+
+
 def main(llm_model_name: str, embedding_model_name: str, documents_path: str) -> None:
+    
+    if llm_model_name == "gpt":
+        while True:
+            try:
+                user_input = input("\n\nPlease enter your question (or type 'exit' to end): ")
+                if user_input.lower() == "exit":
+                    break
+                print(generate_gpt_chat(user_input))
+            except KeyboardInterrupt:
+                break
+        exit()
+    
     # Check to see if the models available, if not attempt to pull them
     try:
         check_if_model_is_available(llm_model_name)
@@ -113,7 +110,7 @@ def main(llm_model_name: str, embedding_model_name: str, documents_path: str) ->
     llm = Ollama(model=llm_model_name)
     chat = getChatChain(llm, db)
 
-    evalute(llm_model_name,db)
+    # evalute(llm_model_name,db)
 
     # Start the conversation loop
     while True:
@@ -143,7 +140,7 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument(
         "-p",
         "--path",
-        default="../Final PDF Files",
+        default="../Codigo_Penal_Divided",
         help="The path to the directory containing documents to load.",
     )
     parser.add_argument(

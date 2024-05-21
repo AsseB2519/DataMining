@@ -81,9 +81,9 @@ def write_to_file(text, output_file):
 
 # Example usage  
 # pdf_path1 = 'src/Research/Codigo_Penal.pdf'  # Path to your PDF file
-pdf_path2 = 'src/Research/Codigo_Processo_Penal.pdf'  # Path to your PDF file
+pdf_path2 = '../Original Files/Codigo_Processo_Penal.pdf'  # Path to your PDF file
 # output_file1 = 'pdfplumber_codigo_penal.txt'  # Path to the output text file
-output_file2 = 'pdfplumber_codigo_processual_penal.txt'  # Path to the output text file
+output_file2 = '../TXT Files/pdfplumber_codigo_processual_penal.txt'  # Path to the output text file
 # extracted_text1 = text_from_pdf_with_pdfplumber1(pdf_path1)  # Correct function name
 extracted_text2 = text_from_pdf_with_pdfplumber2(pdf_path2)  # Correct function name
 # write_to_file(extracted_text1, output_file1)

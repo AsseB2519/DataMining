@@ -1,5 +1,5 @@
 from operator import itemgetter
-
+from translate import Translator
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain.memory import ConversationBufferMemory
 from langchain_core.prompts import ChatPromptTemplate
@@ -88,9 +88,19 @@ def getChatChain(llm, db):
 
     final_chain = loaded_memory | standalone_question | retrieved_documents | answer
 
+
+
+    def translate_to_portuguese(text):
+        translator = Translator(to_lang="pt-pt")
+        translation = translator.translate(text)
+        return translation
+
+
     def chat(question: str):
         inputs = {"question": question}
         result = final_chain.invoke(inputs)
-        memory.save_context(inputs, {"answer": result["answer"]})
+        translated_result = translate_to_portuguese(result["answer"])
+        memory.save_context(inputs, {"answer": translated_result})
+        
 
     return chat
