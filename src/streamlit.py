@@ -13,15 +13,22 @@ from llm import getChatChain
 
 TEXT_SPLITTER = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
 
-def load_documents_into_database(model_name: str, documents_path: str) -> Chroma:
+def load_documents_into_database(llm_model_name:str, model_name: str, documents_path: str) -> Chroma:
     print("Loading documents")
     raw_documents = load_documents(documents_path)
     documents = TEXT_SPLITTER.split_documents(raw_documents)
 
+    if llm_model_name in ["llama2","zephyr","mistral"]:
+        directory = "../Embeddings_" + llm_model_name
+    else:
+        directory = "../Embeddings"
+    
     print("Creating embeddings and loading documents into Chroma")
     db = Chroma.from_documents(
         documents,
         OllamaEmbeddings(model=model_name),
+        persist_directory=directory
+        
     )
     return db
 
@@ -97,7 +104,7 @@ def main(reload: bool):
 
     if reload_embedings:
         try:
-            db = load_documents_into_database(embedding_model_name, documents_path)
+            db = load_documents_into_database(llm_model_name, embedding_model_name, documents_path)
         except FileNotFoundError as e:
             st.error(e)
             st.stop()
