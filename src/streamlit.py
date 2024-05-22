@@ -1,3 +1,4 @@
+import time
 import streamlit as st
 import argparse
 import base64
@@ -131,9 +132,12 @@ def main(reload: bool):
             st.write(prompt)
 
         with st.chat_message("assistant"):
+            start_time = time.time() 
             response = chat(prompt)
             st.write(response)
-
+            end_time = time.time()
+            elapsed_time = end_time - start_time
+            st.write(f"Elapsed time: {round(elapsed_time,2)} seconds")  # Display elapsed time
         st.session_state.messages.append({"role": "assistant", "content": response})
 
 if __name__ == "__main__":
