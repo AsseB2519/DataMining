@@ -1,73 +1,73 @@
-Este ficheiro corresponde ao livro 2, titulo 3 (dos crimes contra a identidade cultural e integridade pessoal) do código penal de portugal.
+This file corresponds to Book 2, Title 3 (Crimes Against Cultural Identity and Personal Integrity) of the Penal Code of Portugal.
 
-artigo 236.º - incitamento à guerra
-    quem, pública e repetidamente, incitar ao ódio contra um povo, com intenção de desencadear uma guerra, é punido com pena de prisão de 6 meses a 3 anos.
+Article 236 - Incitement to War
+Whoever, publicly and repeatedly, incites hatred against a people, intending to trigger a war, is punished with imprisonment from 6 months to 3 years.
 
-artigo 237.º - aliciamento de forças armadas
-    quem intentar o recrutamento de elementos das forças armadas portuguesas para uma guerra contra estado ou território estrangeiros, pondo em perigo a convivência pacífica entre os povos, é punido com pena de prisão de 1 a 5 anos.
+Article 237 - Recruitment of Armed Forces
+Whoever attempts to recruit members of the Portuguese armed forces for a war against a foreign state or territory, endangering peaceful coexistence among peoples, is punished with imprisonment from 1 to 5 years.
 
-artigo 238.º - recrutamento de mercenários
-    quem recrutar ou intentar recrutar mercenários para serviço militar de estado estrangeiro, ou para qualquer organização armada nacional ou estrangeira que se proponha, por meios violentos, derrubar o governo legítimo de outro estado ou atentar contra a independência, a integridade territorial ou o funcionamento normal das instituições do mesmo estado, é punido com pena de prisão de 1 a 5 anos. é mercenário quem como tal for considerado pelo direito internacional.
+Article 238 - Recruitment of Mercenaries
+Whoever recruits or attempts to recruit mercenaries for military service of a foreign state or for any national or foreign armed organization that proposes, by violent means, to overthrow the legitimate government of another state or to attack the independence, territorial integrity, or normal functioning of the institutions of that state, is punished with imprisonment from 1 to 5 years. A mercenary is considered to be someone who is recognized as such by international law.
 
-artigo 239.º - genocídio
-    1 - quem, com intenção de destruir, no todo ou em parte, grupo nacional, étnico, racial ou religioso, como tal, praticar:
-        a) homicídio de membros do grupo;
-        b) ofensa à integridade física grave de membros do grupo;
-        c) sujeição do grupo a condições de existência ou a tratamentos cruéis, degradantes ou desumanos, susceptíveis de virem a provocar a sua destruição, total ou parcial;
-        d) transferência por meios violentos de crianças do grupo para outro grupo; ou
-        e) impedimento da procriação ou dos nascimentos no grupo;
-        é punido com pena de prisão de 12 a 25 anos.
-    2 - quem, pública e directamente, incitar a genocídio é punido com pena de prisão de 2 a 8 anos.
-    3 - o acordo com vista à prática de genocídio é punido com pena de prisão de 1 a 5 anos.
+Article 239 - Genocide
+1. Whoever, with intent to destroy, in whole or in part, a national, ethnic, racial, or religious group, as such:
+   a) Commits homicide of group members;
+   b) Inflicts serious physical harm to members of the group;
+   c) Subjects the group to conditions of existence or cruel, degrading, or inhumane treatments, likely to cause their total or partial destruction;
+   d) Transfers children of the group by violent means to another group; or
+   e) Prevents procreation or births within the group;
+   is punished with imprisonment from 12 to 25 years.
+2. Whoever publicly and directly incites genocide is punished with imprisonment from 2 to 8 years.
+3. Agreement with the aim of committing genocide is punished with imprisonment from 1 to 5 years.
 
-artigo 240.º - discriminação e incitamento ao ódio e à violência
-    1 - quem:
-        a) fundar ou constituir organização ou desenvolver atividades de propaganda que incitem ou encorajem à discriminação, ao ódio ou à violência contra pessoa ou grupo de pessoas em razão da sua origem étnico-racial, origem nacional ou religiosa, cor, nacionalidade, ascendência, território de origem, religião, língua, sexo, orientação sexual, identidade ou expressão de género ou características sexuais, deficiência física ou psíquica; ou
-        b) participar nas organizações referidas na alínea anterior, nas atividades por elas empreendidas ou lhes prestar assistência, incluindo o seu financiamento;
-    2 - quem, publicamente, por qualquer meio destinado a divulgação, nomeadamente através da apologia, negação ou banalização grosseira de crimes de genocídio, guerra ou contra a paz e a humanidade:
-        a) provocar atos de violência contra pessoa ou grupo de pessoas por causa da sua origem étnico-racial, origem nacional ou religiosa, cor, nacionalidade, ascendência, território de origem, religião, língua, sexo, orientação sexual, identidade ou expressão de género ou características sexuais, deficiência física ou psíquica;
-        b) difamar ou injuriar pessoa ou grupo de pessoas por causa da sua origem étnico-racial, origem nacional ou religiosa, cor, nacionalidade, ascendência, território de origem, religião, língua, sexo, orientação sexual, identidade ou expressão de género ou características sexuais, deficiência física ou psíquica;
-        c) ameaçar pessoa ou grupo de pessoas por causa da sua origem étnico-racial, origem nacional ou religiosa, cor, nacionalidade, ascendência, território de origem, religião, língua, sexo, orientação sexual, identidade ou expressão de género ou características sexuais, deficiência física ou psíquica; ou
-        d) incitar à discriminação, ao ódio ou à violência contra pessoa ou grupo de pessoas por causa da sua origem étnico-racial, origem nacional ou religiosa, cor, nacionalidade, ascendência, território de origem, religião, língua, sexo, orientação sexual, identidade ou expressão de género ou características sexuais, deficiência física ou psíquica;
-        é punido com pena de prisão de 6 meses a 5 anos.
-    3 - quando os crimes previstos nos números anteriores forem cometidos através de sistema informático, o tribunal pode ordenar a eliminação de dados informáticos ou conteúdos.
+Article 240 - Discrimination and Incitement to Hatred and Violence
+1. Whoever:
+   a) Founds or constitutes an organization or develops propaganda activities that incite or encourage discrimination, hatred, or violence against a person or group of people due to their ethnic-racial origin, national or religious origin, color, nationality, ancestry, place of origin, religion, language, sex, sexual orientation, gender identity or expression, sexual characteristics, physical or mental disability; or
+   b) Participates in the organizations referred to in the previous paragraph, in the activities they undertake or assists them, including their financing;
+2. Whoever, publicly, through any means of dissemination, particularly through the apology, denial, or gross trivialization of genocide, war crimes, or crimes against peace and humanity:
+   a) Provokes acts of violence against a person or group of people due to their ethnic-racial origin, national or religious origin, color, nationality, ancestry, place of origin, religion, language, sex, sexual orientation, gender identity or expression, sexual characteristics, physical or mental disability;
+   b) Defames or insults a person or group of people due to their ethnic-racial origin, national or religious origin, color, nationality, ancestry, place of origin, religion, language, sex, sexual orientation, gender identity or expression, sexual characteristics, physical or mental disability;
+   c) Threatens a person or group of people due to their ethnic-racial origin, national or religious origin, color, nationality, ancestry, place of origin, religion, language, sex, sexual orientation, gender identity or expression, sexual characteristics, physical or mental disability; or
+   d) Incites discrimination, hatred, or violence against a person or group of people due to their ethnic-racial origin, national or religious origin, color, nationality, ancestry, place of origin, religion, language, sex, sexual orientation, gender identity or expression, sexual characteristics, physical or mental disability;
+   is punished with imprisonment from 6 months to 5 years.
+3. When the crimes mentioned in the previous paragraphs are committed through a computer system, the court may order the deletion of computer data or content.
 
-artigo 241.º - crimes de guerra contra civis
-    1 - quem, violando normas ou princípios do direito internacional geral ou comum, em tempo de guerra, de conflito armado ou de ocupação, praticar sobre a população civil, sobre feridos, doentes ou prisioneiros de guerra:
-        a) homicídio doloso;
-        b) tortura ou tratamentos cruéis, degradantes ou desumanos;
-        c) ofensa à integridade física grave dolosa;
-        d) tomada de reféns;
-        e) constrangimento a servir nas forças armadas inimigas;
-        f) deportação;
-        g) restrições graves, prolongadas e injustificadas da liberdade das pessoas; ou
-        h) subtracção ou destruição injustificadas de bens patrimoniais de grande valor;
-        é punido com pena de prisão de 10 a 20 anos.
-    2 - a pena é agravada de um quarto nos seus limites mínimo e máximo quando os actos referidos no número anterior forem praticados sobre membros de instituição humanitária.
+Article 241 - War Crimes Against Civilians
+1. Whoever, in violation of norms or principles of general or common international law, during war, armed conflict, or occupation, commits against the civilian population, the wounded, the sick, or prisoners of war:
+   a) Intentional homicide;
+   b) Torture or cruel, degrading, or inhumane treatments;
+   c) Intentional serious physical harm;
+   d) Hostage-taking;
+   e) Coercion to serve in enemy armed forces;
+   f) Deportation;
+   g) Severe, prolonged, and unjustified restrictions on people's freedom; or
+   h) Unjustified destruction or theft of valuable property;
+   is punished with imprisonment from 10 to 20 years.
+2. The penalty is increased by one-fourth at its minimum and maximum limits when the acts mentioned in the previous paragraph are committed against members of a humanitarian institution.
 
-artigo 242.º - destruição de monumentos
-    quem, violando normas ou princípios do direito internacional geral ou comum, em tempo de guerra, de conflito armado ou de ocupação, destruir ou danificar, sem necessidade militar, monumentos culturais ou históricos ou estabelecimentos afectos à ciência, às artes, à cultura, à religião ou a fins humanitários é punido com pena de prisão de 3 a 10 anos.
+Article 242 - Destruction of Monuments
+Whoever, in violation of norms or principles of general or common international law, during war, armed conflict, or occupation, destroys or damages, without military necessity, cultural or historical monuments or establishments dedicated to science, arts, culture, religion, or humanitarian purposes is punished with imprisonment from 3 to 10 years.
 
-artigo 243.º - tortura e outros tratamentos cruéis, degradantes ou desumanos
-    1 - quem, tendo por função a prevenção, perseguição, investigação ou conhecimento de infracções criminais, contra-ordenacionais ou disciplinares, a execução de sanções da mesma natureza ou a protecção, guarda ou vigilância de pessoa detida ou presa, a torturar ou tratar de forma cruel, degradante ou desumana para:
-        a) obter dela ou de outra pessoa confissão, depoimento, declaração ou informação;
-        b) a castigar por acto cometido ou supostamente cometido por ela ou por outra pessoa; ou
-        c) a intimidar ou para intimidar outra pessoa;
-    é punido com pena de prisão de 1 a 5 anos, se pena mais grave lhe não couber por força de outra disposição legal.
-    2 - na mesma pena incorre quem, por sua iniciativa ou por ordem de superior, usurpar a função referida no numero anterior para praticar qualquer dos actos aí descritos.
-    3 - considera-se tortura, tratamento cruel, degradante ou desumano, o acto que consista em infligir sofrimento físico ou psicológico agudo, cansaço físico ou psicológico grave ou no emprego de produtos químicos, drogas ou outros meios, naturais ou artificiais, com intenção de perturbar a capacidade de determinação ou a livre manifestação de vontade da vítima.
-    4 - o disposto no número anterior não abrange os sofrimentos inerentes à execução das sanções previstas no n.º 1 ou por ela ocasionados, nem as medidas legais privativas ou restritivas da liberdade.
+Article 243 - Torture and Other Cruel, Degrading or Inhumane Treatments
+1. Whoever, in their role of preventing, prosecuting, investigating, or being aware of criminal, regulatory, or disciplinary offenses, executing sanctions of the same nature, or protecting, guarding, or supervising a detained or imprisoned person, tortures or treats them in a cruel, degrading, or inhumane manner to:
+   a) Obtain from them or another person a confession, testimony, declaration, or information;
+   b) Punish them for an act committed or allegedly committed by them or another person; or
+   c) Intimidate them or another person;
+   is punished with imprisonment from 1 to 5 years if a more severe penalty is not applicable under another legal provision.
+2. The same penalty applies to whoever, on their own initiative or by superior order, usurps the function mentioned in the previous paragraph to commit any of the acts described therein.
+3. Torture, cruel, degrading, or inhumane treatment is considered to be acts inflicting acute physical or psychological suffering, severe physical or psychological exhaustion, or the use of chemical products, drugs, or other means, natural or artificial, with the intent to disturb the determination capacity or the free will of the victim.
+4. The provisions of the previous paragraph do not cover the suffering inherent to the execution of the sanctions provided in paragraph 1 or caused by them, nor the legal measures depriving or restricting freedom.
 
-artigo 244.º - tortura e outros tratamentos cruéis, degradantes ou desumanos graves
-    1 - quem, nos termos e condições referidos no artigo anterior:
-        a) produzir ofensa à integridade física grave;
-        b) empregar meios ou métodos de tortura particularmente graves, designadamente espancamentos, electrochoques, simulacros de execução ou substâncias alucinatórias; ou
-        c) praticar habitualmente actos referidos no artigo anterior;
-        é punido com pena de prisão de 3 a 12 anos.
-    2 - se dos factos descritos neste artigo ou no artigo anterior resultar suicídio ou morte da vítima, o agente é punido com pena de prisão de 8 a 16 anos.
+Article 244 - Severe Torture and Other Cruel, Degrading, or Inhumane Treatments
+1. Whoever, under the terms and conditions referred to in the previous article:
+   a) Inflicts serious physical harm;
+   b) Uses particularly severe methods or means of torture, notably beatings, electric shocks, mock executions, or hallucinatory substances; or
+   c) Habitually commits the acts referred to in the previous article;
+   is punished with imprisonment from 3 to 12 years.
+2. If the acts described in this article or the previous one result in suicide or death of the victim, the agent is punished with imprisonment from 8 to 16 years.
 
-artigo 245.º - omissão de denúncia
-    o superior hierárquico que, tendo conhecimento da prática, por subordinado, de facto descrito nos artigos 243.º ou 244.º, não fizer a denúncia no prazo máximo de 3 dias após o conhecimento, é punido com pena de prisão de 6 meses a 3 anos.
+Article 245 - Failure to Report
+The superior who, knowing of the practice, by a subordinate, of the acts described in Articles 243 or 244, does not report it within a maximum of 3 days after knowing, is punished with imprisonment from 6 months to 3 years.
 
-artigo 246.º - incapacidades
-    quem for condenado por crime previsto nos artigos 240.º e 243.º a 245.º pode, atenta a concreta gravidade do facto e a sua projecção na idoneidade cívica do agente, ser incapacitado para eleger o presidente da república, os deputados à assembleia da república, os deputados ao parlamento europeu, os deputados às assembleias legislativas das regiões autónomas e os titulares dos órgãos das autarquias locais, para ser eleito como tal ou para ser jurado, por período de 2 a 10 anos.
+Article 246 - Disabilities
+Whoever is convicted of a crime under Articles 240 and 243 to 245 may, considering the concrete severity of the act and its impact on the agent's civic integrity, be disqualified from voting for the President of the Republic, Members of Parliament, Members of the European Parliament, Members of the Legislative Assemblies of the Autonomous Regions, and local government bodies, from being elected as such or from serving as a juror, for a period of 2 to 10 years.
