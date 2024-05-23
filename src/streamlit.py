@@ -93,7 +93,7 @@ def main(reload: bool):
     reload_embedings = st.sidebar.checkbox("Reload Embeddings",True)
     llm_model_name = st.sidebar.selectbox("LLM Model Name", ["mistral","llama2","zephyr"],0)
     embedding_model_name = "nomic-embed-text"
-    documents_path = "../Temp"
+    documents_path = "../Evaluation_Temp"
 
     # Check to see if the models available, if not attempt to pull them
     try:
@@ -137,7 +137,7 @@ def main(reload: bool):
             st.write(response)
             end_time = time.time()
             elapsed_time = end_time - start_time
-            st.write(f"Elapsed time: {round(elapsed_time,2)} seconds")  # Display elapsed time
+            #st.write(f"Elapsed time: {round(elapsed_time,2)} seconds")  # Display elapsed time
         st.session_state.messages.append({"role": "assistant", "content": response})
 
 if __name__ == "__main__":
