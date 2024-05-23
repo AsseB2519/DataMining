@@ -22,7 +22,7 @@ def load_documents_into_database(llm_model_name:str, model_name: str, documents_
         Chroma: The Chroma database with loaded documents.
     """
     # Diretoria genérica para outros modelos, e específica para os 3 modelos que vamos testar
-    print(llm_model_name)
+    # print(llm_model_name)
     if llm_model_name in ["llama2","zephyr","mistral"]:
         directory = "../Embeddings_" + llm_model_name
     else:
@@ -50,12 +50,18 @@ def load_documents_into_database(llm_model_name:str, model_name: str, documents_
 def evalute(llm_model_name: str, db: Chroma):
     accuracy_criteria = {
     "accuracy": """
-        Score 1: The answer is completely unrelated to the reference.
-        Score 3: The answer has minor relevance but does not align with the reference.
-        Score 5: The answer has moderate relevance but contains inaccuracies.
-        Score 7: The answer aligns with the reference but has minor errors or omissions.
-        Score 10: The answer is completely accurate and aligns perfectly with the reference."""
+        Score 1: The answer is completely irrelevant or incoherent in relation to the reference.
+        Score 2: The answer is mostly irrelevant, with few or no correct parts.
+        Score 3: The answer has some relevance but is mostly incorrect or out of context.
+        Score 4: The answer has moderate relevance but contains several significant inaccuracies.
+        Score 5: The answer has moderate relevance but contains some notable inaccuracies.
+        Score 6: The answer is generally correct but contains a reasonable number of minor errors or omissions.
+        Score 7: The answer is mostly correct and relevant but contains some minor errors or omissions.
+        Score 8: The answer is very correct and relevant, with only small inaccuracies or omissions.
+        Score 9: The answer is almost entirely accurate and relevant, with only one or two small inaccuracies or omissions.
+        Score 10: The answer is completely accurate and perfectly aligns with the reference, with no errors or omissions."""
     }
+
 
     evaluator = load_evaluator(
         "labeled_score_string",
