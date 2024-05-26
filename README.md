@@ -28,7 +28,7 @@ The LawTalk Project consists of developing a chatbot using Ollama LLM's and the 
 
 ### `docs`: Contains both presentations and the report.
 
-### `Original Files/`: Contains the original PDF files for the Portuguese Penal and Processual Penal Code.
+### `Original Files`: Contains the original PDF files for the Portuguese Penal and Processual Penal Code.
 
 ### `TXT Files`: Contains the files in TXT format extracted from the Original Files.
 
