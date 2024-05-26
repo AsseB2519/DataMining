@@ -16,4 +16,4 @@
 - [Langchain](https://github.com/langchain/langchain): A Python library for working with Large Language Model
 - [Ollama](https://ollama.ai/): A platform for running Large Language models locally.
 - [Chroma](https://docs.trychroma.com/): A vector database for storing and retrieving embeddings.
-- [PyPDF](https://pypi.org/project/PyPDF2/): A Python library for reading and manipulating PDF files.
+- [PDFPlumber]([https://pypi.org/project/PyPDF2/](https://pypi.org/project/pdfplumber/0.1.2/)): A Python library for reading and manipulating PDF files.
