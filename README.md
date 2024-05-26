@@ -26,14 +26,14 @@ The LawTalk Project consists of developing a chatbot using Ollama LLM's and the 
 - **`tesseract.py`**: Contains the code for extracting raw text from PDF files using Tesseract.
 - **`requirements.txt`**: Contains the tools necessary to run the project.
 
-### `docs`: Contains both presentations and the report.
+#### `docs`: Contains both presentations and the report.
 
-### `Original Files`: Contains the original PDF files for the Portuguese Penal and Processual Penal Code.
+#### `Original Files`: Contains the original PDF files for the Portuguese Penal and Processual Penal Code.
 
-### `TXT Files`: Contains the files in TXT format extracted from the Original Files.
+#### `TXT Files`: Contains the files in TXT format extracted from the Original Files.
 
-### `Images`: Contains the images used in the web application of the project.
+#### `Images`: Contains the images used in the web application of the project.
 
-### `Codigo_Penal_Divided`: Contains the Portuguese Penal Code divided in variou PDF files.
+#### `Codigo_Penal_Divided`: Contains the Portuguese Penal Code divided in variou PDF files.
 
-### `Embeddings`: Contains the vector embeddings of the LLM Models.
+#### `Embeddings`: Contains the vector embeddings of the LLM Models.
