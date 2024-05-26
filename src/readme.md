@@ -1,4 +1,6 @@
-## Setup - Install the required Python packages by running `pip install -r requirements.txt` on your virtual environment.
+## Setup :
+1. Create a virtual environment in python.
+2. Install the required Python packages by running `pip install -r requirements.txt` on your virtual environment.
 
 ## Running the Project
 
