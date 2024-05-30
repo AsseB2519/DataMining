@@ -42,7 +42,7 @@ The LawTalk Project consists of developing a chatbot using Ollama LLM's and the 
 
 ### Requirements:
 
-- **Ollama service running:** Run 'ollama start' and 'ollama pull <model_name>' to download the desired model(s).
+- **Ollama service running:** Run **'ollama start'** and **'ollama pull <model_name>'** to download the desired model(s).
 - **Python: 3.11.8**
 - **Required modules:** Run 'pip install -r requirements.txt'
 
