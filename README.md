@@ -37,3 +37,22 @@ The LawTalk Project consists of developing a chatbot using Ollama LLM's and the 
 #### `Codigo_Penal_Divided`: Contains the Portuguese Penal Code divided in variou PDF files.
 
 #### `Embeddings`: Contains the vector embeddings of the LLM Models.
+
+## Running the Application
+
+### Requirements:
+
+- **Ollama service running:** Run 'ollama start' and 'ollama pull <model_name>' to download the desired model(s).
+- **Python: 3.11.8**
+- **Required modules:** Run 'pip install -r requirements.txt'
+
+### Running the app:
+
+- **W/ Streamlit:** In the 'src' directory, run 'streamlit run streamlit.py <args>'
+- **In Terminal:** In the 'src' directory, run 'python3 app.py <args>'
+
+### Arguments:
+
+- **-m <model_name>:** Decide the name of the model(e.g. "-m 'llama2'")
+- **-p <path_directory>:** Customize the path where the files used by the model is(e.g. "-p '../New_Folder'")
+- **-r:** Decide if the embeddings will be reloaded into the database
