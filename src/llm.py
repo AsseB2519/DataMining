@@ -103,6 +103,7 @@ def getChatChain(llm, db):
         inputs = {"question": question}
         result = final_chain.invoke(inputs)
         translated_result = GoogleTranslator(src='en', dest='pt').translate(result["answer"])
+        print(translated_result)
         #translated_result = translate_to_portuguese(result["answer"])
         memory.save_context(inputs, {"answer": translated_result})
         return translated_result

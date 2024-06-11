@@ -24,9 +24,9 @@ def load_documents_into_database(llm_model_name:str, model_name: str, documents_
     # Diretoria genérica para outros modelos, e específica para os 3 modelos que vamos testar
     # print(llm_model_name)
     if llm_model_name in ["llama2","zephyr","mistral"]:
-        directory = "../Embeddings_" + llm_model_name
+        directory = "../Embeddings/Embeddings_" + llm_model_name
     else:
-        directory = "../Embeddings"
+        directory = "../Embeddings/Embeddings"
         
     print("Loading documents")
     raw_documents = load_documents(documents_path)

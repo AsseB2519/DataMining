@@ -16,13 +16,29 @@ class PDF(FPDF):
         self.set_margins(8, 8, 8)  # Smaller margins: left, top, right
         self.multi_cell(0, 5, body)  # Adjusted line height for smaller text
 
+def chunk_text(text, chunk_size):
+    # Split text into chunks of 'chunk_size'
+    for start in range(0, len(text), chunk_size):
+        yield text[start:start + chunk_size]
+
+def translate_text(text, source_language, target_language):
+    translator = GoogleTranslator(source=source_language, target=target_language)
+    translated_text = ""
+    index = 1
+    for chunk in chunk_text(text, 4000):  # Google Translate API has a 5000 character limit per request
+        print(index)
+        index+=1
+        translated_chunk = translator.translate(chunk)
+        translated_text += translated_chunk
+    return translated_text
+
 def text_to_pdf(text_file, pdf_file):
     pdf = PDF()
     pdf.add_page()
     
     with open(text_file, 'r', encoding='utf-8') as file:
         text = file.read()
-        translated_text = GoogleTranslator(src='pt', dest='en').translate(text)
+        translated_text = translate_text(text, 'pt', 'en')  # Translating from Portuguese to English
         print(text)
         print("-" * 50)
         print(translated_text)
@@ -33,8 +49,11 @@ def text_to_pdf(text_file, pdf_file):
     pdf.output(pdf_file)
     print(f'{pdf_file} created successfully.')
 
+# Example usage
+# text_to_pdf('input.txt', 'output.pdf')
+
 if __name__ == "__main__":
     # Example usage
-    input_text_file = '../TXT Files Processed/Codigo_Penal_Divided_Parte_4.txt'
-    output_pdf_file = '../Final PDF Files/Codigo_Penal_Divided_Parte_4.pdf'
+    input_text_file = '../TXT Files Processed/Codigo_Penal_Divided_Parte_2.txt'
+    output_pdf_file = '../Final PDF Files/Codigo_Penal_Divided_Parte_2.pdf'
     text_to_pdf(input_text_file, output_pdf_file)

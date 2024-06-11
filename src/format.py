@@ -52,14 +52,14 @@ def format_text(text):
 if __name__ == "__main__":
     # Read the text from the input file
     
-    with open('../TXT Files/Codigo_Penal_Divided_Parte_4.txt', 'r', encoding='utf-8') as file:
+    with open('../TXT Files/Codigo_Penal_Divided_Parte_2.txt', 'r', encoding='utf-8') as file:
         text = file.read()
 
     # Format the text
     formatted_text = format_text(text)
 
     # Write the formatted text to a new file
-    with open("../TXT Files Processed/Codigo_Penal_Divided_Parte_4.txt", 'w', encoding='utf-8') as file:
+    with open("../TXT Files Processed/Codigo_Penal_Divided_Parte_2.txt", 'w', encoding='utf-8') as file:
         file.write(formatted_text)
 
-    print("Text formatting complete. Check the 'Formatted_Codigo_Penal_Parte_4.txt' file.")
+    print("Text formatting complete. Check the 'Formatted_Codigo_Penal_Parte_2.txt' file.")
