@@ -35,6 +35,6 @@ def text_to_pdf(text_file, pdf_file):
 
 if __name__ == "__main__":
     # Example usage
-    input_text_file = '../TXT Files/Caso_Pratico_CPP.txt'
-    output_pdf_file = '../Final PDF Files/output.pdf'
+    input_text_file = '../TXT Files Processed/Codigo_Penal_Divided_Parte_4.txt'
+    output_pdf_file = '../Final PDF Files/Codigo_Penal_Divided_Parte_4.pdf'
     text_to_pdf(input_text_file, output_pdf_file)

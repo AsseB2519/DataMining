@@ -1,96 +1,47 @@
 
-determinados na lei, necessitar da força interventora do direito penal, que apesar de tudo, tem de ser entendida, tornar-se a
-dizer, como ultima ratio.
-35. ainda no domínio deste título sublinhe-se a consagração de um capítulo especial relativo aos chamados «crimes contra o
-sector público ou cooperativo agravados pela qualidade do agente». visa-se, assim, proteger penalmente um vasto sector da
-economia nacional mas não tolher os movimentos dos responsáveis que os representam.
-sabe-se que a vida económica se baseia, muitas vezes, em decisões rápidas que envolvem riscos, mas que têm de ser tomadas
-sob pena de a omissão ser mais prejudicial que o eventual insucesso da decisão anteriormente assumida. daí que não seja
-punível o acto decisório que, pelo jogo combinado de circunstâncias aleatórias, provoca prejuízos, mas só aquelas condutas
-intencionais que levam à produção de resultados desastrosos. conceber de modo diferente seria nefasto - as experiências estão
-feitas - e obstaria a que essas pessoas de melhores e reconhecidos méritos receassem assumir lugares de chefia naqueles
-sectores da vida económica nacional.
-36. para finalizar diga-se que nos crimes contra o estado o ponto saliente reside na mais correcta e cuidada definição objectiva e
-subjectiva dos elementos que constituem cada um dos diferentes tipos legais de crime que este título encerra. por outro lado,
-fundamentalmente, no que se refere aos crimes contra a segurança interna do estado, o bem jurídico que se protege é o da
-ordem democrática constitucional. desta forma, o bem jurídico não se dilui na própria noção de estado, antes se concretiza no
-valor que este, para a sua prossecução, visa salvaguardar.
-livro i
-parte geral
-título i
-da lei criminal
-capítulo único
-princípios gerais
-artigo 1.º
-princípio da legalidade
-1 - só pode ser punido criminalmente o facto descrito e declarado passível de pena por lei anterior ao momento da sua prática.
-2 - a medida de segurança só pode ser aplicada a estados de perigosidade cujos pressupostos estejam fixados em lei anterior
-ao seu preenchimento.
-3 - não é permitido o recurso à analogia para qualificar um facto como crime, definir um estado de perigosidade ou determinar
-a pena ou medida de segurança que lhes corresponde.
-artigo 2.º
-aplicação no tempo
-1 - as penas e as medidas de segurança são determinadas pela lei vigente no momento da prática do facto ou do
-preenchimento dos pressupostos de que dependem.
-2 - o facto punível segundo a lei vigente no momento da sua prática deixa de o ser se uma lei nova o eliminar do número das
-infracções; neste caso, e se tiver havido condenação, ainda que transitada em julgado, cessam a execução e os seus efeitos
-penais.
-3 - quando a lei valer para um determinado período de tempo, continua a ser punível o facto praticado durante esse período.
-4 - quando as disposições penais vigentes no momento da prática do facto punível forem diferentes das estabelecidas em leis
-posteriores, é sempre aplicado o regime que concretamente se mostrar mais favorável ao agente; se tiver havido condenação,
-ainda que transitada em julgado, cessam a execução e os seus efeitos penais logo que a parte da pena que se encontrar
-cumprida atinja o limite máximo da pena prevista na lei posterior.
-artigo 3.º
-momento da prática do facto
-o facto considera-se praticado no momento em que o agente actuou ou, no caso de omissão, deveria ter actuado,
-independentemente do momento em que o resultado típico se tenha produzido.
-artigo 4.º
-aplicação no espaço: princípio geral
-salvo tratado ou convenção internacional em contrário, a lei penal portuguesa é aplicável a factos praticados:
-a) em território português, seja qual for a nacionalidade do agente; ou
-b) a bordo de navios ou aeronaves portugueses.
-artigo 5.º
-factos praticados fora do território português
-1 - salvo tratado ou convenção internacional em contrário, a lei penal portuguesa é ainda aplicável a factos cometidos fora do
-território nacional:
-a) quando constituírem os crimes previstos nos artigos 221.º, 262.º a 271.º, 308.º a 321.º, 325.º a 334.º, 336.º a 345.º;
-b) contra portugueses, por portugueses que viverem habitualmente em portugal ao tempo da sua prática e aqui forem
-encontrados.
-c) quando constituírem os crimes previstos nos artigos 144.º-a, 144.º-b, 154.º-b e 154.º-c, 159.º a 161.º, 278.º a 280.º, 335.º,
-372.º a 374.º, desde que o agente seja encontrado em portugal e não possa ser extraditado ou entregue em resultado de
-execução de mandado de detenção europeu ou de outro instrumento de cooperação internacional que vincule o estado
-português;
-d) quando constituírem os crimes previstos nos artigos 171.º, 172.º, 174.º, 175.º e 176.º a 176.º-b e, sendo a vítima menor, os
-crimes previstos nos artigos 144.º, 163.º e 164.º:
-i) desde que o agente seja encontrado em portugal e não possa ser extraditado ou entregue em resultado de execução de
-mandado de detenção europeu ou de outro instrumento de cooperação internacional que vincule o estado português; ou
-ii) quando cometidos por portugueses ou por quem resida habitualmente em portugal; ou
-iii) contra menor que resida habitualmente em portugal;
-e) por portugueses, ou por estrangeiros contra portugueses, sempre que:
-i) os agentes forem encontrados em portugal;
-ii) forem também puníveis pela legislação do lugar em que tiverem sido praticados, salvo quando nesse lugar não se exercer
-poder punitivo; e
-iii) constituírem crime que admita extradição e esta não possa ser concedida ou seja decidida a não entrega do agente em
-execução de mandado de detenção europeu ou de outro instrumento de cooperação internacional que vincule o estado
-português;
-f) por estrangeiros que forem encontrados em portugal e cuja extradição haja sido requerida, quando constituírem crimes que
-admitam a extradição e esta não possa ser concedida ou seja decidida a não entrega do agente em execução de mandado de
-detenção europeu ou de outro instrumento de cooperação internacional que vincule o estado português;
-g) por pessoa colectiva ou contra pessoa colectiva que tenha sede em território português.
-2 - a lei penal portuguesa é ainda aplicável a factos cometidos fora do território nacional que o estado português se tenha
-obrigado a julgar por tratado ou convenção internacional.
-artigo 6.º
-restrições à aplicação da lei portuguesa
-1 - a aplicação da lei portuguesa a factos praticados fora do território nacional só tem lugar quando o agente não tiver sido
-julgado no país da prática do facto ou se houver subtraído ao cumprimento total ou parcial da condenação.
-2 - embora seja aplicável a lei portuguesa, nos termos do número anterior, o facto é julgado segundo a lei do país em que tiver
-sido praticado sempre que esta seja concretamente mais favorável ao agente. a pena aplicável é convertida naquela que lhe
-corresponder no sistema português, ou, não havendo correspondência directa, naquela que a lei portuguesa previr para o facto.
-3 - o regime do número anterior não se aplica aos crimes previstos nas alíneas a) e b) do n.º 1 do artigo anterior.
-artigo 7.º
-lugar da prática do facto
-1 - o facto considera-se praticado tanto no lugar em que, total ou parcialmente, e sob qualquer forma de comparticipação, o
-agente actuou, ou, no caso de omissão, devia ter actuado, como naquele em que o resultado típico ou o resultado não
-compreendido no tipo de crime se tiver produzido.
-2 - no caso de tentativa, o facto considera-se igualmente praticado no lugar em que, de acordo com a representação do agente,
-o resultado se deveria ter produzido.
+Este ficheiro corresponde ao livro 1, titulo 1 (da lei criminal) do código penal de portugal.
+
+artigo 1.º - Princípio da legalidade:
+1 - Só pode ser punido criminalmente o facto descrito e declarado passível de pena por lei anterior ao momento da sua prática.
+2 - A medida de segurança só pode ser aplicada a estados de perigosidade cujos pressupostos estejam fixados em lei anterior ao seu preenchimento.
+3 - Não é permitido o recurso à analogia para qualificar um facto como crime, definir um estado de perigosidade ou determinar a pena ou medida de segurança que lhes corresponde.
+
+artigo 2.º - Aplicação no tempo:
+1 - As penas e as medidas de segurança são determinadas pela lei vigente no momento da prática do facto ou do preenchimento dos pressupostos de que dependem.
+2 - O facto punível segundo a lei vigente no momento da sua prática deixa de o ser se uma lei nova o eliminar do número das infrações; neste caso, e se tiver havido condenação, ainda que transitada em julgado, cessam a execução e os seus efeitos penais.
+3 - Quando a lei valer para um determinado período de tempo, continua a ser punível o facto praticado durante esse período.
+4 - Quando as disposições penais vigentes no momento da prática do facto punível forem diferentes das estabelecidas em leis posteriores, é sempre aplicado o regime que concretamente se mostrar mais favorável ao agente; se tiver havido condenação, ainda que transitada em julgado, cessam a execução e os seus efeitos penais logo que a parte da pena que se encontrar cumprida atinja o limite máximo da pena prevista na lei posterior.
+
+artigo 3.º - Momento da prática do facto:
+O facto considera-se praticado no momento em que o agente atuou ou, no caso de omissão, deveria ter atuado, independentemente do momento em que o resultado típico se tenha produzido.
+
+artigo 4.º - Aplicação no espaço: Princípio geral:
+Salvo tratado ou convenção internacional em contrário, a lei penal portuguesa é aplicável a factos praticados:
+    a) Em território português, seja qual for a nacionalidade do agente; ou
+    b) A bordo de navios ou aeronaves portugueses.
+
+artigo 5.º - Factos praticados fora do território português:
+1 - Salvo tratado ou convenção internacional em contrário, a lei penal portuguesa é ainda aplicável a factos cometidos fora do território nacional:
+    a) Quando constituírem os crimes previstos nos artigos 221.º, 262.º a 271.º, 308.º a 321.º, 325.º a 334.º, 336.º a 345.º;
+    b) Contra portugueses, por portugueses que viverem habitualmente em Portugal ao tempo da sua prática e aqui forem encontrados.
+    c) Quando constituírem os crimes previstos nos artigos 144.º-a, 144.º-b, 154.º-b e 154.º-c, 159.º a 161.º, 278.º a 280.º, 335.º, 372.º a 374.º, desde que o agente seja encontrado em Portugal e não possa ser extraditado ou entregue em resultado de execução de mandado de detenção europeu ou de outro instrumento de cooperação internacional que vincule o estado português;
+    d) Quando constituírem os crimes previstos nos artigos 171.º, 172.º, 174.º, 175.º e 176.º a 176.º-b e, sendo a vítima menor, os crimes previstos nos artigos 144.º, 163.º e 164.º:
+        i) Desde que o agente seja encontrado em Portugal e não possa ser extraditado ou entregue em resultado de execução de mandado de detenção europeu ou de outro instrumento de cooperação internacional que vincule o estado português; ou
+        ii) Quando cometidos por portugueses ou por quem resida habitualmente em Portugal; ou
+        iii) Contra menor que resida habitualmente em Portugal;
+    e) Por portugueses, ou por estrangeiros contra portugueses, sempre que:
+        i) Os agentes forem encontrados em Portugal;
+        ii) Forem também puníveis pela legislação do lugar em que tiverem sido praticados, salvo quando nesse lugar não se exercer poder punitivo; e
+        iii) Constituírem crime que admita extradição e esta não possa ser concedida ou seja decidida a não entrega do agente em execução de mandado de detenção europeu ou de outro instrumento de cooperação internacional que vincule o estado português;
+    f) Por estrangeiros que forem encontrados em Portugal e cuja extradição haja sido requerida, quando constituírem crimes que admitam a extradição e esta não possa ser concedida ou seja decidida a não entrega do agente em execução de mandado de detenção europeu ou de outro instrumento de cooperação internacional que vincule o estado português;
+    g) Por pessoa coletiva ou contra pessoa coletiva que tenha sede em território português.
+2 - A lei penal portuguesa é ainda aplicável a factos cometidos fora do território nacional que o estado português se tenha obrigado a julgar por tratado ou convenção internacional.
+
+artigo 6.º - Restrições à aplicação da lei portuguesa:
+1 - A aplicação da lei portuguesa a factos praticados fora do território nacional só tem lugar quando o agente não tiver sido julgado no país da prática do facto ou se houver subtraído ao cumprimento total ou parcial da condenação.
+2 - Embora seja aplicável a lei portuguesa, nos termos do número anterior, o facto é julgado segundo a lei do país em que tiver sido praticado sempre que esta seja concretamente mais favorável ao agente. A pena aplicável é convertida naquela que lhe corresponder no sistema português, ou, não havendo correspondência direta, naquela que a lei portuguesa previr para o facto.
+3 - O regime do número anterior não se aplica aos crimes previstos nas alíneas a) e b) do n.º 1 do artigo anterior.
+
+artigo 7.º - Lugar da prática do facto:
+1 - O facto considera-se praticado tanto no lugar em que, total ou parcialmente, e sob qualquer forma de comparticipação, o agente atuou, ou, no caso de omissão, devia ter atuado, como naquele em que o resultado típico ou o resultado não compreendido no tipo de crime se tiver produzido.
+2 - No caso de tentativa, o facto considera-se igualmente praticado no lugar em que, de acordo com a representação do agente, o resultado se deveria ter produzido.

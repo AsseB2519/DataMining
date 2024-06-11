@@ -32,7 +32,7 @@ def format_text(text):
                 apply_next_line = True
             elif stripped_line[0].isdigit():
                 indent_level = 4
-            elif stripped_line.startswith('a)') or stripped_line.startswith('b)') or stripped_line.startswith('c)'):
+            elif stripped_line.startswith('a)') or stripped_line.startswith('b)') or stripped_line.startswith('c)') or stripped_line.startswith('d)') or stripped_line.startswith('e)') or stripped_line.startswith('f)') or stripped_line.startswith('g)')  or stripped_line.startswith('i)') or stripped_line.startswith('ii)') or stripped_line.startswith('iii)'):
                 indent_level = 5
             else:
                 indent_level = 0
@@ -52,14 +52,14 @@ def format_text(text):
 if __name__ == "__main__":
     # Read the text from the input file
     
-    with open('Codigo_Penal_Divided/Codigo_Penal_Divided_Parte_6.txt', 'r', encoding='utf-8') as file:
+    with open('../TXT Files/Codigo_Penal_Divided_Parte_4.txt', 'r', encoding='utf-8') as file:
         text = file.read()
 
     # Format the text
     formatted_text = format_text(text)
 
     # Write the formatted text to a new file
-    with open("output.txt", 'w', encoding='utf-8') as file:
+    with open("../TXT Files Processed/Codigo_Penal_Divided_Parte_4.txt", 'w', encoding='utf-8') as file:
         file.write(formatted_text)
 
-    print("Text formatting complete. Check the 'Formatted_Codigo_Penal_Parte_6.txt' file.")
+    print("Text formatting complete. Check the 'Formatted_Codigo_Penal_Parte_4.txt' file.")

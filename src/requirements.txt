@@ -6,3 +6,4 @@ ollama==0.1.7
 tqdm==4.66.1
 streamlit==1.34.0
 translate=3.6.1
+deep_translate==1.11.4

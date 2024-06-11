@@ -1,5 +1,5 @@
 from operator import itemgetter
-from translate import Translator
+from deep_translator import GoogleTranslator
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain.memory import ConversationBufferMemory
 from langchain_core.prompts import ChatPromptTemplate
@@ -90,19 +90,20 @@ def getChatChain(llm, db):
 
 
 
-    def translate_to_portuguese(text):
-        translator = Translator(to_lang="pt-pt")
-        max_chunk_size = 500  # Define the maximum chunk size
-        chunks = [text[i:i + max_chunk_size] for i in range(0, len(text), max_chunk_size)]
-        translated_chunks = [translator.translate(chunk) for chunk in chunks]
-        translation = ''.join(translated_chunks)
-        return translation
+    #def translate_to_portuguese(text):
+    #    translator = Translator(to_lang="pt-pt")
+    #    max_chunk_size = 500  # Define the maximum chunk size
+    #    chunks = [text[i:i + max_chunk_size] for i in range(0, len(text), max_chunk_size)]
+    #    translated_chunks = [translator.translate(chunk) for chunk in chunks]
+    #    translation = ''.join(translated_chunks)
+    #    return translation
 
 
     def chat(question: str):
         inputs = {"question": question}
         result = final_chain.invoke(inputs)
-        translated_result = translate_to_portuguese(result["answer"])
+        translated_result = GoogleTranslator(src='en', dest='pt').translate(result["answer"])
+        #translated_result = translate_to_portuguese(result["answer"])
         memory.save_context(inputs, {"answer": translated_result})
         return translated_result
 
