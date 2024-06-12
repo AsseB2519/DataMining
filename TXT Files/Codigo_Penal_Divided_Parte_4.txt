@@ -1,4 +1,3 @@
-
 Este ficheiro corresponde ao livro 1, titulo 1 (da lei criminal) do código penal de portugal.
 
 artigo 1.º - Princípio da legalidade:
@@ -45,3 +44,8 @@ artigo 6.º - Restrições à aplicação da lei portuguesa:
 artigo 7.º - Lugar da prática do facto:
 1 - O facto considera-se praticado tanto no lugar em que, total ou parcialmente, e sob qualquer forma de comparticipação, o agente atuou, ou, no caso de omissão, devia ter atuado, como naquele em que o resultado típico ou o resultado não compreendido no tipo de crime se tiver produzido.
 2 - No caso de tentativa, o facto considera-se igualmente praticado no lugar em que, de acordo com a representação do agente, o resultado se deveria ter produzido.
+
+artigo 8.º - Aplicação subsidiária do código penal
+As disposições deste diploma são aplicáveis aos factos puníveis pelo direito penal militar e da marinha mercante e pela restante legislação de carácter especial, salvo disposição em contrário.
+artigo 9.º - Disposições especiais para jovens
+Aos maiores de 16 anos e menores de 21 são aplicáveis normas fixadas em legislação especial.
