@@ -1,164 +1,24 @@
+Este ficheiro corresponde à introdução, parte geral e parte especial do código penal de portugal.
 
-c) com a notificação do despacho de pronúncia ou equivalente;
-d) com a marcação do dia para o julgamento no processo de ausentes.
-artigo 12.º
-o disposto no n.º 4 do artigo 61.º apenas se aplica às penas por crimes cometidos após a entrada em vigor do código penal.
-artigo 13.º
-o código penal revisto e o presente decreto-lei entram em vigor em 1 de outubro de 1995.
-código penal
-i
-introdução (*)
-1. o presente código penal baseia-se fundamentalmente nos projectos elaborados em 1963 («parte geral») e em 1966 («parte
-especial»), da autoria de eduardo correia.
-aquele texto («parte geral»), correspondendo a uma visão unitária, coerente, marcadamente humanista e em muitos aspectos
-profundamente inovadora, foi saudado pelos mais proeminentes cultores da ciência do direito penal nacional e estrangeira.
-destes salientem-se, a título exemplificativo, os nomes de hans-heinrich jescheck, presidente da associação internacional de
-direito penal, marc ancel, presidente da sociedade internacional de defesa social, e pierre canat.
-pena foi que não tivesse sido mais rápida a aprovação desse projecto, pois muitas das suas disposições teriam um carácter
-altamente precursor - relativamente ao direito alemão e a outros projectos estrangeiros -, colocando-nos assim, como escrevia
-canat, «à la pointe même du progrès».
-cumpre desde já dizer que, contrariamente àquilo que poderá parecer, mercê de análise menos reflectida, o diploma, quer na
-forma, quer no conteúdo das suas prescrições, não se afasta do que verdadeiramente de vivo há na tradição jurídico-penal
-portuguesa, antes justamente o consagra. e isso mesmo parece ter sido compreendido e aceite pelas várias comissões de
-revisão que sobre o projecto tiveram oportunidade de se pronunciar, em vários tempos e em diferentes enquadramentos
-políticos, mas sempre compostas por homens - do mais variado cariz político e profissional - que se preocuparam e se
-preocupam com as coisas do direito penal.
-no entanto, e não obstante todo o esforço desenvolvido, o projecto inicial passou por várias vicissitudes, nunca tendo
-encontrado o espaço político necessário à sua consagração legal. a este facto não será estranho o fim e textura do próprio
-sistema punitivo do código, que assenta, adianta-se, em coordenadas que mal caberiam nos quadros de uma compreensão
-marcadamente repressiva.
-a necessidade de fazer uma adequação da legislação ordinária ao novo espírito legislativo resultante do 25 de abril fez com que
-o último governo provisório fomentasse a ideia de tornar o projecto em viva realidade normativa de que o país tanto carecia. tal
-impulso não esmoreceu, bem ao contrário, na vigência do i governo constitucional. neste espírito, foi constituída uma comissão
-revisora, cujo trabalho serviu de base à proposta de lei n.º 117/i (diário da assembleia da república, suplemento ao n.º 136, de
-28 de julho de 1977). contudo, por razões da nossa história presente, bem conhecidas de todos, a assembleia da república não
-apreciou a mencionada proposta de lei.
-na vigência do iv governo constitucional tentou-se decididamente realizar todo o plano arquitectural do ordenamento penal
-português. novamente foi apresentada uma proposta de lei (relativa à «parte geral») à assembleia da república, absolutamente
-coincidente com a enviada pelo i governo constitucional. no que toca à «parte especial», foi esta também revista no ministério
-da justiça, resultando do seu trabalho um articulado que igualmente se enviou à assembleia da república, sob a conveniente
-forma de proposta de lei.
-todavia, aquele não foi o momento propício da cena política portuguesa para se encontrar o mínimo de consenso sempre
-necessário às grandes empresas legislativas. porém, exprima-se lateralmente, muitas das traves mestras de um movimento
-legislativo mais vasto foram então lançadas. nesta esteira, publicaram-se dois diplomas legislativos de forte incidência prática e
-dogmática na estrutura global do sistema penal português: o da reforma da organização prisional (decreto-lei n.º 265/79, de 1
-de agosto) e o direito de mera ordenação social (decreto-lei n.º 232/79, de 24 de julho). integrando aquele movimento,
-apresentou-se ainda uma proposta de lei concernente à «legislação especial aplicável a jovens delinquentes dos 16 aos 21
-anos».
-mas, se muito já foi feito, é indiscutível que falta consagrar o essencial, isto é, o código penal - partes geral e especial. nisto se
-empenhou profundamente o actual governo, que, depois de ter nomeado nova comissão de revisão, apresenta agora um
-diploma que, sem se afastar dos parâmetros dos projectos anteriores, sofre algumas importantes modificações que o tempo, a
-reflexão e as novas orientações doutrinais exigiam. preparado está também o diploma sobre a recuperação social, condição
-essencial da realização da filosofia do código penal.
-não deixará de se recordar, por fim, que o código, cuja vigência agora cessa, constituiu também, no seu tempo, um significativo
-avanço em relação à ciência criminal da época, o que terá contribuído para que ele conservasse, fundamentalmente, a sua
-estrutura inicial, a despeito das sucessivas alterações impostas por uma realidade criminológica em constante mutação.
-(*) introdução constante do decreto-lei n.º 400/82, de 23 de setembro.
-ii
-parte geral
-2. um dos princípios basilares do diploma reside na compreensão de que toda a pena tem de ter como suporte axiológico-
-normativo uma culpa concreta. o princípio nulla poena sine culpa, combatido ultimamente em certos quadrantes do
-pensamento jurídico-penal, embora mais, ou quase exclusivamente, contra a vertente que considera a culpa como fundamento
-da pena, ganhou o voto unânime de todas as forças políticas representadas no parlamento alemão, quando se procedeu à
-apreciação dos grandes princípios orientadores da reforma daquele sistema penal. acrescente-se que mesmo os autores que
-dão uma maior tónica à prevenção geral aceitam inequivocamente a culpa como limite de pena. e mais. podemos dizer, sem
-querer entrar em pormenores, que ele corresponde, independentemente da perspectiva em que se coloque o investigador, a
-uma larga e profunda tradição cultural portuguesa e europeia.
-no entanto, o atribuir-se à pena um conteúdo de reprovação ética não significa que se abandonem as finalidades da prevenção
-geral e especial nem, muito menos, que se sugira o alheamento da recuperação do delinquente. quanto à prevenção geral,
-sabemos que não há verdadeira antinomia entre esta finalidade e a culpa, já que, através da mediação axiológica que o direito
-penal exige a todos os membros da comunidade jurídica, se ergue, deste modo, a barreira inibidora da pena. contudo, a sua
-força dissuasora não nasce tanto da sua realidade heterónoma, mas antes da própria autonomia do agente, que sabe ser a
-definição daquela pena fruto da participação, num determinado momento histórico, de toda a comunidade, ainda que filtrada
-pelos órgãos constitucionalmente competentes.
-a esta luz, não será, pois, difícil de ver que também a tónica da prevenção especial só pode ganhar sentido e eficácia se houver
-uma participação real, dialogante e efectiva do delinquente. e esta só se consegue fazendo apelo à sua total autonomia,
-liberdade e responsabilidade.
-é, na verdade, da conjugação do papel interveniente das instâncias auxiliares da execução das penas privativas de liberdade e do
-responsável e autónomo empenhamento do delinquente que se poderão encontrar os meios mais adequados a evitar a
-reincidência.
-não se abandona o delinquente à pura expiação em situação de isolamento - cujos efeitos negativos estão cabalmente
-demonstrados - nem se permite que a administração penitenciária caia em estéreis omissões e empregue pedagogias por cujos
-valores o delinquente, muitas vezes, não se sente motivado nem, o que é mais grave, reconhece neles qualquer forma de
-comparticipação. sabe-se que, na essência, o equilíbrio entre estes dois vectores nem sempre é fácil de alcançar, a que se junta a
-rigidez das penas institucionais. no sentido de superar esta visão tradicional, o presente diploma consagra, articulada e
-coerentemente, um conjunto de medidas não institucionais que facilita e potencia, sobremaneira, aquele desejado encontro de
-vontades. verifica-se a assunção conscienciosa daquilo a que a nova sociologia do comportamento designa por
-desdramatização do ritual e obrigam-se as instâncias de execução da pena privativa de liberdade a serem co-responsáveis no
-êxito ou fracasso reeducativo e ressocializador. pensa-se ser esta uma das formas que mais eficazmente pode levar à
-reintegração do delinquente na sociedade. acrescenta-se que toda a nova compreensão de encarar a panóplia punitiva já está
-noutros países fortemente implantada com resultados satisfatórios.
-pelo menos num determinado estádio de desenvolvimento das estruturas económicas, tais medidas mostram-se altamente
-operatórias num tipo de sociedade cujo denominador comum se assemelha ao padrão do nosso viver quotidiano.
-3. por outro lado, sabe-se que o princípio da culpa, tal como está pressuposto no diploma, implica que medidas de segurança
-privativas da liberdade só existirão para os inimputáveis. a solução do problema dos chamados «imputáveis perigosos» é
-fundadamente conseguida pela introdução da pena relativamente indeterminada. deste jeito, satisfaz-se a unidade
-compreensiva do diploma e dá-se resposta aos anseios legítimos - tanto mais legítimos quando se vive num estado democrático
-- da comunidade jurídica, de ver protegido o valor da segurança, que, como facilmente também se depreenderá, só deverá ser
-honrado nos casos especialmente consagrados na lei. e não pode deixar de ser assim porque os homens a que este diploma se
-dirige são compreendidos como estruturas «abertas» e dialogantes capazes de assumirem a sua própria liberdade. por outras
-palavras, eles serão sempre um prius, nunca um posterius.
-4. característico de toda a filosofia deste diploma é o modo como se consagra a problemática do erro. na verdade, este ponto
-pode perspectivar-se como charneira de toda a problemática da culpa, já que é nele - quer se considere o erro sobre as
-circunstâncias do facto (artigo 16.º) quer o erro sobre a ilicitude (artigo 17.º) - que o direito penal encontra o verdadeiro sentido
-para ser considerado como direito penal da culpa. torna-se assim evidente, à luz deste diploma, que o agente só pode merecer
-um juízo de censura ética se tiver actuado com consciência da ilicitude do facto. porém, se tiver agido sem consciência da
-ilicitude e se o erro lhe for censurável, o agente «será punido com a pena aplicável ao crime doloso respectivo, que pode ser
-especialmente atenuada» (artigo 17.º, n.º 2). ficam, deste modo, protegidos não só determinados fins da prevenção, como
-também o valor que todo o direito prossegue: a ideia de justiça.
-5. não se desconhece que, amiúde, a fronteira entre o imputável e o inimputável é extremamente difícil de traçar.
-daí a urgência da adopção de um critério que rigorosamente seriasse as várias hipóteses pela aferição das quais o agente da
-infracção pudesse ser considerado imputável ou inimputável. neste horizonte, o diploma faz apelo a um critério biopsicológico
-integrado por componentes de nítido matiz axiológico, é dizer, «a comprovada incapacidade do agente para ser influenciado
-pelas penas» (artigo 20.º). é, pois, necessário, para o agente ser considerado imputável, que consiga determinar-se pelas penas.
-facto demonstrativo não só da criteriosa integração do elemento de valoração ética, mas também de carregado afloramento da
-tradição correccionalista portuguesa, manifestando-se assim, neste ponto, como noutros, a inconsequência daqueles que julgam
-que o código se não funda em raízes culturais portuguesas. para além disso, ao admitir-se um vasto domínio para a
-inimputabilidade devido à definição de critérios que se afastam do mais rígido pensamento da culpa, permitir-se-á aos mais
-reticentes na aceitação deste princípio a construção de um modelo baseado numa ideia que desliza para a responsabilidade
-social mitigada.
-6. outra questão particularmente importante neste domínio é a aceitação de que os imputáveis maiores de 16 anos e menores
-de 21 anos são merecedores de legislação especial, a que atrás se fez referência. esta ideia corresponde, por um lado, à
-consciencialização do que há de arbitrário - mas não intrinsecamente injusto - na determinação de certa idade como limite
-formal para distinguir o imputável do inimputável. é justamente para atenuar os efeitos deste corte dogmático e praticamente
-imprescindível que se vê com bons olhos um direito de jovens imputáveis que vise paredes meias, nos princípios e nas medidas
-protectivas e reeducadoras, os fins do direito de menores. mas, se esta seria, já por si, uma razão que levaria ao acatamento
-legislativo daquele direito para jovens imputáveis, outras motivações e razões mais arreigam a nossa convicção. salientem-se
-não só as que decorrem dos efeitos menos estigmatizantes que este direito acarreta como também - em conexão com aquelas
-sequelas e no seio deste ramo de direito - a maior capacidade de ressocialização do jovem que se abre ainda para zonas não
-traumatizadas, como tal perfeitamente lúcido e compreensivo às solicitações justas e adequadas da ordem jurídica;
-7. o código traça um sistema punitivo que arranca do pensamento fundamental de que as penas devem sempre ser executadas
-com um sentido pedagógico e ressocializador. simplesmente, a concretização daquele objectivo parece comprometida pela
-existência da própria prisão. daí todo o conjunto de medidas não institucionais que já foram mencionadas noutro contexto.
-medidas que, embora não determinem a perda da liberdade física, importam sempre uma intromissão mais ou menos profunda
-na condução da vida dos delinquentes. por outro lado, não obstante essas reacções penais não detentivas funcionarem como
-medidas de substituição, não podem ser vistas como formas de clemência legislativa, mas como autênticas medidas de
-tratamento bem definido, com uma variedade de regimes aptos a dar adequada resposta a problemas específicos de certas
-zonas da delinquência.
-todavia, é evidente que o combate às penas institucionais correria o risco de insucesso se o código se limitasse a enunciar as
-medidas substitutivas, sem fornecer, simultaneamente, o critério geral orientador da escolha das penas. a isso visa o artigo 71.º:
-impondo ao tribunal que dê preferência fundamentada à pena não privativa da liberdade «sempre que ela se mostre suficiente
-para promover a recuperação social do delinquente e satisfaça as exigências de reprovação e prevenção do crime». isto é,
-aceita-se a existência da pena de prisão como pena principal para os casos mais graves, mas o diploma afirma claramente que o
-recurso às penas privativas de liberdade só será legítimo quando, face às circunstâncias do caso, se não mostrarem adequadas
-as reacções penais não detentivas.
-8. não se esgotam, porém, no conteúdo do artigo 71.º, os poderes concedidos ao juiz para, através da escolha e graduação da
-pena, alcançar a justa punição do agente e a realização do objectivo geral da prevenção do crime pelo tratamento do
-condenado.
-deste modo, prevê-se uma atenuação especial da pena nos casos em que circunstâncias anteriores ou posteriores ao crime, ou
-contemporâneas dele, diminuam por forma acentuada a ilicitude do facto ou a culpa do agente (artigo 73.º) ou quando ela
-conduzir à substituição da prisão por «prisão por dias livres» ou pela pena de multa (artigo 74.º).
-mas o código consagra duas importantes inovações nesta matéria. na verdade, «pode o tribunal não aplicar qualquer pena se a
-culpa do agente for diminuta, o dano tiver sido reparado e a tal se não opuserem as exigências da recuperação do delinquente e
-da prevenção geral» (artigo 75.º, n.º 1). além disso, permite-se que, nos casos em que não estejam ainda cabalmente realizados
-aqueles pressupostos, o juiz possa não proferir a sentença, adiando-a para um momento posterior, na esperança de que o
-comportamento do delinquente, a reparação próxima do dano ou a confirmação da falta de especiais exigências de prevenção
-venham a justificar a dispensa de pena (artigo 75.º, n.º 2).
-com tais medidas - que o comité de ministros do conselho da europa recomenda em resolução de março de 1976 e que se
-encontram já consagradas, por exemplo, na inglaterra, frança (por recente lei de 11 de junho de 1975) e também na áustria
-(código penal, § 42.º) - espera o código dotar a administração da justiça penal de um meio idóneo de substituição de curtas
-penas de prisão ou mesmo da pronúncia de outras penas que nem a protecção da sociedade nem a recuperação do delinquente
-parecem seriamente exigir.
+
+Introdução
+1. O presente código penal baseia-se fundamentalmente nos projectos elaborados em 1963 («parte geral») e em 1966 («parte especial»), da autoria de Eduardo Correia. Aquele texto («parte geral»), correspondendo a uma visão unitária, coerente, marcadamente humanista e em muitos aspectos profundamente inovadora, foi saudado pelos mais proeminentes cultores da ciência do direito penal nacional e estrangeira. Destes salientem-se, a título exemplificativo, os nomes de Hans-Heinrich Jescheck, presidente da associação internacional de direito penal, Marc Ancel, presidente da sociedade internacional de defesa social, e Pierre Canat. Pena foi que não tivesse sido mais rápida a aprovação desse projecto, pois muitas das suas disposições teriam um carácter altamente precursor - relativamente ao direito alemão e a outros projectos estrangeiros -, colocando-nos assim, como escrevia Canat, «à la pointe même du progrès». Cumpre desde já dizer que, contrariamente àquilo que poderá parecer, mercê de análise menos reflectida, o diploma, quer na forma, quer no conteúdo das suas prescrições, não se afasta do que verdadeiramente de vivo há na tradição jurídico-penal portuguesa, antes justamente o consagra. E isso mesmo parece ter sido compreendido e aceite pelas várias comissões de revisão que sobre o projecto tiveram oportunidade de se pronunciar, em vários tempos e em diferentes enquadramentos políticos, mas sempre compo... No entanto, e não obstante todo o esforço desenvolvido, o projecto inicial passou por várias vicissitudes, nunca tendo encontrado o espaço político necessário à sua consagração legal. A este facto não será estranho o fim e textura do próprio sistema punitivo do código, que assenta, adianta-se, em coordenadas que mal caberiam nos quadros de uma compreensão marcadamente repressiva. A necessidade de fazer uma adequação da legislação ordinária ao novo espírito legislativo resultante do 25 de abril fez com que o último governo provisório fomentasse a ideia de tornar o projecto em viva realidade normativa de que o país tanto carecia. Tal impulso não esmoreceu, bem ao contrário, na vigência do I Governo Constitucional. Neste espírito, foi constituída uma comissão revisora, cujo trabalho serviu de base à proposta de lei n.º 117/I (Diário da Assembleia da República, suplemento ao n.º ... Na vigência do IV Governo Constitucional tentou-se decididamente realizar todo o plano arquitectural do ordenamento penal português. Novamente foi apresentada uma proposta de lei (relativa à «parte geral») à Assembleia da República, absolutamente coincidente com a enviada pelo I Governo Constitucional. No que toca à «parte especial», foi esta também revista no Ministério da Justiça, resultando do seu trabalho um articulado que igualmente se enviou à Assembleia da República, sob a conveniente forma de... Todavia, aquele não foi o momento propício da cena política portuguesa para se encontrar o mínimo de consenso sempre necessário às grandes empresas legislativas. Porém, exprima-se lateralmente, muitas das traves mestras de um movimento legislativo mais vasto foram então lançadas. Nesta esteira, publicaram-se dois diplomas legislativos de forte incidência prática e dogmática na estrutura global do sistema penal português: o da reforma da organização prisional (decreto-lei n.º 265/79, de 1 de agosto) e... Mas, se muito já foi feito, é indiscutível que falta consagrar o essencial, isto é, o código penal - partes geral e especial. Nisto se empenhou profundamente o actual governo, que, depois de ter nomeado nova comissão de revisão, apresenta agora um diploma que, sem se afastar dos parâmetros dos projectos anteriores, sofre algumas importantes modificações que o tempo, a reflexão e as novas orientações doutrinais exigiam. Preparado está também o diploma sobre a recuperação social, condição essencial da ... Não deixará de se recordar, por fim, que o código, cuja vigência agora cessa, constituiu também, no seu tempo, um significativo avanço em relação à ciência criminal da época, o que terá contribuído para que ele conservasse, fundamentalmente, a sua estrutura inicial, a despeito das sucessivas alterações impostas por uma realidade criminológica em constante mutação. (*) Introdução constante do decreto-lei n.º 400/82, de 23 de setembro.
+
+Parte Geral
+2. um dos princípios basilares do diploma reside na compreensão de que toda a pena tem de ter como suporte axiológico-normativo uma culpa concreta. o princípio nulla poena sine culpa, combatido ultimamente em certos quadrantes do pensamento jurídico-penal, embora mais, ou quase exclusivamente, contra a vertente que considera a culpa como fundamento da pena, ganhou o voto unânime de todas as forças políticas representadas no parlamento alemão, quando se procedeu à apreciação dos grandes princípios orientadores da reforma daquele sistema penal. acrescente-se que mesmo os autores que dão uma maior tónica à prevenção geral aceitam inequivocamente a culpa como limite de pena. e mais. podemos dizer, sem querer entrar em pormenores, que ele corresponde, independentemente da perspectiva em que se coloque o investigador, a uma larga e profunda tradição cultural portuguesa e europeia. no entanto, o atribuir-se à pena um conteúdo de reprovação ética não significa que se abandonem as finalidades da prevenção geral e especial nem, muito menos, que se sugira o alheamento da recuperação do delinquente. quanto à prevenção geral, sabemos que não há verdadeira antinomia entre esta finalidade e a culpa, já que, através da mediação axiológica que o direito penal exige a todos os membros da comunidade jurídica, se ergue, deste modo, a barreira inibidora da pena. contudo, a sua força dissuasora não nasce tanto da sua realidade heterónoma, mas antes da própria autonomia do agente, que sabe ser a definição daquela pena fruto da participação, num determinado momento histórico, de toda a comunidade, ainda que filtrada pelos órgãos constitucionalmente competentes. a esta luz, não será, pois, difícil de ver que também a tónica da prevenção especial só pode ganhar sentido e eficácia se houver uma participação real, dialogante e efectiva do delinquente. e esta só se consegue fazendo apelo à sua total autonomia, liberdade e responsabilidade. é, na verdade, da conjugação do papel interveniente das instâncias auxiliares da execução das penas privativas de liberdade e do responsável e autónomo empenhamento do delinquente que se poderão encontrar os meios mais adequados a evitar a reincidência. não se abandona o delinquente à pura expiação em situação de isolamento - cujos efeitos negativos estão cabalmente demonstrados - nem se permite que a administração penitenciária caia em estéreis omissões e empregue pedagogias por cujos valores o delinquente, muitas vezes, não se sente motivado nem, o que é mais grave, reconhece neles qualquer forma de comparticipação. sabe-se que, na essência, o equilíbrio entre estes dois vectores nem sempre é fácil de alcançar, a que se junta a rigidez das penas institucionais. no sentido de superar esta visão tradicional, o presente diploma consagra, articulada e coerentemente, um conjunto de medidas não institucionais que facilita e potencia, sobremaneira, aquele desejado encontro de vontades. verifica-se a assunção conscienciosa daquilo a que a nova sociologia do comportamento designa por desdramatização do ritual e obrigam-se as instâncias de execução da pena privativa de liberdade a serem co-responsáveis no êxito ou fracasso reeducativo e ressocializador. pensa-se ser esta uma das formas que mais eficazmente pode levar à reintegração do delinquente na sociedade. acrescenta-se que toda a nova compreensão de encarar a panóplia punitiva já está noutros países fortemente implantada com resultados satisfatórios. pelo menos num determinado estádio de desenvolvimento das estruturas económicas, tais medidas mostram-se altamente operatórias num tipo de sociedade cujo denominador comum se assemelha ao padrão do nosso viver quotidiano.
+
+3. por outro lado, sabe-se que o princípio da culpa, tal como está pressuposto no diploma, implica que medidas de segurança privativas da liberdade só existirão para os inimputáveis. a solução do problema dos chamados «imputáveis perigosos» é fundadamente conseguida pela introdução da pena relativamente indeterminada. deste jeito, satisfaz-se a unidade compreensiva do diploma e dá-se resposta aos anseios legítimos - tanto mais legítimos quando se vive num estado democrático - da comunidade jurídica, de ver protegido o valor da segurança, que, como facilmente também se depreenderá, só deverá ser honrado nos casos especialmente consagrados na lei. e não pode deixar de ser assim porque os homens a que este diploma se dirige são compreendidos como estruturas «abertas» e dialogantes capazes de assumirem a sua própria liberdade. por outras palavras, eles serão sempre um prius, nunca um posterius.
+
+4. característico de toda a filosofia deste diploma é o modo como se consagra a problemática do erro. na verdade, este ponto pode perspectivar-se como charneira de toda a problemática da culpa, já que é nele - quer se considere o erro sobre as circunstâncias do facto (artigo 16.º) quer o erro sobre a ilicitude (artigo 17.º) - que o direito penal encontra o verdadeiro sentido para ser considerado como direito penal da culpa. torna-se assim evidente, à luz deste diploma, que o agente só pode merecer um juízo de censura ética se tiver actuado com consciência da ilicitude do facto. porém, se tiver agido sem consciência da ilicitude e se o erro lhe for censurável, o agente «será punido com a pena aplicável ao crime doloso respectivo, que pode ser especialmente atenuada» (artigo 17.º, n.º 2). ficam, deste modo, protegidos não só determinados fins da prevenção, como também o valor que todo o direito prossegue: a ideia de justiça.
+
+5. não se desconhece que, amiúde, a fronteira entre o imputável e o inimputável é extremamente difícil de traçar. daí a urgência da adopção de um critério que rigorosamente seriasse as várias hipóteses pela aferição das quais o agente da infracção pudesse ser considerado imputável ou inimputável. neste horizonte, o diploma faz apelo a um critério biopsicológico integrado por componentes de nítido matiz axiológico, é dizer, «a comprovada incapacidade do agente para ser influenciado pelas penas» (artigo 20.º). é, pois, necessário, para o agente ser considerado imputável, que consiga determinar-se pelas penas. facto demonstrativo não só da criteriosa integração do elemento de valoração ética, mas também de carregado afloramento da tradição correccionalista portuguesa, manifestando-se assim, neste ponto, como noutros, a inconsequência daqueles que julgam que o código se não funda em raízes culturais portuguesas. para além disso, ao admitir-se um vasto domínio para a inimputabilidade devido à definição de critérios que se afastam do mais rígido pensamento da culpa, permitir-se-á aos mais reticentes na aceitação deste princípio a construção de um modelo baseado numa ideia que desliza para a responsabilidade social mitigada.
+
+6. outra questão particularmente importante neste domínio é a aceitação de que os imputáveis maiores de 16 anos e menores de 21 anos são merecedores de legislação especial, a que atrás se fez referência. esta ideia corresponde, por um lado, à consciencialização do que há de arbitrário - mas não intrinsecamente injusto - na determinação de certa idade como limite formal para distinguir o imputável do inimputável. é justamente para atenuar os efeitos deste corte dogmático e praticamente imprescindível que se vê com bons olhos um direito de jovens imputáveis que vise paredes meias, nos princípios e nas medidas protectivas e reeducadoras, os fins do direito de menores. mas, se esta seria, já por si, uma razão que levaria ao acatamento legislativo daquele direito para jovens imputáveis, outras motivações e razões mais arreigam a nossa convicção. salientem-se não só as que decorrem dos efeitos menos estigmatizantes que este direito acarreta como também - em conexão com aquelas sequelas e no seio deste ramo de direito - a maior capacidade de ressocialização do jovem que se abre ainda para zonas não traumatizadas, como tal perfeitamente lúcido e compreensivo às solicitações justas e adequadas da ordem jurídica;
+
+7. o código traça um sistema punitivo que arranca do pensamento fundamental de que as penas devem sempre ser executadas com um sentido pedagógico e ressocializador. simplesmente, a concretização daquele objectivo parece comprometida pela existência da própria prisão. daí todo o conjunto de medidas não institucionais que já foram mencionadas noutro contexto. medidas que, embora não determinem a perda da liberdade física, importam sempre uma intromissão mais ou menos profunda na condução da vida dos delinquentes. por outro lado, não obstante essas reacções penais não detentivas funcionarem como medidas de substituição, não podem ser vistas como formas de clemência legislativa, mas como autênticas medidas de tratamento bem definido, com uma variedade de regimes aptos a dar adequada resposta a problemas específicos de certas zonas da delinquência. todavia, é evidente que o combate às penas institucionais correria o risco de insucesso se o código se limitasse a enunciar as medidas substitutivas, sem fornecer, simultaneamente, o critério geral orientador da escolha das penas. a isso visa o artigo 71.º: impondo ao tribunal que dê preferência fundamentada à pena não privativa da liberdade «sempre que ela se mostre suficiente para promover a recuperação social do delinquente e satisfaça as exigências de reprovação e prevenção do crime». isto é, aceita-se a existência da pena de prisão como pena principal para os casos mais graves, mas o diploma afirma claramente que o recurso às penas privativas de liberdade só será legítimo quando, face às circunstâncias do caso, se não mostrarem adequadas as reacções penais não detentivas.
+
+8. não se esgotam, porém, no conteúdo do artigo 71.º, os poderes concedidos ao juiz para, através da escolha e graduação da pena, alcançar a justa punição do agente e a realização do objectivo geral da prevenção do crime pelo tratamento do condenado. deste modo, prevê-se uma atenuação especial da pena nos casos em que circunstâncias anteriores ou posteriores ao crime, ou contemporâneas dele, diminuam por forma acentuada a ilicitude do facto ou a culpa do agente (artigo 73.º) ou quando ela conduzir à substituição da prisão por «prisão por dias livres» ou pela pena de multa (artigo 74.º). mas o código consagra duas importantes inovações nesta matéria. na verdade, «pode o tribunal não aplicar qualquer pena se a culpa do agente for diminuta, o dano tiver sido reparado e a tal se não opuserem as exigências da recuperação do delinquente e da prevenção geral» (artigo 75.º, n.º 1). além disso, permite-se que, nos casos em que não estejam ainda cabalmente realizados aqueles pressupostos, o juiz possa não proferir a sentença, adiando-a para um momento posterior, na esperança de que o comportamento do delinquente, a reparação próxima do dano ou a confirmação da falta de especiais exigências de prevenção venham a justificar a dispensa de pena (artigo 75.º, n.º 2). com tais medidas - que o comité de ministros do conselho da europa recomenda em resolução de março de 1976 e que se encontram já consagradas, por exemplo, na inglaterra, frança (por recente lei de 11 de junho de 1975) e também na áustria (código penal, § 42.º) - espera o código dotar a administração da justiça penal de um meio idóneo de substituição de curtas penas de prisão ou mesmo da pronúncia de outras penas que nem a protecção da sociedade nem a recuperação do delinquente parecem seriamente exigir.
+
 9. já atrás se referiam as razões por que, no momento actual, não pode o código deixar de utilizar a prisão. mas fá-lo com a
 clara consciência de que ela é um mal que deve reduzir-se ao mínimo necessário e que haverá que harmonizar o mais possível a
 sua estrutura e regime com a recuperação dos delinquentes a quem venha ser aplicada.

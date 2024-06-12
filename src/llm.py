@@ -1,4 +1,6 @@
 from operator import itemgetter
+import translators as ts
+# from googletrans import Translator
 from deep_translator import GoogleTranslator
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain.memory import ConversationBufferMemory
@@ -102,8 +104,11 @@ def getChatChain(llm, db):
     def chat(question: str):
         inputs = {"question": question}
         result = final_chain.invoke(inputs)
-        translated_result = GoogleTranslator(src='en', dest='pt').translate(result["answer"])
+        result["answer"] = (ts.translate_text(result["answer"], translator="google", to_language='pt'))
+        
+        translated_result = (ts.translate_text(result["answer"], translator="google", to_language='pt'))
         print(translated_result)
+        result["answer"] = translated_result
         #translated_result = translate_to_portuguese(result["answer"])
         memory.save_context(inputs, {"answer": translated_result})
         return translated_result

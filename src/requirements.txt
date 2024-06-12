@@ -7,3 +7,4 @@ tqdm==4.66.1
 streamlit==1.34.0
 translate=3.6.1
 deep_translator==1.11.4
+translators == 5.9.2

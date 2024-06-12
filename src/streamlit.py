@@ -1,4 +1,6 @@
 import time
+import translators as ts
+from deep_translator import GoogleTranslator
 import streamlit as st
 import argparse
 import base64
@@ -19,9 +21,9 @@ def load_documents_into_database(llm_model_name:str, model_name: str, documents_
     documents = TEXT_SPLITTER.split_documents(raw_documents)
 
     if llm_model_name in ["llama2","zephyr","mistral"]:
-        directory = "../Embeddings/Embeddings_" + llm_model_name
+        directory = "../Embeddings_" + llm_model_name
     else:
-        directory = "../Embeddings/Embeddings"
+        directory = "../Embeddings"
     
     print("Creating embeddings and loading documents into Chroma")
     db = Chroma.from_documents(
@@ -90,9 +92,9 @@ def main(reload: bool):
     set_background_image("../Images/background.png")
     st.sidebar.header("Settings")
     reload_embedings = st.sidebar.checkbox("Reload Embeddings",True)
-    llm_model_name = st.sidebar.selectbox("LLM Model Name", ["mistral","llama2","zephyr"],0)
+    llm_model_name = st.sidebar.selectbox("LLM Model Name", ["mistral","llama2","zephyr"],1)
     embedding_model_name = "nomic-embed-text"
-    documents_path = "../Final PDF Files"
+    documents_path = "../Final PDF Files"   
 
     # Check to see if the models available, if not attempt to pull them
     try:
@@ -133,7 +135,8 @@ def main(reload: bool):
         with st.chat_message("assistant"):
             start_time = time.time() 
             response = chat(prompt)
-            st.write(response)
+            translated_result = (ts.translate_text(response, translator="google", to_language='pt'))
+            st.write(translated_result)
             end_time = time.time()
             elapsed_time = end_time - start_time
             #st.write(f"Elapsed time: {round(elapsed_time,2)} seconds")  # Display elapsed time
