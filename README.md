@@ -18,12 +18,14 @@ The LawTalk Project consists of developing a chatbot using Ollama LLM's and the 
 - **`document_loader.py`**: Contains the script for loading the PDF files to the database.
 - **`evaluate.csv`**: Contains the Test Dataset for the evaluation of the LLM Models.
 - **`evaluate.py`**: Contains the Jupyter Notebook for evaluating the LLM Models.
+- **`format.py`**: Contains the sceipt for applying indentation and structural modification to a TXT file.
 - **`streamlit.py`**: Main script to run the chatbot.
 - **`llm.py`**: Contains the prompts and the chain build with the RAG Framework.
 - **`models.py`**: Contains code that verifies and downloads the LLM Models if not present in the local machine.
 - **`extract_pdfplumber.py`**: Contains the code for extracting raw text from PDF files using PDFPlumber.
 - **`py2pdf.py`**: Contains the code for extracting raw text from PDF files using Py2PDF.
 - **`tesseract.py`**: Contains the code for extracting raw text from PDF files using Tesseract.
+- **`translate.py`**: Contains the code to translate a TXT file to English from Portuguese using the Google Translate library. Afterwards, converts the raw text into a PDF file.
 - **`requirements.txt`**: Contains the tools necessary to run the project.
 
 #### `docs`: Contains both presentations and the report.
