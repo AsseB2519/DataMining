@@ -30,6 +30,6 @@ def text_to_pdf(text_file, pdf_file):
 
 if __name__ == "__main__":
     # Example usage
-    input_text_file = '../TXT Files/'
+    input_text_file = '../TXT Files Processed/'
     output_pdf_file = '../Final PDF Files/'
     text_to_pdf(input_text_file, output_pdf_file)

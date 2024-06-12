@@ -26,7 +26,7 @@ def write_to_file(text, output_file):
         file.write(text)
 
 # Example usage
-pdf_path = '../Original Files/Código Penal.pdf'  # Path to your PDF file
+pdf_path = '../Original Files/Codigo_Penal.pdf'  # Path to your PDF file
 output_file = '../TXT Files/extracted_text_py2pdf.txt'  # Path to the output text file
 extracted_text = text_from_pdf(pdf_path)
 write_to_file(extracted_text, output_file)

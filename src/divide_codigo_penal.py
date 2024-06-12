@@ -5,7 +5,7 @@ from PyPDF2 import PdfReader, PdfWriter
 
 def divide_pdf(input_pdf_path, page_ranges):
     # Create a directory to store divided PDFs
-    output_dir = "../Codigo_Penal_Divided"
+    output_dir = "../PDF Files"
     #os.makedirs(output_dir, exist_ok=True)
 
     # Read the input PDF

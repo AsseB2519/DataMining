@@ -19,9 +19,9 @@ def load_documents_into_database(llm_model_name:str, model_name: str, documents_
     documents = TEXT_SPLITTER.split_documents(raw_documents)
 
     if llm_model_name in ["llama2","zephyr","mistral"]:
-        directory = "../Embeddings_" + llm_model_name
+        directory = "../Embeddings/Embeddings_" + llm_model_name
     else:
-        directory = "../Embeddings"
+        directory = "../Embeddings/Embeddings"
     
     print("Creating embeddings and loading documents into Chroma")
     db = Chroma.from_documents(
@@ -92,7 +92,7 @@ def main(reload: bool):
     reload_embedings = st.sidebar.checkbox("Reload Embeddings",True)
     llm_model_name = st.sidebar.selectbox("LLM Model Name", ["mistral","llama2","zephyr"],0)
     embedding_model_name = "nomic-embed-text"
-    documents_path = "../Evaluation_Temp"
+    documents_path = "../Final PDF Files"
 
     # Check to see if the models available, if not attempt to pull them
     try:

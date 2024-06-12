@@ -151,7 +151,7 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument(
         "-p",
         "--path",
-        default="../Codigo_Penal_Divided",
+        default="../Final PDF Files",
         help="The path to the directory containing documents to load.",
     )
     parser.add_argument(
