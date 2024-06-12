@@ -25,7 +25,7 @@ def divide_pdf(input_pdf_path, page_ranges):
             
             
             # Write the new PDF to file
-            output_pdf_path = "../Codigo_Penal_Divided/Codigo_Penal_Divided" + f"_Parte_{i + 1}.pdf"
+            output_pdf_path = "../PDF Files/Codigo_Penal_Divided" + f"_Parte_{i + 1}.pdf"
             with open(output_pdf_path, 'wb') as output_file:
                 writer.write(output_file)
 
