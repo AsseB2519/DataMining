@@ -36,6 +36,8 @@ The LawTalk Project consists of developing a chatbot using Ollama LLM's and the 
 
 #### `TXT Files Processed`: Contains the files in TXT format after they have been properly formatted(indentation, newlines, etc.).
 
+#### `PDF Files`: Contains the result of the division of the Portuguese Penal Code and the Portuguese Processual Penal Code ready for PreProcessement.
+
 #### `Final PDF Files`: Contains the result of the translation and conversion of the processed TXT files back to the PDF format. All files fed to the model are in English.
 
 #### `Images`: Contains the images used in the web application of the project. Also contains the standart font used for TXT to PDF conversion.
