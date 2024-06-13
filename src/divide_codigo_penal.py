@@ -78,5 +78,5 @@ def convert_pdfs_to_txt(input_folder):
             write_to_file(text, output_file)
 
 # Example usage:
-base_dir = "../Codigo_Penal_Divided"
+base_dir = "../TXT Files"
 convert_pdfs_to_txt(base_dir)

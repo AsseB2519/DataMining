@@ -1,0 +1,467 @@
+código de processo penal - cpp
+artigo 464.º
+(revisão de despacho)
+nos casos em que for admitida a revisão de despacho que tiver posto fim ao processo, nos termos do artigo 449.º, n.º 2, o
+supremo tribunal de justiça, se conceder a revisão, declara sem efeito o despacho e ordena que o processo prossiga.
+artigo 465.º
+(legitimidade para novo pedido de revisão)
+tendo sido negada a revisão ou mantida a decisão revista, não pode haver nova revisão com o mesmo fundamento.
+artigo 466.º
+(prioridade dos actos judiciais)
+quando o condenado a favor de quem foi pedida a revisão se encontrar preso ou internado, os actos judiciais que deverem
+praticar-se preferem a qualquer outro serviço.
+livro x
+das execuções
+título i
+disposições gerais
+artigo 467.º
+(decisões com força executiva)
+1 - as decisões penais condenatórias transitadas em julgado têm força executiva em todo o território português e ainda em
+território estrangeiro, conforme os tratados, convenções e regras de direito internacional.
+2 - as decisões penais absolutórias são exequíveis logo que proferidas, sem prejuízo do disposto no n.º 3 do artigo 214.º
+artigo 468.º
+(decisões inexequíveis)
+não é exequível decisão penal que:
+código de processo penal - cpp
+a) não determinar a pena ou a medida de segurança aplicadas ou que aplicar pena ou medida inexistentes na lei portuguesa;
+b) não estiver reduzida a escrito; ou
+c) tratando-se de sentença penal estrangeira, não tiver sido revista e confirmada nos casos em que isso for legalmente exigido.
+artigo 469.º
+promoção da execução
+compete ao ministério público promover a execução das penas e das medidas de segurança e, bem assim, a execução por
+indemnização e mais quantias devidas ao estado ou a pessoas que lhe incumba representar judicialmente.
+artigo 470.º
+tribunal competente para a execução
+1 - a execução corre nos próprios autos perante o presidente do tribunal de 1.ª instância em que o processo tiver corrido, sem
+prejuízo do disposto no artigo 138.º do código da execução das penas e medidas privativas da liberdade.
+2 - se a causa tiver sido julgada em 1.ª instância pela relação ou pelo supremo tribunal de justiça, ou se a decisão tiver sido
+revista e confirmada, a execução corre na comarca de domicílio do condenado, salvo se este for magistrado judicial ou do
+ministério público aí em exercício, caso em que a execução corre no tribunal mais próximo.
+artigo 471.º
+conhecimento superveniente do concurso
+1 - para o efeito do disposto no artigo 78.º, n.os 1 e 2, do código penal é competente, conforme os casos, o tribunal colectivo
+ou o tribunal singular. é correspondentemente aplicável o artigo 14.º, n.º 2, alínea b).
+2 - sem prejuízo do disposto no número anterior, é territorialmente competente o tribunal da última condenação.
+artigo 472.º
+tramitação
+1 - para o efeito do disposto no artigo 78.º, n.º 2, do código penal, o tribunal designa dia para a realização da audiência,
+ordenando, oficiosamente ou a requerimento, as diligências que se lhe afigurem necessárias para a decisão.
+2 - é obrigatória a presença do defensor e do ministério público, a quem são concedidos quinze minutos para alegações finais.
+o tribunal determina os casos em que o arguido deve estar presente.
+código de processo penal - cpp
+artigo 473.º
+suspensão da execução
+1 - logo que seja proferido despacho de pronúncia ou que designe o dia para julgamento de magistrado, jurado, testemunha,
+perito ou funcionário de justiça por factos que possam ter determinado a condenação do arguido, o procurador-geral da
+república pode requerer ao supremo tribunal de justiça que suspenda a execução da sentença até ser decidido o processo,
+juntando os documentos comprovativos.
+2 - o supremo tribunal de justiça decide, em pleno das secções criminais, se a execução da sentença deve ser suspensa, e, em
+caso afirmativo, se deve ser aplicada medida de coacção ou de garantia patrimonial legalmente admissível no caso.
+3 - é correspondentemente aplicável ao julgamento o disposto no artigo 455.º
+artigo 474.º
+competência para questões incidentais
+1 - cabe ao tribunal competente para a execução decidir as questões relativas à execução das penas e das medidas de
+segurança e à extinção da responsabilidade, bem como à prorrogação, pagamento em prestações ou substituição por trabalho
+da pena de multa e ao cumprimento da prisão subsidiária.
+2 - a aplicação da amnistia e de outras medidas de clemência previstas na lei compete ao tribunal referido no número anterior
+ou ao tribunal de recurso ou de execução das penas onde o processo se encontrar.
+artigo 475.º
+extinção da execução
+o tribunal competente para a execução declara extinta a pena ou a medida de segurança, notificando o beneficiário com
+entrega de cópia e, sendo caso disso, remetendo cópias para os serviços prisionais, serviços de reinserção social e outras
+instituições que determinar.
+artigo 476.º
+contumácia
+revogado
+código de processo penal - cpp
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+título ii
+da execução da pena de prisão
+capítulo i
+da prisão
+artigo 477.º
+comunicação da sentença a diversas entidades
+1 - o ministério público envia ao tribunal de execução das penas e aos serviços prisionais e de reinserção social, no prazo de
+cinco dias após o trânsito em julgado, cópia da sentença que aplicar pena privativa da liberdade.
+2 - o ministério público indica as datas calculadas para o termo da pena e, nos casos de admissibilidade de liberdade
+condicional, para os efeitos previstos nos artigos 61.º e 62.º e no n.º 1 do artigo 90.º do código penal.
+3 - tratando-se de pena relativamente indeterminada, o ministério público indica ainda a data calculada para o efeito previsto
+no artigo 90.º, n.º 3, do código penal.
+4 - o cômputo previsto nos n.os 2 e 3 é homologado pelo juiz e comunicado ao condenado e ao seu advogado.
+5 - em caso de recurso da decisão que aplicar pena privativa da liberdade e de o arguido se encontrar privado da liberdade, o
+ministério público envia aos serviços prisionais cópia da decisão, com a indicação de que dela foi interposto recurso.
+artigo 478.º
+entrada no estabelecimento prisional
+os condenados em pena de prisão dão entrada no estabelecimento prisional por mandado do juiz competente.
+artigo 479.º
+contagem do tempo de prisão
+1 - na contagem do tempo de prisão, os anos, meses e dias são computados segundo os critérios seguintes:
+a) a prisão fixada em anos termina no dia correspondente, dentro do último ano, ao do início da contagem e, se não existir dia
+correspondente, no último dia do mês;
+b) a prisão fixada em meses é contada considerando-se cada mês um período que termina no dia correspondente do mês
+seguinte ou, não o havendo, no último dia do mês;
+código de processo penal - cpp
+c) a prisão fixada em dias é contada considerando-se cada dia um período de vinte e quatro horas, sem prejuízo do que no
+artigo 481.º se dispõe quanto ao momento da libertação.
+2 - quando a prisão não for cumprida continuamente, ao dia encontrado segundo os critérios do número anterior acresce o
+tempo correspondente às interrupções.
+artigo 480.º
+mandado de libertação
+revogado
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+artigo 481.º
+momento da libertação
+revogado
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+artigo 482.º
+comunicações
+revogado
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+artigo 483.º
+anomalia psíquica posterior
+revogado
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+código de processo penal - cpp
+capítulo ii
+da liberdade condicional
+revogado
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+artigo 484.º
+início do processo da liberdade condicional
+revogado
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+retificado pelo/a declaração de rectificação n.º 100-a/2007 - diário da república n.º 207/2007, 1º suplemento, série i de 2007-10-26
+artigo 485.º
+decisão
+revogado
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+artigo 486.º
+renovação da instância
+revogado
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+capítulo iii
+da execução da prisão por dias livres e em regime de semidetenção
+revogado
+código de processo penal - cpp
+revogado pelo/a artigo 13.º do/a lei n.º 94/2017 - diário da república n.º 162/2017, série i de 2017-08-23, em vigor a partir de 2017-11-21
+retificado pelo/a declaração de rectificação n.º 100-a/2007 - diário da república n.º 207/2007, 1º suplemento, série i de 2007-10-26
+artigo 487.º
+conteúdo da decisão e início do cumprimento
+revogado
+revogado pelo/a artigo 13.º do/a lei n.º 94/2017 - diário da república n.º 162/2017, série i de 2017-08-23, em vigor a partir de 2017-11-21
+artigo 488.º
+execução, faltas e termo do cumprimento
+revogado
+revogado pelo/a artigo 13.º do/a lei n.º 94/2017 - diário da república n.º 162/2017, série i de 2017-08-23, em vigor a partir de 2017-11-21
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+título iii
+da execução das penas não privativas de liberdade
+capítulo i
+da execução da pena de multa
+artigo 489.º
+prazo de pagamento
+1 - a multa é paga após o trânsito em julgado da decisão que a impôs e pelo quantitativo nesta fixado, não podendo ser
+acrescida de quaisquer adicionais.
+2 - o prazo de pagamento é de 15 dias a contar da notificação para o efeito.
+3 - o disposto no número anterior não se aplica no caso de o pagamento da multa ter sido diferido ou autorizado pelo sistema
+de prestações.
+código de processo penal - cpp
+artigo 490.º
+substituição da multa por dias de trabalho
+1 - o requerimento para substituição da multa por dias de trabalho é apresentado no prazo previsto nos n.os 2 e 3 do artigo
+anterior, devendo o condenado indicar as habilitações profissionais e literárias, a situação profissional e familiar e o tempo
+disponível, bem como, se possível, mencionar alguma instituição em que pretenda prestar trabalho.
+2 - o tribunal pode solicitar informações complementares aos serviços de reinserção social, nomeadamente sobre o local e
+horário de trabalho e a remuneração.
+3 - a decisão de substituição indica o número de horas de trabalho e é comunicada ao condenado, aos serviços de reinserção
+social e à entidade a quem o trabalho deva ser prestado.
+4 - em caso de não substituição da multa por dias de trabalho, o prazo de pagamento é de 15 dias a contar da notificação da
+decisão.
+artigo 491.º
+não pagamento da multa
+1 - findo o prazo de pagamento da multa ou de alguma das suas prestações sem que o pagamento esteja efectuado, procede-
+se à execução patrimonial.
+2 - tendo o condenado bens penhoráveis suficientes de que o tribunal tenha conhecimento ou que ele indique no prazo de
+pagamento, o ministério público promove logo a execução, que segue as disposições previstas no código de processo civil para
+a execução por indemnizações.
+3 - a decisão sobre a suspensão da execução da prisão subsidiária é precedida de parecer do ministério público, quando este
+não tenha sido o requerente.
+artigo 491.º-a
+pagamento da multa a outras entidades
+1 - sempre que, no momento da detenção para cumprimento da prisão subsidiária, o condenado pretenda pagar a multa, mas
+não possa, sem grave inconveniente, efectuar o pagamento no tribunal, pode realizá-lo à entidade policial, contra entrega de
+recibo, aposto no triplicado do mandado.
+2 - fora do caso previsto no número anterior ou quando o tribunal se encontre encerrado, o pagamento da multa pode ainda
+ser efectuado, contra recibo, junto do estabelecimento prisional onde se encontre o condenado.
+3 - para o efeito previsto nos números anteriores, os mandados devem conter a indicação do montante da multa, bem como da
+importância a descontar por cada dia ou fracção em que o arguido esteve detido.
+4 - nos 10 dias imediatos, a entidade policial ou o estabelecimento prisional remetem ou entregam a quantia recebida ao
+tribunal da condenação.
+código de processo penal - cpp
+aditado pelo/a artigo 4.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+artigo 491.º-b
+responsabilidade de terceiros
+nos casos de responsabilidade civil de terceiros pelo pagamento das multas e indemnizações em que a pessoa coletiva ou
+entidade equiparada for condenada, na falta de bens penhoráveis suficientes, o ministério público promove imediatamente a
+execução contra os responsáveis solidários ou subsidiários, de acordo com as disposições do código de processo civil para a
+execução por indemnizações.
+aditado pelo/a artigo 12.º do/a lei n.º 94/2021 - diário da república n.º 245/2021, série i de 2021-12-21, em vigor a partir de 2022-03-21
+capítulo ii
+da execução da pena suspensa
+artigo 492.º
+modificação dos deveres, regras de conduta e outras obrigações impostos
+1 - a modificação dos deveres, regras de conduta e outras obrigações impostos ao condenado na sentença que tiver decretado
+a suspensão da execução da prisão é decidida por despacho, depois de recolhida prova das circunstâncias relevantes
+supervenientes ou de que o tribunal só posteriormente tiver tido conhecimento.
+2 - o despacho é precedido de parecer do ministério público e de audição do condenado, e ainda dos serviços de reinserção
+social no caso de a suspensão ter sido acompanhada de regime de prova.
+artigo 493.º
+apresentação periódica e sujeição a tratamento médico ou a cura
+1 - sendo determinada apresentação periódica perante o tribunal, as apresentações são anotadas no processo.
+2 - se for determinada apresentação perante outra entidade, o tribunal faz a esta a necessária comunicação, devendo a entidade
+em causa informar o tribunal sobre a regularidade das apresentações e, sendo caso disso, do não cumprimento por parte do
+condenado, com indicação dos motivos que forem do seu conhecimento.
+3 - a sujeição do condenado a tratamento médico ou a cura em instituição adequada durante o período da suspensão é
+executada mediante mandado emitido, para o efeito, pelo tribunal.
+4 - os responsáveis pela instituição informam o tribunal da evolução e termo do tratamento ou cura, podendo sugerir medidas
+que considerem adequadas ao êxito do mesmo.
+artigo 494.º
+código de processo penal - cpp
+plano de reinserção social
+1 - a decisão que suspender a execução da prisão com regime de prova deve conter o plano de reinserção social que o tribunal
+solicita aos serviços de reinserção social.
+2 - a decisão, uma vez transitada em julgado, é comunicada aos serviços de reinserção social.
+3 - quando a decisão não contiver o plano de reinserção social ou este deva ser completado, os serviços de reinserção social
+procedem à sua elaboração ou reelaboração, ouvido o condenado, no prazo de 30 dias, e submetem-no à homologação do
+tribunal.
+artigo 495.º
+falta de cumprimento das condições de suspensão
+1 - quaisquer autoridades e serviços aos quais seja pedido apoio ao condenado no cumprimento dos deveres, regras de
+conduta ou outras obrigações impostos comunicam ao tribunal a falta de cumprimento, por aquele, desses deveres, regras de
+conduta ou obrigações, para efeitos do disposto nos artigos 51.º, n.º 3, 52.º, n.º 3, 55.º e 56.º do código penal.
+2 - o tribunal decide por despacho, depois de recolhida a prova, obtido parecer do ministério público e ouvido o condenado na
+presença do técnico que apoia e fiscaliza o cumprimento das condições da suspensão, bem como, sempre que necessário,
+ouvida a vítima, mesmo que não se tenha constituído assistente.
+3 - a condenação pela prática de qualquer crime cometido durante o período de suspensão é imediatamente comunicada ao
+tribunal competente para a execução, sendo-lhe remetida cópia da decisão condenatória.
+4 - para os devidos efeitos do disposto no n.º 1, a decisão que decretar a imposição de deveres, regras de conduta ou outras
+obrigações é comunicada às autoridades e serviços aí referidos.
+capítulo iii
+da execução da prestação de trabalho a favor da comunidade e da admoestação
+retificado pelo/a declaração de rectificação n.º 100-a/2007 - diário da república n.º 207/2007, 1º suplemento, série i de 2007-10-26
+artigo 496.º
+prestação de trabalho a favor da comunidade
+código de processo penal - cpp
+1 - se o tribunal decidir aplicar a prestação de trabalho a favor da comunidade solicita aos serviços de reinserção social a
+elaboração de um plano de execução.
+2 - os serviços de reinserção social elaboram o plano de execução no prazo de 30 dias.
+3 - transitada em julgado, a condenação é comunicada aos serviços de reinserção social e à entidade a quem o trabalho deva
+ser prestado, devendo aqueles proceder à colocação do condenado no posto de trabalho no prazo máximo de três meses.
+artigo 497.º
+admoestação
+1 - a admoestação é proferida após trânsito em julgado da decisão que a aplicar.
+2 - a admoestação é proferida de imediato se o ministério público, o arguido e o assistente declararem para a acta que
+renunciam à interposição de recurso.
+3 - o tribunal executa a admoestação de forma que esta se não confunda com a alocução referida no artigo 375.º, n.º 2.
+artigo 498.º
+suspensão provisória, revogação, extinção, substituição e modificação da execução
+1 - o tribunal pode solicitar informação aos serviços de reinserção social para o efeito do disposto no artigo 59.º, n.º 1, do
+código penal.
+2 - finda a prestação de trabalho, ou sempre que no seu decurso se verificarem anomalias graves, os serviços de reinserção
+social enviam ao tribunal o relatório respectivo.
+3 - à suspensão provisória, revogação, extinção e substituição é correspondentemente aplicável o disposto no artigo 495.º, n.os
+2 e 3.
+4 - sempre que se verifiquem circunstâncias ou anomalias que possam justificar alterações à modalidade concreta da prestação
+de trabalho, os serviços de reinserção social comunicam esses factos ao tribunal, fornecendo-lhe, desde logo, sempre que
+possível, os indicadores necessários à modificação da prestação de trabalho.
+5 - no caso previsto no número anterior, o tribunal pode dispensar a recolha de prova e a audição do condenado que tiver
+manifestado adesão à modificação indicada pelos serviços de reinserção social, decidindo imediatamente por despacho, depois
+de ouvido o ministério público.
+capítulo iv
+da execução das penas acessórias
+código de processo penal - cpp
+artigo 499.º
+(decisão e trâmites)
+1 - a decisão que decretar a proibição ou a suspensão de exercício de função pública é comunicada ao dirigente do serviço ou
+organismo de que depende o condenado.
+2 - a decisão que decretar a proibição ou a suspensão de exercício de profissão ou actividade que dependa de título público ou
+de autorização ou homologação de autoridade pública é comunicada, conforme os casos, ao organismo profissional em que o
+condenado esteja inscrito ou à entidade competente para a autorização ou homologação.
+3 - a decisão que decretar a proibição do exercício das funções de gerente ou administrador de sociedade é comunicada ao
+registo comercial.
+4 - o tribunal pode decretar a apreensão, pelo tempo que durar a proibição, dos documentos que titulem a profissão ou
+actividade.
+5 - a incapacidade eleitoral é comunicada à comissão de recenseamento eleitoral em que o condenado se encontrar inscrito ou
+dever fazer a inscrição, sendo a pena acessória decretada ao abrigo do artigo 27.º-a da lei n.º 34/87, de 16 de julho, que
+determina os crimes de responsabilidade dos titulares de cargos políticos, comunicada ao tribunal constitucional e à comissão
+nacional de eleições ou ao órgão ou entidade que nomeie o condenado.
+6 - a incapacidade para exercer o poder paternal, a tutela, a curatela, a administração de bens ou para ser jurado é comunicada
+à conservatória do registo civil onde estiver lavrado o registo de nascimento do condenado.
+7 - para além do disposto no números anteriores, o tribunal ordena as providências necessárias para a execução da pena
+acessória.
+artigo 500.º
+proibição de condução
+1 - a decisão que decretar a proibição de conduzir veículos motorizados é comunicada à direcção-geral de viação.
+2 - no prazo de 10 dias a contar do trânsito em julgado da sentença, o condenado entrega na secretaria do tribunal, ou em
+qualquer posto policial, que a remete àquela, a licença de condução, se a mesma não se encontrar já apreendida no processo.
+3 - se o condenado na proibição de conduzir veículos motorizados não proceder de acordo com o disposto no número anterior,
+o tribunal ordena a apreensão da licença de condução.
+4 - a licença de condução fica retida na secretaria do tribunal pelo período de tempo que durar a proibição. decorrido esse
+período, a licença é devolvida ao titular.
+5 - o disposto nos n.os 2 e 3 é aplicável à licença de condução emitida em país estrangeiro.
+6 - no caso previsto no número anterior, a secretaria do tribunal envia a licença à direcção-geral de viação, a fim de nela ser
+anotada a proibição. se não for viável a apreensão, a secretaria, por intermédio da direcção-geral de viação, comunica a decisão
+ao organismo competente do país que tiver emitido a licença.
+código de processo penal - cpp
+título iv
+da execução das medidas de segurança
+capítulo i
+da execução das medidas de segurança privativas da liberdade
+aditado pelo/a artigo 2.º do/a decreto-lei n.º 317/95 - diário da república n.º 275/1995, série i-a de 1995-11-28, em vigor a partir de 1995-12-03
+artigo 501.º
+decisões sobre o internamento
+1 - a decisão que decretar o internamento especifica o tipo de instituição em que este deve ser cumprido e determina, se for
+caso disso, a duração máxima e mínima do internamento.
+2 - o início e a cessação do internamento efectuam-se por mandado do tribunal.
+artigo 502.º
+comunicação da sentença a diversas entidades
+1 - o ministério público envia ao tribunal de execução das penas, aos serviços prisionais e de reinserção social e à instituição
+onde o internamento se efectuar, no prazo de cinco dias após o trânsito em julgado, cópia de sentença que aplicar medida de
+segurança privativa da liberdade.
+2 - o ministério público indica expressamente a data calculada para o efeito previsto no artigo 93.º, n.os 2 e 3, do código penal
+e comunicará futuramente eventuais alterações que se verificarem na execução da medida de segurança.
+3 - em caso de recurso da decisão que aplicar medida de segurança de internamento e de o arguido se encontrar privado da
+liberdade, o ministério público envia aos serviços prisionais cópia da decisão, com a indicação de que dela foi interposto recurso.
+artigo 503.º
+processo individual
+revogado
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+artigo 504.º
+reexame do internamento
+código de processo penal - cpp
+1 - havendo lugar ao reexame previsto no artigo 96.º do código penal, o tribunal ordena:
+a) a realização de perícia psiquiátrica ou sobre a personalidade, devendo o respectivo relatório ser-lhe apresentado dentro de
+30 dias;
+b) oficiosamente ou a requerimento do ministério público, do internado ou do defensor, as diligências que se afigurem com
+interesse para a decisão.
+2 - se, na sequência da apreciação da perícia psiquiátrica, se concluir que há condições favoráveis, o magistrado pode solicitar
+relatório social contendo análise do enquadramento familiar, social e profissional do recluso.
+3 - o reexame tem lugar com audição do ministério público, do defensor e do condenado, só podendo a presença deste ser
+dispensada se o seu estado de saúde tornar a audição inútil ou inviável.
+artigo 505.º
+revogação da liberdade para prova
+revogado
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+artigo 506.º
+(disposições aplicáveis)
+é correspondentemente aplicável à medida de internamento o disposto no artigo 479.º
+capítulo ii
+da execução de pena e da medida de segurança privativa de liberdade
+revogado
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+aditado pelo/a artigo 2.º do/a decreto-lei n.º 317/95 - diário da república n.º 275/1995, série i-a de 1995-11-28, em vigor a partir de 1995-12-03
+artigo 507.º
+execução da pena e da medida de segurança privativas da liberdade
+revogado
+código de processo penal - cpp
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+capítulo iii
+da execução das medidas de segurança não privativas de liberdade
+aditado pelo/a artigo 2.º do/a decreto-lei n.º 317/95 - diário da república n.º 275/1995, série i-a de 1995-11-28, em vigor a partir de 1995-12-03
+artigo 508.º
+medidas de segurança não privativas da liberdade
+1 - à interdição de atividade é correspondentemente aplicável o disposto nos n.os 2 a 4 do artigo 499.º
+2 - a decisão que decretar a cassação da licença de condução e a interdição de concessão de licença é comunicada à direcção-
+geral de viação, que a comunicará a quaisquer outras entidades legalmente habilitadas a emitir essa licença.
+3 - à decisão prevista no número anterior é correspondentemente aplicável o disposto nos n.os 2 e 3 do artigo 500.º
+4 - é correspondentemente aplicável à licença de condução emitida em país estrangeiro o disposto nos n.os 2, 3, 5 e 6 do artigo
+500.º
+5 - a prorrogação do período de interdição e o reexame da situação que fundamentou a aplicação da medida são decididos
+pelo tribunal precedendo audição do ministério público, do defensor e das pessoas a elas sujeitas, salvo se, quanto a estas, o
+seu estado tornar a audição inútil ou inviável.
+6 - à aplicação de regras de conduta é correspondentemente aplicável o disposto no número anterior e no artigo 492.º
+título v
+da execução da pena relativamente indeterminada
+revogado
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+aditado pelo/a artigo 2.º do/a decreto-lei n.º 317/95 - diário da república n.º 275/1995, série i-a de 1995-11-28, em vigor a partir de 1995-12-03
+artigo 509.º
+execução da pena relativamente indeterminada
+revogado
+revogado pelo/a artigo 8.º do/a lei n.º 115/2009 - diário da república n.º 197/2009, série i de 2009-10-12, em vigor a partir de 2010-04-10
+código de processo penal - cpp
+título vi
+da execução de bens e destino das multas
+artigo 510.º
+(lei aplicável)
+em tudo o que não esteja especialmente previsto neste código, a execução de bens rege-se pelo disposto no código de
+processo civil e no regulamento das custas processuais.
+artigo 511.º
+(ordem dos pagamentos)
+com o produto dos bens executados efectuam-se os pagamentos pela ordem seguinte:
+1.º as multas penais e as coimas;
+2.º a taxa de justiça;
+3.º os encargos liquidados a favor do estado e do instituto de gestão financeira e das infra-estruturas da justiça, i. p.
+4.º os restantes encargos, proporcionalmente;
+5.º as indemnizações.
+artigo 512.º
+(destino das multas)
+salvo disposição em contrário, as importâncias de multas e coimas cobradas em juízo têm o destino fixado no regulamento das
+custas processuais.
+livro xi
+da responsabilidade por custas
+código de processo penal - cpp
+artigo 513.º
+responsabilidade do arguido por custas
+1 - só há lugar ao pagamento da taxa de justiça quando ocorra condenação em 1.ª instância e decaimento total em qualquer
+recurso.
+2 - o arguido é condenado em um só imposto de justiça, ainda que responda por vários crimes, desde que sejam julgados em
+um só processo.
+3 - a condenação em taxa de justiça é sempre individual e o respectivo quantitativo é fixado pelo juiz, a final, nos termos
+previstos no regulamento das custas processuais.
+4 - a dispensa da pena não liberta o arguido da obrigação de pagar custas.
+artigo 514.º
+responsabilidade do arguido por encargos
+1 - salvo quando haja apoio judiciário, o arguido condenado é responsável pelo pagamento, a final, dos encargos a que a sua
+actividade houver dado lugar.
+2 - se forem vários os arguidos condenados em taxa de justiça e não for possível individualizar a responsabilidade de cada um
+deles pelos encargos, esta é solidária quando os encargos resultarem de uma actividade comum e conjunta nos demais casos,
+salvo se outro critério for fixado na decisão.
+3 - se o assistente for também condenado no pagamento de taxa de justiça, a responsabilidade pelos encargos que não
+puderem ser imputados à simples actividade de um ou de outro é repartida por ambos de igual modo.
+artigo 515.º
+responsabilidade do assistente por custas
+1 - é devida taxa de justiça pelo assistente nos seguintes casos:
+a) se o arguido for absolvido ou não for pronunciado por todos ou por alguns crimes constantes da acusação que haja
+deduzido ou com que se haja conformado;
+b) se decair, total ou parcialmente, em recurso que houver interposto, a que houver dado adesão ou em que tenha feito
+oposição;
+c) (revogada.)
+d) se fizer terminar o processo por desistência ou abstenção injustificada de acusar;
+e) e) (revogada.)
+f) se for rejeitada acusação que houver deduzido.
+2 - havendo vários assistentes, cada um paga o respectivo imposto de justiça.
+3 - (revogado.)
+código de processo penal - cpp
+artigo 516.º
+(arquivamento ou suspensão do processo)
+não é devido imposto de justiça quando o processo tiver sido arquivado ou suspenso, nos termos dos artigos 280.º e 281.º
+artigo 517.º
+(casos de isenção do assistente)
+o assistente é isento do pagamento de taxa de justiça quando, por razões supervenientes à acusação que houver deduzido ou
+com que se tiver conformado e que lhe não sejam imputáveis, o arguido não for pronunciado ou for absolvido.
+artigo 518.º
+responsabilidade do assistente por encargos
+quando o procedimento depender de acusação particular, o assistente condenado em taxa paga também os encargos a que a
+sua actividade houver dado lugar.
+artigo 519.º
+(imposto devido pela constituição de assistente)
+1 - a constituição de assistente dá lugar ao pagamento de taxa de justiça, nos termos fixados no regulamento das custas
+processuais.
+2 - (revogado.)
+3 - no caso de morte ou incapacidade do assistente o pagamento do imposto já efectuado aproveita àqueles que se
+apresentarem em seu lugar, a fim de continuarem a assistência.
+artigo 520.º
+responsabilidade do denunciante
+paga também custas o denunciante, quando se mostrar que denunciou de má fé ou com negligência grave.
+retificado pelo/a declaração de rectificação n.º 100-a/2007 - diário da república n.º 207/2007, 1º suplemento, série i de 2007-10-26

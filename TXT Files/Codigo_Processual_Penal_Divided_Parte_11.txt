@@ -1,0 +1,87 @@
+código de processo penal - cpp
+livro v
+relações com autoridades estrangeiras e entidades judiciárias internacionais
+título i
+disposições gerais
+artigo 229.º
+(prevalência dos acordos e convenções internacionais)
+as rogatórias, a extradição, a delegação do procedimento penal, os efeitos das sentenças penais estrangeiras e as restantes
+relações com as autoridades estrangeiras relativas à administração da justiça penal são reguladas pelos tratados e convenções
+internacionais e, na sua falta ou insuficiência, pelo disposto em lei especial e ainda pelas disposições deste livro.
+artigo 230.º
+(rogatórias ao estrangeiro)
+1 - sem prejuízo do disposto no artigo anterior, as rogatórias às autoridades estrangeiras são entregues ao ministério público
+para expedição.
+2 - as rogatórias às autoridades estrangeiras só são passadas quando a autoridade judiciária competente entender que são
+necessárias à prova de algum facto essencial para a acusação ou para a defesa.
+artigo 231.º
+(recepção a cumprimento de rogatórias)
+1 - as rogatórias são recebidas por qualquer via, competindo ao ministério público promover o seu cumprimento.
+2 - a decisão de cumprimento das rogatórias dirigidas a autoridades judiciárias portuguesas cabe ao juiz ou ao ministério
+público, no âmbito das respectivas competências.
+3 - recebida a rogatória que não deva ser cumprida pelo ministério público, é-lhe dada vista para opor ao cumprimento o que
+julgar conveniente.
+código de processo penal - cpp
+artigo 232.º
+(recusa do cumprimento de rogatórias)
+1 - o cumprimento de rogatórias é recusado nos casos seguintes:
+a) quando a autoridade judiciária rogada não tiver competência para a prática do acto;
+b) quando a solicitação se dirigir a acto que a lei proíba ou que seja contrário à ordem pública portuguesa;
+c) quando a execução da rogatória for atentatória da soberania ou da segurança do estado;
+d) quando o acto implicar execução de decisão de tribunal estrangeiro sujeita a revisão e confirmação e a decisão se não
+mostrar revista e confirmada.
+2 - no caso a que se refere a alínea a) do número anterior, a autoridade judiciária rogada envia a rogatória à autoridade
+judiciária competente, se esta for portuguesa.
+artigo 233.º
+cooperação com entidades judiciárias internacionais
+o disposto no artigo 229.º aplica-se, com as devidas adaptações, à cooperação com entidades judiciárias internacionais
+estabelecidas no âmbito de tratados ou convenções que vinculem o estado português.
+título ii
+da revisão e confirmação de sentença penal estrangeira
+artigo 234.º
+(necessidade de revisão e confirmação)
+1 - quando, por força da lei ou de tratado ou convenção, uma sentença penal estrangeira dever ter eficácia em portugal, a sua
+força executiva depende de prévia revisão e confirmação.
+2 - a pedido do interessado pode ser confirmada, no mesmo processo de revisão e confirmação de sentença penal estrangeira,
+a condenação em indemnização civil constante da mesma.
+3 - o disposto no n.º 1 não tem aplicação quando a sentença penal estrangeira for invocada nos tribunais portugueses como
+meio de prova.
+artigo 235.º
+(tribunal competente)
+é competente para a revisão e confirmação a relação do distrito judicial em que o arguido tiver o último domicílio ou, na sua
+falta, for encontrado, ou em que tiver o último domicílio ou for encontrado o maior número de arguidos.
+2 - se não for possível determinar o tribunal competente segundo as disposições do número anterior, é competente o tribunal
+da relação de lisboa.
+código de processo penal - cpp
+3 - se a revisão e confirmação for pedida apenas relativamente à parte civil da sentença penal, é competente para ela a relação
+do distrito judicial onde os respectivos efeitos devam valer.
+artigo 236.º
+(legitimidade)
+têm legitimidade para pedir a revisão e confirmação de sentença penal estrangeira o ministério público, o arguido, o assistente
+e as partes civis.
+artigo 237.º
+(requisitos da confirmação)
+1 - para confirmação de sentença penal estrangeira é necessário que se verifiquem as condições seguintes:
+a) que, por lei, tratado ou convenção, a sentença possa ter força executiva em território português;
+b) que o facto que motivou a condenação seja também punível pela lei portuguesa;
+c) que a sentença não tenha aplicado pena ou medida de segurança proibida pela lei portuguesa;
+d) que o arguido tenha sido assistido por defensor e, quando ignorasse a língua usada no processo, por intérprete;
+e) que, salvo tratado ou convenção em contrário, a sentença não respeite a crime qualificável, segundo a lei portuguesa ou a do
+país em que foi proferida a sentença, de crime contra a segurança do estado.
+2 - valem correspondentemente para confirmação de sentença penal estrangeira, na parte aplicável, os requisitos de que a lei
+do processo civil faz depender a confirmação de sentença civil estrangeira.
+3 - se a sentença penal estrangeira tiver aplicado pena que a lei portuguesa não prevê ou pena que a lei portuguesa prevê, mas
+em medida superior ao máximo legal admissível, a sentença é confirmada, mas a pena aplicada converte-se naquela que ao caso
+coubesse segundo a lei portuguesa ou reduz-se até ao limite adequado. não obsta, porém, à confirmação a aplicação pela
+sentença estrangeira de pena em limite inferior ao mínimo admissível pela lei portuguesa.
+artigo 238.º
+(exclusão da exequibilidade)
+verificando-se todos os requisitos necessários para a confirmação, mas encontrando-se extintos, segundo a lei portuguesa o
+procedimento criminal ou a pena, por prescrição, amnistia ou qualquer outra causa, a confirmação é concedida, mas a força
+executiva das penas ou medidas de segurança aplicadas é denegada.
+artigo 239.º
+(início da execução)
+a execução de sentença penal estrangeira confirmada não se inicia enquanto o condenado não cumprir as penas ou medidas de
+segurança da mesma natureza em que tiver sido condenado pelos tribunais portugueses.
+artigo 240.º
+(procedimento)

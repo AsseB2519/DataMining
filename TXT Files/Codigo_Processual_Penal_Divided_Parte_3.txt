@@ -1,0 +1,68 @@
+código de processo penal - cpp
+título ii
+do ministério público e dos órgãos de polícia criminal
+artigo 48.º
+(legitimidade)
+o ministério público tem legitimidade para promover o processo penal, com as restrições constantes dos artigos 49.º a 52.º
+artigo 49.º
+(legitimidade em procedimento dependente de queixa)
+1 - quando o procedimento criminal depender de queixa, do ofendido ou de outras pessoas, é necessário que essas pessoas
+dêem conhecimento do facto ao ministério público, para que este promova o processo.
+2 - para o efeito do número anterior, considera-se feita ao ministério público a queixa dirigida a qualquer outra entidade que
+tenha a obrigação legal de a transmitir àquele.
+3 - a queixa pode ser apresentada pelo titular do direito respectivo, por mandatário judicial ou por mandatário munido de
+poderes especiais.
+4 - o disposto nos números anteriores é correspondentemente aplicável aos casos em que o procedimento criminal depender
+da participação de qualquer autoridade.
+artigo 50.º
+(legitimidade em procedimento dependente de acusação particular)
+1 - quando o procedimento criminal depender de acusação particular, do ofendido ou de outras pessoas, é necessário que essas
+pessoas se queixem, se constituem assistentes e deduzam acusação particular.
+2 - o ministério público procede oficiosamente a quaisquer diligências que julgar indispensáveis à descoberta da verdade e
+couberem na sua competência, participa em todos os actos processuais em que intervier a acusação particular, acusa
+conjuntamente com esta e recorre autonomamente das decisões judiciais.
+3 - é correspondentemente aplicável o disposto no n.º 3 do artigo anterior.
+artigo 51.º
+(homologação da desistência da queixa ou da acusação particular)
+1 - nos casos previstos nos artigos 49.º e 50.º, a intervenção do ministério público no processo cessa com a homologação da
+desistência da queixa ou da acusação particular.
+2 - se o conhecimento da desistência tiver lugar durante o inquérito, a homologação cabe ao ministério público; se tiver lugar
+durante a instrução ou o julgamento, ela cabe, respectivamente, ao juiz de instrução ou ao presidente do tribunal.
+3 - logo que tomar conhecimento da desistência, a autoridade judiciária competente para a homologação notifica o arguido
+para, em cinco dias, declarar, sem necessidade de fundamentação, se a ela se opõe. a falta de declaração equivale a não
+oposição.
+4 - se o arguido não tiver defensor nomeado e for desconhecido o seu paradeiro, a notificação a que se refere o número
+anterior efectua-se editalmente.
+código de processo penal - cpp
+artigo 52.º
+(legitimidade no caso de concurso de crimes)
+1 - no caso de concurso de crimes, o ministério público promove imediatamente o processo por aqueles para que tiver
+legitimidade, se o procedimento criminal pelo crime mais grave não depender de queixa ou de acusação particular, ou se os
+crimes forem de igual gravidade.
+2 - se o crime pelo qual o ministério público pode promover o processo for de menor gravidade, as pessoas a quem a lei
+confere o direito de queixa ou de acusação particular são notificadas para declararem, em cinco dias, se querem ou não usar
+desse direito. se declararem:
+a) que não pretendem apresentar queixa, ou nada declararem, o ministério público promove o processo pelos crimes que puder
+promover;
+b) que pretendem apresentar queixa, considera-se esta apresentada;
+artigo 53.º
+(posição e atribuições do ministério público no processo)
+1 - compete ao ministério público, no processo penal, colaborar com o tribunal na descoberta da verdade e na realização do
+direito, obedecendo em todas as intervenções processuais a critérios de estrita objectividade.
+2 - compete em especial ao ministério público:
+a) receber as denúncias, as queixas e as participações e apreciar o seguimento a dar-lhes;
+b) dirigir o inquérito;
+c) deduzir acusação e sustentá-la efectivamente na instrução e no julgamento;
+d) interpor recursos, ainda que no exclusivo interesse da defesa;
+e) promover a execução das penas e das medidas de segurança.
+artigo 54.º
+(impedimentos, recusas e escusas)
+1 - as disposições do capítulo vi do título i são correspondentemente aplicáveis, com as adaptações necessárias,
+nomeadamente as constantes dos números seguintes, aos magistrados do ministério público.
+2 - a declaração de impedimento e o seu requerimento, bem como o requerimento de recusa e o pedido de escusa, são
+dirigidos ao superior hierárquico do magistrado em causa e por aquele apreciados e definitivamente decididos, sem obediência
+a formalismo especial; sendo visado o procurador-geral da república, a competência cabe à secção criminal do supremo
+tribunal de justiça.
+3 - a entidade competente para a decisão, nos termos do número anterior, designa o substituto do impedido, recusado ou
+escusado.
+artigo 55.º

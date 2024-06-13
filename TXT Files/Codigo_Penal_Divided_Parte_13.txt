@@ -1,720 +1,523 @@
-Este ficheiro corresponde ao livro 2, titulo 4 (dos crimes contra a vida em sociedade) do código penal de portugal.
+Esta secção do ficheiro corresponde ao livro 2, título 5 (dos crimes contra o estado) do código penal de Portugal.
 
-capítulo 1 - dos crimes contra a família, os sentimentos religiosos e o respeito devido aos mortos
-secção i
-dos crimes contra a família
-artigo 247.º
-bigamia
-quem:
-a) sendo casado, contrair outro casamento; ou
-b) contrair casamento com pessoa casada;
-é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
-artigo 248.º
-falsificação de estado civil
-quem:
-a) fizer figurar no registo civil nascimento inexistente; ou
-b) de maneira a pôr em perigo a verificação oficial de estado civil ou de posição jurídica familiar, usurpar, alterar, supuser ou
-encobrir o seu estado civil ou a posição jurídica familiar de outra pessoa;
-é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
-artigo 249.º
-subtracção de menor
-1 - quem:
-a) subtrair menor;
-b) por meio de violência ou de ameaça com mal importante determinar menor a fugir; ou
-c) de um modo repetido e injustificado, não cumprir o regime estabelecido para a convivência do menor na regulação do
-exercício das responsabilidades parentais, ao recusar, atrasar ou dificultar significativamente a sua entrega ou acolhimento;
-é punido com pena de prisão até dois anos ou com pena de multa até 240 dias.
-2 - nos casos previstos na alínea c) do n.º 1, a pena é especialmente atenuada quando a conduta do agente tiver sido
-condicionada pelo respeito pela vontade do menor com idade superior a 12 anos.
-3 - o procedimento criminal depende de queixa.
-artigo 250.º
-violação da obrigação de alimentos
-1 - quem, estando legalmente obrigado a prestar alimentos e em condições de o fazer, não cumprir a obrigação no prazo de
-dois meses seguintes ao vencimento, é punido com pena de multa até 120 dias.
-2 - a prática reiterada do crime referido no número anterior é punível com pena de prisão até um ano ou com pena de multa
-até 120 dias.
-3 - quem, estando legalmente obrigado a prestar alimentos e em condições de o fazer, não cumprir a obrigação, pondo em
-perigo a satisfação, sem auxílio de terceiro, das necessidades fundamentais de quem a eles tem direito, é punido com pena de
-prisão até 2 anos ou com pena de multa até 240 dias.
-4 - quem, com a intenção de não prestar alimentos, se colocar na impossibilidade de o fazer e violar a obrigação a que está
-sujeito criando o perigo previsto no número anterior, é punido com pena de prisão até dois anos ou com pena de multa até 240
-dias.
-5 - o procedimento criminal depende de queixa.
-6 - se a obrigação vier a ser cumprida, pode o tribunal dispensar de pena ou declarar extinta, no todo ou em parte, a pena ainda
-não cumprida.
-secção ii
-dos crimes contra sentimentos religiosos
-artigo 251.º
-ultraje por motivo de crença religiosa
-1 - quem publicamente ofender outra pessoa ou dela escarnecer em razão da sua crença ou função religiosa, por forma
-adequada a perturbar a paz pública, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
-2 - na mesma pena incorre quem profanar lugar ou objecto de culto ou de veneração religiosa, por forma adequada a perturbar
-a paz pública.
-artigo 252.º
-impedimento, perturbação ou ultraje a acto de culto
-quem:
-a) por meio de violência ou de ameaça com mal importante impedir ou perturbar o exercício legítimo do culto de religião; ou
-b) publicamente vilipendiar acto de culto de religião ou dele escarnecer;
-é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
-secção iii
-dos crimes contra o respeito devido aos mortos
-artigo 253.º
-impedimento ou perturbação de cerimónia fúnebre
-quem, por meio de violência ou de ameaça com mal importante, impedir ou perturbar a realização de cortejo ou de cerimónia
-fúnebre, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
-artigo 254.º
-profanação de cadáver ou de lugar fúnebre
-1 - quem:
-a) sem autorização de quem de direito, subtrair, destruir ou ocultar cadáver ou parte dele, ou cinzas de pessoa falecida;
-b) profanar cadáver ou parte dele, ou cinzas de pessoa falecida, praticando actos ofensivos do respeito devido aos mortos; ou
-c) profanar lugar onde repousa pessoa falecida ou monumento aí erigido em sua memória, praticando actos ofensivos do
-respeito devido aos mortos;
-é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
-2 - a tentativa é punível.
-capítulo ii
-dos crimes de falsificação
-secção i
-disposição preliminar
-artigo 255.º
-definições legais
-para efeito do disposto no presente capítulo considera-se:
-a) documento - a declaração corporizada em escrito, ou registada em disco, fita gravada ou qualquer outro meio técnico,
-inteligível para a generalidade das pessoas ou para um certo círculo de pessoas, que, permitindo reconhecer o emitente, é
-idónea para provar facto juridicamente relevante, quer tal destino lhe seja dado no momento da sua emissão, quer
-posteriormente; e bem assim o sinal materialmente feito, dado ou posto numa coisa ou animal para provar facto juridicamente
-relevante e que permite reconhecer à generalidade das pessoas ou a um certo círculo de pessoas o seu destino e a prova que
-dele resulta;
-b) notação técnica: a notação de um valor, de um peso ou de uma medida, de um estado ou do decurso de um acontecimento,
-feita através de aparelho técnico que actua, total ou parcialmente, de forma automática, que permite reconhecer à generalidade
-das pessoas ou a um certo círculo de pessoas os seus resultados e se destina à prova de facto juridicamente relevante, quer tal
-destino lhe seja dado no momento da sua realização quer posteriormente;
-c) documento de identificação ou de viagem: o cartão de cidadão, o bilhete de identidade, o passaporte, o visto, a autorização
-ou título de residência, a carta de condução, o boletim de nascimento, a cédula ou outros certificados ou atestados a que a lei
-atribui força de identificação das pessoas, ou do seu estado ou situação profissional, donde possam resultar direitos ou
-vantagens, designadamente no que toca a subsistência, aboletamento, deslocação, assistência, saúde ou meios de ganhar a vida
-ou de melhorar o seu nível;
-d) moeda: o papel moeda, compreendendo as notas de banco, e a moeda metálica, que tenham, esteja legalmente previsto que
-venham a ter ou tenham tido nos últimos 20 anos curso legal em portugal ou no estrangeiro.
-secção ii
-falsificação de documentos
-artigo 256.º
-falsificação ou contrafacção de documento
-1 - quem, com intenção de causar prejuízo a outra pessoa ou ao estado, de obter para si ou para outra pessoa benefício
-ilegítimo, ou de preparar, facilitar, executar ou encobrir outro crime:
-a) fabricar ou elaborar documento falso, ou qualquer dos componentes destinados a corporizá-lo;
-b) falsificar ou alterar documento ou qualquer dos componentes que o integram;
-c) abusar da assinatura de outra pessoa para falsificar ou contrafazer documento;
-d) fizer constar falsamente de documento ou de qualquer dos seus componentes facto juridicamente relevante;
-e) usar documento a que se referem as alíneas anteriores; ou
-f) por qualquer meio, facultar ou detiver documento falsificado ou contrafeito;
-é punido com pena de prisão até três anos ou com pena de multa.
-2 - a tentativa é punível.
-3 - se os factos referidos no n.º 1 disserem respeito a documento autêntico ou com igual força, a testamento cerrado, a vale do
-correio, a letra de câmbio, a cheque ou a outro documento comercial transmissível por endosso, ou a qualquer outro título de
-crédito não compreendido no artigo 267.º, o agente é punido com pena de prisão de 6 meses a 5 anos ou com pena de multa
-de 60 a 600 dias.
-4 - se os factos referidos nos n.os 1 e 3 forem praticados por funcionário, no exercício das suas funções, o agente é punido com
-pena de prisão de 1 a 5 anos.
-artigo 257.º
-falsificação praticada por funcionário
-o funcionário que, no exercício das suas funções:
-a) omitir em documento, a que a lei atribui fé pública, facto que esse documento se destina a certificar ou autenticar; ou
-b) intercalar acto ou documento em protocolo, registo ou livro oficial, sem cumprir as formalidades legais;
-com intenção de causar prejuízo a outra pessoa ou ao estado, ou de obter para si ou para outra pessoa benefício ilegítimo, é
-punido com pena de prisão de 1 a 5 anos.
-artigo 258.º
-falsificação de notação técnica
-1 - quem, com intenção de causar prejuízo a outra pessoa ou ao estado, ou de obter para si ou para outra pessoa benefício
-ilegítimo:
-a) fabricar notação técnica falsa;
-b) falsificar ou alterar notação técnica;
-c) fizer constar falsamente de notação técnica facto juridicamente relevante; ou
-d) fizer uso de notação técnica a que se referem as alíneas anteriores, falsificada por outra pessoa;
-é punido com pena de prisão até 3 anos ou com pena de multa.
-2 - é equiparável à falsificação de notação técnica a acção perturbadora sobre aparelhos técnicos ou automáticos por meio da
-qual se influenciem os resultados da notação.
-3 - a tentativa é punível.
-4 - é correspondentemente aplicável o disposto no n.º 4 do artigo 256.º
-artigo 259.º
-danificação ou subtracção de documento e notação técnica
-1 - quem, com intenção de causar prejuízo a outra pessoa ou ao estado, ou de obter para si ou para outra pessoa benefício
-ilegítimo, destruir, danificar, tornar não utilizável, fizer desaparecer, dissimular ou subtrair documento ou notação técnica, de
-que não pode ou não pode exclusivamente dispor, ou de que outra pessoa pode legalmente exigir a entrega ou apresentação, é
-punido com pena de prisão até 3 anos ou com pena de multa.
-2 - a tentativa é punível.
-3 - é correspondentemente aplicável o disposto no n.º 4 do artigo 256.º
-4 - quando sejam particulares os ofendidos, o procedimento criminal depende de queixa.
-artigo 260.º
-atestado falso
-1 - o médico, dentista, enfermeiro, parteira, dirigente ou empregado de laboratório ou de instituição de investigação que sirva
-fins médicos, ou pessoa encarregada de fazer autópsias, que passar atestado ou certificado que sabe não corresponder à
-verdade, sobre o estado do corpo ou da saúde física ou mental, o nascimento ou a morte de uma pessoa, destinado a fazer fé
-perante autoridade pública ou a prejudicar interesses de outra pessoa, é punido com pena de prisão até 2 anos ou com pena de
-multa até 240 dias.
-2 - na mesma pena incorre o veterinário que passar atestados nos termos e com os fins descritos no número anterior
-relativamente a animais.
-3 - na mesma pena incorrem as pessoas referidas nos números anteriores que passarem atestado ou certificado ignorando se
-correspondem à verdade os factos deles constantes.
-4 - na mesma pena incorre quem passar atestado ou certificado referido nos n.os 1 e 2 arrogando-se falsamente as qualidades
-ou funções neles referidas.
-5 - quem fizer uso dos referidos certificados ou atestados falsos, com o fim de enganar autoridade pública ou prejudicar
-interesses de outra pessoa, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
-artigo 261.º
-uso de documento de identificação ou de viagem alheio
-1 - quem, com intenção de causar prejuízo a outra pessoa ou ao estado, de obter para si ou para outra pessoa benefício
-ilegítimo, ou de preparar, facilitar, executar ou encobrir outro crime, utilizar documento de identificação ou de viagem emitido a
-favor de outra pessoa, é punido com pena de prisão até dois anos ou com pena de multa até 240 dias.
-2 - na mesma pena incorre quem, com intenção de tornar possível o facto descrito no número anterior, facultar documento de
-identificação ou de viagem a pessoa a favor de quem não foi emitido.
-secção iii
-falsificação de moeda, título de crédito e valor selado
-artigo 262.º
-contrafacção de moeda
-1 - quem praticar contrafracção de moeda, com intenção de a pôr em circulação como legítima, é punido com pena de prisão
-de 3 a 12 anos.
-2 - quem, com a intenção de a pôr em circulação, falsificar ou alterar o valor facial de moeda legítima para valor superior é
-punido com pena de prisão de 2 a 8 anos.
-artigo 263.º
-depreciação do valor de moeda metálica
-1 - quem, com intenção de a pôr em circulação como íntegra, depreciar moeda metálica legítima, diminuindo por qualquer
-modo o seu valor, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
-2 - com a mesma pena é punido quem, sem autorização legal e com intenção de a passar ou pôr em circulação, fabricar moeda
-metálica com o mesmo ou com maior valor que o da legítima.
-3 - a tentativa é punível.
-artigo 264.º
-passagem de moeda falsa de concerto com o falsificador
-1 - nas penas indicadas nos artigos 262.º e 263.º incorre quem, concertando-se com o agente dos factos neles descritos, passar
-ou puser em circulação por qualquer modo, incluindo a exposição à venda, as ditas moedas.
-2 - a tentativa é punível.
-artigo 265.º
-passagem de moeda falsa
-1 - quem, por qualquer modo, incluindo a exposição à venda, passar ou puser em circulação:
-a) como legítima ou intacta, moeda falsa, falsificada, fabricada sem autorização legal ou em desrespeito pelas condições em que
-as autoridades competentes podem emitir moeda; ou
-b) moeda metálica depreciada, pelo seu pleno valor; ou
-c) (revogada.)
-é punido, no caso da alínea a), com pena de prisão até 5 anos e, no caso da alínea b), com pena de prisão até 1 ano ou com
-pena de multa até 120 dias.
-2 - se o agente só tiver conhecimento de que a moeda é falsa ou falsificada depois de a ter recebido, é punido:
-a) no caso de alínea a) do número anterior, com prisão até 1 ano ou multa até 240 dias;
-b) no caso da alínea b) do número anterior, com pena de multa até 90 dias.
-3 - (revogado.)
-artigo 266.º
-aquisição de moeda falsa para ser posta em circulação
-1 - quem adquirir, receber em depósito, transportar, exportar, importar ou por outro modo introduzir em território português,
-para si ou para outra pessoa, com intenção de, por qualquer meio, incluindo a exposição à venda, a passar ou pôr em circulação:
-a) como legítima ou intacta, moeda falsa, falsificada, fabricada sem autorização legal ou em desrespeito pelas condições em que
-as autoridades competentes podem emitir moeda; ou
-b) moeda metálica depreciada, pelo seu pleno valor; ou
-c) (revogada.)
-é punido, no caso da alínea a), com pena de prisão até 5 anos e, no caso da alínea b), com pena de prisão até 6 meses ou com
-pena de multa até 60 dias.
-2 - a tentativa é punível.
-artigo 267.º
-títulos equiparados a moeda
-1 - para efeitos do disposto nos artigos 262.º a 266.º, são equiparados a moeda:
-a) os títulos de crédito nacionais e estrangeiros constantes, por força da lei, de um tipo de papel e de impressão especialmente
-destinados a garanti-los contra o perigo de imitações e que, pela sua natureza e finalidade, não possam, só por si, deixar de
-incorporar um valor patrimonial;
-b) os bilhetes ou fracções da lotaria nacional; e
-c) os cartões de garantia.
-2 - o disposto no número anterior não abrange a falsificação relativamente a elementos a cuja garantia e identificação
-especialmente se não destine o uso do papel ou da impressão.
-artigo 268.º
-contrafacção de valores selados
-1 - quem, com intenção de os empregar ou de, por qualquer forma, incluindo a exposição à venda, os pôr em circulação como
-legítimos ou intactos, praticar contrafacção ou falsificação de valores selados ou timbrados cujo fornecimento seja exclusivo do
-estado português, nomeadamente papel selado de letra, selos fiscais ou postais, é punido com pena de prisão de 1 a 5 anos.
-2 - quem:
-a) empregar como legítimos ou intactos os referidos valores selados ou timbrados, quando falsos ou falsificados; ou
-b) com a intenção referida no n.º 1, adquirir, receber em depósito, importar ou por outro modo introduzir em território
-português, para si ou para outra pessoa, os referidos valores selados ou timbrados, quando falsos ou falsificados;
-é punido com pena de prisão até 3 anos ou com pena de multa.
-3 - se, no caso da alínea a) do número anterior, o agente só tiver tido conhecimento de que os valores selados ou timbrados são
-falsos ou falsificados depois de os ter recebido, é punido com pena de multa até 90 dias.
-4 - se a falsificação consistir em fazer desaparecer dos referidos valores selados ou timbrados o sinal de já haverem servido, o
-agente é punido com pena de multa até 60 dias.
-secção iv
-falsificação de cunhos, pesos e objectos análogos
-artigo 269.º
-contrafacção de selos, cunhos, marcas ou chancelas
-1 - quem, com intenção de os empregar como autênticos ou intactos, contrafizer ou falsificar selos, cunhos, marcas ou
-chancelas de qualquer autoridade ou repartição pública é punido com pena de prisão de 1 a 5 anos.
-2 - quem, com a referida intenção, adquirir, receber em depósito, importar, ou por outro modo introduzir em território
-português, para si ou para outra pessoa, os objectos referidos no número anterior, quando falsos ou falsificados, é punido com
-pena de prisão até 3 anos ou com pena de multa.
-3 - quem, com intenção de causar prejuízo a outra pessoa ou ao estado, utilizar, sem autorização de quem de direito, objectos
-referidos no n.º 1, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
-artigo 270.º
-pesos e medidas falsos
-1 - quem, com intenção de causar prejuízo a outra pessoa ou ao estado:
-a) apuser sobre pesos, medidas, balanças ou outros instrumentos de medida uma punção falsa ou tiver falsificado a existente;
-b) alterar, qualquer que seja a sua natureza, pesos, medidas, balanças ou outros instrumentos de medida, que estejam sujeitos
-legalmente à existência de uma punção; ou
-c) utilizar pesos, medidas, balanças ou outros instrumentos de medida falsos ou falsificados;
-é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
-2 - a tentativa é punível.
-secção v
-disposição comum
-artigo 271.º
-actos preparatórios
-1 - quem preparar a execução dos actos referidos nos artigos 256.º, 262.º, 263.º, no n.º 1 do artigo 268.º, no n.º 1 do artigo
-269.º, ou no artigo 270.º, fabricando, importando, adquirindo para si ou para outra pessoa, fornecendo, expondo à venda ou
-retendo:
-a) formas, cunhos, clichés, prensas de cunhar, punções, negativos, fotografias ou outros instrumentos que, pela sua natureza,
-são utilizáveis para realizar crimes; ou
-b) papel, holograma ou outro elemento igual ou susceptível de se confundir com os que são particularmente fabricados para
-evitar imitações ou utilizados no fabrico de documento autêntico ou de igual valor, moeda, título de crédito ou valor selado;
-é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
-2 - é correspondentemente aplicável à falsificação dos títulos constantes do artigo 267.º o disposto no número anterior.
-3 - não é punível pelos números anteriores quem voluntariamente:
-a) abandonar a execução do acto preparado e prevenir o perigo, por ele causado, de que outra pessoa continue a preparar o
-acto ou o execute, ou se esforçar seriamente nesse sentido, ou impedir a consumação; e
-b) destruir ou inutilizar os meios ou objectos referidos nos números anteriores, ou der à autoridade pública conhecimento deles
-ou a ela os entregar.
-capítulo iii
-dos crimes de perigo comum
-artigo 272.º
-incêndios, explosões e outras condutas especialmente perigosas
-1 - quem:
-a) provocar incêndio de relevo, nomeadamente pondo fogo a edifício, construção ou meio de transporte;
-b) provocar explosão por qualquer forma, nomeadamente mediante utilização de explosivos;
-c) libertar gases tóxicos ou asfixiantes;
-d) emitir radiações ou libertar substâncias radioactivas;
-e) provocar inundação, desprendimento de avalanche, massa de terra ou de pedras; ou
-f) provocar desmoronamento ou desabamento de construção;
-e criar deste modo perigo para a vida ou para a integridade física de outrem, ou para bens patrimoniais alheios de valor elevado,
+Capítulo I - Dos Crimes Contra a Segurança do Estado
+
+Secção I - Dos Crimes Contra a Soberania Nacional
+
+Subsecção I - Dos Crimes Contra a Independência e a Integridade Nacionais
+
+Artigo 308.º - Traição à Pátria
+Quem, por meio de violência, ameaça de violência, usurpação ou abuso de funções de soberania:
+    a) tentar separar da mãe-pátria, ou entregar a país estrangeiro ou submeter à soberania estrangeira, todo o território português ou parte dele; ou
+    b) ofender ou puser em perigo a independência do país;
+é punido com pena de prisão de 10 a 20 anos.
+
+Artigo 309.º - Serviço Militar em Forças Armadas Inimigas
+Revogado
+
+Artigo 310.º - Inteligências com o Estrangeiro para Provocar Guerra
+Revogado
+
+Artigo 311.º - Prática de Actos Adequados a Provocar Guerra
+Revogado
+
+Artigo 312.º - Inteligências com o Estrangeiro para Constranger o Estado Português
+Revogado
+
+Artigo 313.º - Ajuda a Forças Armadas Inimigas
+Revogado
+
+Artigo 314.º - Campanha Contra Esforço de Guerra
+Revogado
+
+Artigo 315.º - Sabotagem Contra a Defesa Nacional
+Revogado
+
+Artigo 316.º - Violação do Segredo de Estado
+1 - Quem, pondo em perigo interesses fundamentais do estado português, transmitir, tornar acessível a pessoa não autorizada ou tornar público, no todo ou em parte, e independentemente da forma de acesso, informação, facto ou documento, plano ou objeto classificados como segredo de estado que devem, em nome daqueles interesses, manter-se secretos é punido com pena de prisão de 2 a 8 anos.
+2 - Quem destruir, subtrair ou falsificar informação, facto ou documento, plano ou objeto referido no número anterior, pondo em perigo interesses no mesmo número indicados, é punido com pena de prisão de 2 a 8 anos.
+3 - Se o agente praticar facto descrito nos números anteriores violando dever especificamente imposto pelo estatuto da sua função ou serviço, ou da missão que lhe foi conferida por autoridade competente, é punido com pena de prisão de 3 a 10 anos.
+4 - Se o agente praticar o facto descrito no n.º 1 através de meios ou em circunstâncias que facilitem a sua divulgação com recurso a meios de comunicação social ou a plataformas de índole digital ou de qualquer outra natureza é punido com pena de prisão de 3 a 10 anos.
+5 - Se o agente praticar por negligência os factos referidos nos n.os 1 e 2, tendo acesso aos objetos ou segredos de estado em razão da sua função ou serviço, ou da missão que lhe foi conferida por autoridade competente, é punido com pena de prisão até 3 anos.
+6 - Consideram-se interesses fundamentais do estado os relativos à independência nacional, à unidade e à integridade do estado ou à sua segurança interna ou externa, à preservação das instituições constitucionais, bem como os recursos afetos à defesa e à diplomacia, à salvaguarda da população em território nacional, à preservação e segurança dos recursos económicos e energéticos estratégicos e à preservação do potencial científico nacional.
+
+Artigo 317.º - Espionagem
+1 - Quem:
+    a) colaborar com governo, associação, organização ou serviço de informações estrangeiros, ou com agente seu, com intenção de praticar facto referido no artigo anterior; ou
+    b) recrutar, acolher ou receber agente que pratique facto referido no artigo anterior ou na alínea anterior, ou, de qualquer modo, favorecer a prática de tal facto;
 é punido com pena de prisão de 3 a 10 anos.
-2 - se o perigo referido no número anterior for criado por negligência, o agente é punido com pena de prisão de 1 a 8 anos.
-3 - se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 5 anos.
-artigo 273.º
-energia nuclear
-se os factos descritos no artigo anterior forem praticados mediante libertação de energia nuclear, o agente é punido com pena
-de prisão:
-a) de 5 a 15 anos no caso do n.º 1;
-b) de 3 a 10 anos no caso do n.º 2;
-c) de 1 a 8 anos no caso do n.º 3.
-artigo 274.º
-incêndio florestal
-1 - quem provocar incêndio em terreno ocupado com floresta, incluindo matas, ou pastagem, mato, formações vegetais
-espontâneas ou em terreno agrícola, próprios ou alheios, é punido com pena de prisão de 1 a 8 anos.
-2 - se, através da conduta referida no número anterior, o agente:
-a) criar perigo para a vida ou para a integridade física de outrem, ou para bens patrimoniais alheios de valor elevado;
-b) deixar a vítima em situação económica difícil; ou
-c) actuar com intenção de obter benefício económico;
-é punido com pena de prisão de três a doze anos.
-3 - se o perigo previsto na alínea a) do n.º 2 for criado por negligência, o agente é punido com pena de prisão de dois a dez
-anos.
-4 - se a conduta prevista no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até três anos ou com
-pena de multa.
-5 - se a conduta prevista no número anterior for praticada por negligência grosseira ou criar perigo para a vida ou para a
-integridade física de outrem, ou para bens patrimoniais alheios de valor elevado, o agente é punido com pena de prisão até
-cinco anos.
-6 - quem impedir o combate aos incêndios referidos nos números anteriores é punido com pena de prisão de um a oito anos.
-7 - quem dificultar a extinção dos incêndios referidos nos números anteriores, designadamente destruindo ou tornando
-inutilizável o material destinado a combatê-los, é punido com pena de prisão de um a cinco anos.
-8 - não é abrangida pelo disposto nos n.os 1 a 5 a realização de trabalhos e outras operações que, segundo os conhecimentos e
-a experiência da técnica florestal, se mostrarem indicados e forem levados a cabo, de acordo com as regras aplicáveis, por
-pessoa qualificada ou devidamente autorizada, para combater incêndios, prevenir, debelar ou minorar a deterioração do
-património florestal ou garantir a sua defesa ou conservação.
-9 - (revogado).
-artigo 274.º-a
-regime sancionatório
-1 - a suspensão da execução da pena de prisão e a liberdade condicional podem ser subordinadas à obrigação de permanência
-na habitação, com fiscalização por meios técnicos de controlo à distância, no período coincidente com os meses de maior risco
-de ocorrência de fogos.
-2 - quando qualquer dos crimes previstos no artigo anterior for cometido por inimputável, a medida de segurança prevista no
-artigo 91.º pode ser aplicada sob a forma de internamento coincidente com os meses de maior risco de ocorrência de fogos.
-3 - a suspensão da execução do internamento e a liberdade para prova podem ser subordinadas à obrigação de permanência
-na habitação, com fiscalização por meios técnicos de controlo à distância, no período coincidente com os meses de maior risco
-de ocorrência de fogos.
-4 - quem praticar crime doloso de incêndio florestal a que devesse aplicar-se concretamente prisão efetiva e tiver cometido
-anteriormente crime doloso de incêndio florestal a que tenha sido ou seja aplicada pena de prisão efetiva, é punido com uma
-pena relativamente indeterminada, sempre que a avaliação conjunta dos factos praticados e da personalidade do agente revelar
-uma acentuada inclinação para a prática deste crime, que persista no momento da condenação.
-5 - sem prejuízo do disposto nos n.os 1 a 3, à pena relativamente indeterminada é correspondentemente aplicável o disposto no
-n.º 2 do artigo 86.º e no artigo 87.º
-artigo 275.º
-actos preparatórios
-quem, para preparar a execução de um dos crimes previstos nos artigos 272.º a 274.º, fabricar, dissimular, adquirir para si ou
-para outra pessoa, entregar, detiver ou importar substância explosiva ou capaz de produzir explosão nuclear, radioactiva ou
-própria para fabricação de gases tóxicos ou asfixiantes, ou aparelhagem necessária para a execução de tais crimes, é punido
-com pena de prisão até três anos ou com pena de multa.
-revogado pelo/a artigo 118.º do/a lei n.º 5/2006 - diário da república n.º 39/2006, série i-a de 2006-02-23, em vigor a partir de 2006-08-22
-artigo 276.º
-instrumentos de escuta telefónica
-quem importar, fabricar, guardar, comprar, vender, ceder ou adquirir a qualquer título, transportar, distribuir ou detiver
-instrumento ou aparelhagem especificamente destinados à montagem de escuta telefónica, ou à violação de correspondência
-ou de telecomunicações, fora das condições legais ou em contrário das prescrições da autoridade competente, é punido com
-pena de prisão até 2 anos ou com pena de multa até 240 dias.
-artigo 277.º
-infracção de regras de construção, dano em instalações e perturbação de serviços
-1 - quem:
-a) no âmbito da sua actividade profissional infringir regras legais, regulamentares ou técnicas que devam ser observadas no
-planeamento, direcção ou execução de construção, demolição ou instalação, ou na sua modificação ou conservação;
-b) destruir, danificar ou tornar não utilizável, total ou parcialmente, aparelhagem ou outros meios existentes em local de
-trabalho e destinados a prevenir acidentes, ou, infringindo regras legais, regulamentares ou técnicas, omitir a instalação de tais
-meios ou aparelhagem;
-c) destruir, danificar ou tornar não utilizável, total ou parcialmente, instalação para aproveitamento, produção, armazenamento,
-condução ou distribuição de água, óleo, gasolina, calor, electricidade, gás ou energia nuclear, ou para protecção contra forças da
-natureza; ou
-d) impedir ou perturbar a exploração de serviços de comunicações ou de fornecimento ao público de água, luz, energia ou calor,
-subtraindo ou desviando, destruindo, danificando ou tornando não utilizável, total ou parcialmente, coisa ou energia que serve
-tais serviços;
-e criar deste modo perigo para a vida ou para a integridade física de outrem, ou para bens patrimoniais alheios de valor elevado,
+2 - Se o agente praticar facto descrito no número anterior violando dever especificamente imposto pelo estatuto da sua função ou serviço, ou da missão que lhe foi conferida por autoridade competente, é punido com pena de prisão de 5 a 15 anos.
+
+Artigo 318.º - Meios de Prova de Interesse Nacional
+1 - Quem falsificar, subtrair, destruir, inutilizar, fizer desaparecer ou dissimular meio de prova sobre facto referente a relações entre Portugal e estado estrangeiro ou organização internacional, adequado a pôr em perigo direitos ou interesses nacionais, é punido com pena de prisão de 1 a 8 anos.
+2 - Se a ação se traduzir em arrancar, deslocar, colocar falsamente, tornar irreconhecível ou, de qualquer modo, suprimir marcos, balizas ou outros sinais indicativos dos limites do território português o agente é punido com pena de prisão até 3 anos.
+
+Artigo 319.º - Infidelidade Diplomática
+1 - Quem, representando oficialmente o estado português, com intenção de provocar prejuízo a direitos ou interesses nacionais:
+    a) conduzir negócio de estado com governo estrangeiro ou organização internacional; ou
+    b) perante eles assumir compromissos sem para isso estar devidamente autorizado em nome de Portugal;
 é punido com pena de prisão de 1 a 8 anos.
-2 - se o perigo referido no número anterior for criado por negligência, o agente é punido com pena de prisão até 5 anos.
-3 - se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 3 anos ou com pena
-de multa.
-artigo 278.º
-danos contra a natureza
-1 - quem, não observando disposições legais, regulamentares ou obrigações impostas pela autoridade competente em
-conformidade com aquelas disposições:
-a) eliminar, destruir ou capturar exemplares de espécies protegidas da fauna ou da flora selvagens ou eliminar exemplares de
-fauna ou flora em número significativo;
-b) destruir ou deteriorar significativamente habitat natural protegido ou habitat natural não protegido causando a este perdas
-em espécies protegidas da fauna ou da flora selvagens ou em número significativo; ou
-c) afectar gravemente recursos do subsolo;
+2 - O procedimento criminal depende de participação do governo português.
+
+Artigo 320.º - Usurpação de Autoridade Pública Portuguesa
+Quem, em território português, com usurpação de funções, exercer, a favor de estado estrangeiro ou de agente deste, acto privativo de autoridade portuguesa, é punido com pena de prisão até 5 anos, se pena mais grave lhe não couber por força de outra disposição legal.
+
+Subsecção II - Dos Crimes Contra Estados Estrangeiros e Organizações Internacionais
+
+Artigo 321.º - Entrega Ilícita de Pessoa a Entidade Estrangeira
+Quem, em território português, praticar factos conducentes à entrega ilícita de pessoa, nacional ou estrangeira, a estado estrangeiro, a agente deste ou a qualquer entidade pública ou particular existente nesse estado, usando para tal fim de violência ou de fraude, é punido com pena de prisão até 5 anos, se pena mais grave lhe não couber por força de outra disposição legal.
+
+Artigo 322.º - Crimes Contra Pessoa que Goze de Proteção Internacional
+1 - Quem atentar contra a vida, a integridade física ou a liberdade de pessoa que goze de proteção internacional, encontrando-se o ofendido em Portugal no desempenho de funções oficiais, é punido com pena de prisão de 1 a 8 anos, se pena mais grave lhe não couber por forca de outra disposição legal.
+2 - Quem ofender a honra de pessoa que goze de proteção internacional e se encontre nas condições referidas no número anterior é punido com pena de prisão até 2 anos ou com pena de multa, se pena mais grave lhe não couber por força de outra disposição legal.
+3 - Gozam de proteção internacional para efeito do disposto nos números anteriores:
+    a) chefe de estado, incluindo membro de órgão colegial que exerça, nos termos constitucionais, as funções de chefe de estado, chefe de governo ou ministro dos negócios estrangeiros, bem como membros de família que os acompanhem; e
+    b) representante ou funcionário de estado estrangeiro ou agente de organização internacional que, no momento do crime, gozem de proteção especial segundo o direito internacional, bem como membros de família que com eles vivam.
+
+Artigo 323.º - Ultraje de Símbolos Estrangeiros
+Quem, publicamente, por palavras, gestos, divulgação de escrito ou outro meio de comunicação com o público, injuriar bandeira oficial ou outro símbolo de soberania de estado estrangeiro ou de organização internacional de que Portugal seja membro é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
+
+Artigo 324.º - Condições de Punibilidade e de Procedibilidade
+1 - O procedimento criminal pelos crimes previstos nesta subsecção depende, salvo tratado ou convenção internacional em contrário, de participação do governo português. Tratando-se de crime contra a honra é também necessário que seja feita participação pelo governo estrangeiro ou pelo representante da organização internacional.
+2 - Relativamente a estado estrangeiro, seu representante ou funcionário, é necessário à aplicação das disposições da presente subsecção que:
+    a) Portugal mantenha com o estado estrangeiro relações diplomáticas; e
+    b) haja reciprocidade no tratamento penal do facto, no momento da sua prática e do seu julgamento.
+
+Secção II - Dos Crimes Contra a Realização do Estado de Direito
+
+Artigo 325.º - Alteração Violenta do Estado de Direito
+1 - Quem, por meio de violência ou ameaça de violência, tentar destruir, alterar ou subverter o estado de direito constitucionalmente estabelecido é punido com pena de prisão de 3 a 12 anos.
+2 - Se o facto descrito no número anterior for praticado por meio de violência armada, o agente é punido com pena de prisão de 5 a 15 anos.
+3 - No caso previsto no número anterior a pena é especialmente atenuada se o agente, não tendo exercido funções de comando, se render sem opor resistência, ou entregar ou abandonar as armas antes ou imediatamente depois de advertência da autoridade.
+
+Artigo 326.º - Incitamento à Guerra Civil ou à Alteração Violenta do Estado de Direito
+1 - Quem publicamente incitar habitantes do território português ou forças militares, militarizadas ou de segurança ao serviço de Portugal à guerra civil ou à prática da conduta referida no artigo anterior é punido com pena de prisão de 1 a 8 anos.
+2 - Se o facto descrito no número anterior for acompanhado de distribuição de armas, o agente é punido com pena de prisão de 5 a 15 anos.
+
+Artigo 327.º - Atentado Contra o Presidente da República
+1 - Quem atentar contra a vida, a integridade física ou a liberdade do presidente da república ou de quem constitucionalmente o substituir é punido com pena de prisão de 5 a 15 anos, se pena mais grave lhe não couber por força de outra disposição legal.
+2 - Em caso de consumação do crime contra a vida, a integridade física ou a liberdade, o agente é punido com a pena correspondente ao crime praticado agravada de um terço nos seus limites mínimo e máximo.
+
+Artigo 328.º - Ofensa à Honra do Presidente da República
+1 - Quem injuriar ou difamar o presidente da república, ou quem constitucionalmente o substituir é punido com pena de prisão até 3 anos ou com pena de multa.
+2 - Se a injúria ou a difamação forem feitas por meio de palavras proferidas publicamente, de publicação de escrito ou de desenho, ou por qualquer meio técnico de comunicação com o público, o agente é punido com pena de prisão de 6 meses a 3 anos ou com pena de multa não inferior a 60 dias.
+3 - O procedimento criminal cessa se o presidente da república expressamente declarar que dele desiste.
+
+Artigo 329.º - Sabotagem
+Quem destruir, impossibilitar o funcionamento ou desviar dos seus fins normais, definitiva ou temporariamente, total ou parcialmente, meios ou vias de comunicação, instalações de serviços públicos ou destinadas ao abastecimento e satisfação de necessidades vitais da população, infra-estruturas de relevante valor para a economia, a segurança ou a defesa nacional, com intenção de destruir, alterar ou subverter o estado de direito constitucionalmente estabelecido, é punido com pena de prisão de três a dez anos.
+
+Artigo 330.º - Incitamento à Desobediência Colectiva
+1 - Quem, com intenção de destruir, alterar ou subverter pela violência o estado de direito constitucionalmente estabelecido, incitar, em reunião pública ou por qualquer meio de comunicação com o público, à desobediência colectiva de leis de ordem pública, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
+2 - Na mesma pena incorre quem, com a intenção referida no número anterior, publicamente ou por qualquer meio de comunicação com o público:
+    a) divulgar notícias falsas ou tendenciosas susceptíveis de provocar alarme ou inquietação na população;
+    b) provocar ou tentar provocar, pelos meios referidos na alínea anterior, divisões no seio das forças armadas, entre estas e as forças militarizadas ou de segurança, ou entre qualquer destas e os órgãos de soberania; ou
+    c) incitar à luta política pela violência.
+
+Artigo 331.º - Ligações com o Estrangeiro
+Quem, com intenção de destruir, alterar ou subverter pela violência o estado de direito constitucionalmente estabelecido, se puser em ligação com governo de estado estrangeiro, com partido, associação, instituição ou grupo estrangeiro ou com algum dos seus agentes para:
+    a) receber instruções, directivas, dinheiro ou valores; ou
+    b) colaborar em actividades consistindo:
+        i) na recolha, preparação ou divulgação pública de notícias falsas ou grosseiramente deformadas;
+        ii) no aliciamento de agentes ou em facilitar aquelas actividades, fornecendo local para reuniões, subsidiando-as ou fazendo a sua propaganda;
+        iii) em promessas ou dádivas; ou
+        iv) em ameaçar outra pessoa ou utilizar fraude contra ela;
+é punido com pena de prisão até 5 anos, se pena mais grave lhe não couber por força de outra disposição legal.
+
+Artigo 332.º - Ultraje de Símbolos Nacionais e Regionais
+1 - Quem publicamente, por palavras, gestos ou divulgação de escrito, ou por outro meio de comunicação com o público, ultrajar a república, a bandeira ou o hino nacionais, as armas ou emblemas da soberania portuguesa, ou faltar ao respeito que lhes é devido, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
+2 - Se os factos descritos no número anterior forem praticados contra as regiões autónomas, as bandeiras ou hinos regionais, ou os emblemas da respectiva autonomia, o agente é punido com pena de prisão até um ano ou com pena de multa até 120 dias.
+
+Artigo 333.º - Coacção Contra Órgãos Constitucionais
+1 - Quem, por violência ou ameaça de violência, impedir ou constranger o livre exercício das funções de órgão de soberania ou de ministro da república é punido com pena de prisão de 1 a 8 anos, se pena mais grave lhe não couber por força de outra disposição legal.
+2 - Se os factos descritos no número anterior forem praticados contra órgão de governo próprio das regiões autónomas, o agente é punido com pena de prisão de 1 a 5 anos, se pena mais grave lhe não couber por força de outra disposição legal.
+3 - Se os factos descritos no n.º 1 forem praticados contra órgão de autarquia local, o agente é punido com pena de prisão até 3 anos.
+4 - Se os factos descritos no n.º 1 forem praticados:
+    a) contra membro de órgão referido no n.º 1, o agente é punido com pena de prisão até 5 anos;
+    b) contra membro de órgão referido no n.º 2, o agente é punido com pena de prisão até 3 anos.
+    c) contra membro de órgão referido no n.º 3, o agente é punido com pena de prisão até 2 anos.
+
+Artigo 334.º - Perturbação do Funcionamento de Órgão Constitucional
+Quem, com tumultos, desordens ou vozearias, perturbar ilegitimamente:
+    a) o funcionamento de órgão referido no n.º 1 ou no n.º 2 do artigo anterior, não sendo seu membro, é punido, respectivamente, com pena de prisão até 3 anos, ou com pena de prisão até 1 ano;
+    b) o exercício de funções de pessoa referida no n.º 4 do artigo anterior é punido com pena de prisão até 2 anos no caso da alínea a) ou com pena de prisão até 6 meses no caso da alínea b).
+
+Artigo 335.º - Tráfico de Influência
+1 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, vantagem patrimonial ou não patrimonial, ou a sua promessa, para abusar da sua influência, real ou suposta, junto de qualquer entidade pública, nacional ou estrangeira, é punido:
+    a) com pena de prisão de 1 a 5 anos, se pena mais grave lhe não couber por força de outra disposição legal, se o fim for o de obter uma qualquer decisão ilícita favorável;
+    b) com pena de prisão até 3 anos ou com pena de multa, se pena mais grave lhe não couber por força de outra disposição legal, se o fim for o de obter uma qualquer decisão lícita favorável.
+2 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer vantagem patrimonial ou não patrimonial às pessoas referidas no número anterior:
+    a) para os fins previstos na alínea a), é punido com pena de prisão até 3 anos ou com pena de multa;
+    b) para os fins previstos na alínea b), é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
+3 - A tentativa é punível.
+4 - É correspondentemente aplicável o disposto no artigo 374.º-b.
+
+Secção III - Dos Crimes Eleitorais
+
+Artigo 336.º - Falsificação do Recenseamento Eleitoral
+1 - Quem:
+    a) provocar a sua inscrição no recenseamento eleitoral fornecendo elementos falsos;
+    b) inscrever outra pessoa no recenseamento eleitoral sabendo que ela não tem o direito de aí se inscrever;
+    c) impedir a inscrição de outra pessoa que sabe ter direito a inscrever-se; ou
+    d) por qualquer outro modo falsificar o recenseamento eleitoral;
+é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
+2 - Quem, como membro de comissão de recenseamento, com intuito fraudulento, não proceder à elaboração ou à correcção dos cadernos eleitorais é punido com pena de prisão até 3 anos ou com pena de multa.
+3 - A tentativa é punível.
+
+Artigo 337.º - Obstrução à Inscrição de Eleitor
+1 - Quem, por meio de violência, ameaça de violência ou artifício fraudulento, determinar eleitor a não se inscrever no recenseamento eleitoral ou a inscrever-se fora da unidade geográfica ou do local próprio, ou para além do prazo, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias, se pena mais grave lhe não couber por força de outra disposição legal.
+2 - A tentativa é punível.
+
+Artigo 338.º - Perturbação de Assembleia Eleitoral
+1 - Quem por meio de violência, ameaça de violência ou participando em tumulto, desordem ou vozearia, impedir ou perturbar gravemente a realização, funcionamento ou apuramento de resultados de assembleia ou colégio eleitoral, destinados, nos termos da lei, à eleição de órgão de soberania, de deputado ao parlamento europeu, de órgão de região autónoma ou de autarquia local, ou a referendos é punido com pena de prisão até três anos ou com pena de multa.
+2 - Quem entrar armado em assembleia ou colégio eleitoral, não pertencendo a força pública devidamente autorizada, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
+3 - A tentativa é punível.
+
+Artigo 339.º - Fraude em Eleição
+1 - Quem, em eleição referida no n.º 1 do artigo anterior:
+    a) votar em mais de uma secção ou assembleia de voto, mais de uma vez ou com várias listas na mesma secção ou assembleia de voto, ou actuar por qualquer forma que conduza a um falso apuramento do escrutínio; ou
+    b) falsear o apuramento, a publicação ou a acta oficial do resultado da votação;
+é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
+2 - A tentativa é punível.
+
+Artigo 340.º - Coacção de Eleitor
+Quem, em eleição referida no n.º 1 do artigo 338.º, por meio de violência, ameaça de violência ou de grave mal, constranger eleitor a votar, o impedir de votar ou o forçar a votar num certo sentido, é punido com pena de prisão até 5 anos, se pena mais grave lhe não couber por força de outra disposição legal.
+
+Artigo 341.º - Fraude e Corrupção de Eleitor
+1 - Quem, em eleição referida no n.º 1 do artigo 338.º:
+    a) mediante artifício fraudulento, levar eleitor a votar, o impedir de votar, ou o levar a votar em certo sentido; ou
+    b) comprar ou vender voto;
+é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
+2 - A tentativa é punível.
+
+Artigo 342.º - Violação do Segredo de Escrutínio
+Quem, em eleição referida no n.º 1 do artigo 338.º, realizada por escrutínio secreto, violando disposição legal destinada a assegurar o segredo de escrutínio, tomar conhecimento ou der a outra pessoa conhecimento do sentido de voto de um eleitor é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
+
+Artigo 343.º - Agravação
+As penas previstas nos artigos desta secção, com ressalva da prevista no n.º 2 do artigo 336.º, são agravadas de um terço nos seus limites mínimo e máximo se o agente for membro de comissão recenseadora, de secção ou assembleia de voto, ou for delegado de partido político à comissão, secção ou assembleia.
+
+Secção IV - Disposições Comuns
+
+Artigo 344.º - Actos Preparatórios
+Os actos preparatórios dos crimes previstos nos artigos 308.º a 317.º e nos artigos 325.º a 327.º são punidos com pena de prisão até 3 anos.
+
+Artigo 345.º - Atenuação Especial
+Quando um crime previsto neste capítulo supuser a produção de um perigo, a pena é especialmente atenuada se o agente voluntariamente fizer diminuir por forma considerável o perigo produzido pela conduta ou o afastar.
+
+Artigo 346.º - Penas Acessórias
+Quem for condenado por crime previsto no presente capítulo pode, atenta a concreta gravidade do facto e a sua projecção na idoneidade cívica do agente, ser incapacitado para eleger presidente da república, membro de assembleia legislativa ou de autarquia local, para ser eleito como tal ou para ser jurado, por período de 2 a 10 anos.
+
+Capítulo II - Dos Crimes Contra a Autoridade Pública
+
+Secção I - Da Resistência, Desobediência e Falsas Declarações à Autoridade Pública
+
+Artigo 347.º - Resistência e Coacção Sobre Funcionário
+1 - Quem empregar violência, incluindo ameaça grave ou ofensa à integridade física, contra funcionário ou membro das forças armadas, militarizadas ou de segurança, para se opor a que ele pratique ato relativo ao exercício das suas funções, ou para o constranger a que pratique ato relativo ao exercício das suas funções, mas contrário aos seus deveres, é punido com pena de prisão de um a cinco anos.
+2 - A mesma pena é aplicável a quem desobedecer ao sinal de paragem e dirigir contra funcionário ou membro das forças armadas, militarizadas ou de segurança, veículo, com ou sem motor, que conduza em via pública ou equiparada, ou embarcação, que pilote em águas interiores fluviais ou marítimas, para se opor a que ele pratique acto relativo ao exercício das suas funções, ou para o constranger a que pratique acto relativo ao exercício das suas funções, mas contrário aos seus deveres, se pena mais grave lhe não couber por força de outra disposição legal.
+
+Artigo 348.º - Desobediência
+1 - Quem faltar à obediência devida a ordem ou a mandado legítimos, regularmente comunicados e emanados de autoridade ou funcionário competente, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias se:
+    a) uma disposição legal cominar, no caso, a punição da desobediência simples; ou
+    b) na ausência de disposição legal, a autoridade ou o funcionário fizerem a correspondente cominação.
+2 - A pena é de prisão até 2 anos ou de multa até 240 dias nos casos em que uma disposição legal cominar a punição da desobediência qualificada.
+
+Artigo 348.º-A - Falsas Declarações
+1 - Quem declarar ou atestar falsamente à autoridade pública ou a funcionário no exercício das suas funções identidade, estado ou outra qualidade a que a lei atribua efeitos jurídicos, próprios ou alheios, é punido com pena de prisão até um ano ou com pena de multa, se pena mais grave não lhe couber por força de outra disposição legal.
+2 - Se as declarações se destinarem a ser exaradas em documento autêntico o agente é punido com pena de prisão até dois anos ou com pena de multa.
+
+Secção II - Da Tirada e Evasão de Presos e do Não Cumprimento de Obrigações Impostas por Sentença Criminal
+
+Artigo 349.º - Tirada de Presos
+Quem:
+    a) por meio de violência, ameaça ou artifício, libertar pessoa legalmente privada da liberdade; ou
+    b) instigar, promover ou, por qualquer forma, auxiliar a evasão de pessoa legalmente privada da liberdade;
 é punido com pena de prisão até 5 anos.
-2 - quem, não observando disposições legais, regulamentares ou obrigações impostas pela autoridade competente em
-conformidade com aquelas disposições, comercializar ou detiver para comercialização exemplar de espécies protegidas da fauna
-ou da flora selvagens, vivo ou morto, bem como qualquer parte ou produto obtido a partir daquele, é punido com pena de
-prisão até 2 anos ou com pena de multa até 360 dias.
-3 - quem, não observando disposições legais, regulamentares ou obrigações impostas pela autoridade competente em
-conformidade com aquelas disposições, possuir ou detiver exemplar de espécies protegidas da fauna ou da flora selvagens, vivo
-ou morto, é punido com pena de prisão até 1 ano ou com pena de multa até 240 dias.
-4 - a conduta referida no número anterior não é punível quando:
-a) a quantidade de exemplares detidos não for significativa; e
-b) o impacto sobre a conservação das espécies em causa não for significativo.
-5 - se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 2 anos ou com pena
-de multa até 360 dias.
-6 - se as condutas referidas nos n.os 2 e 3 forem praticadas por negligência, o agente é punido com pena de multa até 240 dias.
-artigo 278.º-a
-violação de regras urbanísticas
-1 - quem proceder a obra de construção, reconstrução ou ampliação de imóvel que incida sobre via pública, terreno da reserva
-ecológica nacional, reserva agrícola nacional, bem do domínio público ou terreno especialmente protegido por disposição
-legal, consciente da desconformidade da sua conduta com as normas urbanísticas aplicáveis, é punido com pena de prisão até
-três anos ou multa.
-2 - não são puníveis as obras de escassa relevância urbanística, assim classificadas por lei.
-3 - (revogado.)
-4 - pode o tribunal ordenar, na decisão de condenação, a demolição da obra ou a restituição do solo ao estado anterior, à custa
-do autor do facto.
-artigo 278.º-b
-dispensa ou atenuação da pena
-1 - nos casos previstos no artigo anterior, pode haver lugar a dispensa da pena se o agente, antes da instauração do
-procedimento criminal, demolir a obra ou restituir o solo ao estado anterior à obra.
-2 - a pena é especialmente atenuada se o agente demolir a obra ou restituir o solo ao estado anterior à obra até ao
-encerramento da audiência de julgamento em primeira instância.
-artigo 279.º-a
-actividades perigosas para o ambiente
-1 - quem proceder à transferência de resíduos, quando essa actividade esteja abrangida pelo âmbito de aplicação do n.º 35 do
-artigo 2.º do regulamento (ce) n.º 1013/2006, do parlamento europeu e do conselho, de 14 de junho, relativo à transferência
-de resíduos, e seja realizada em quantidades não negligenciáveis, quer consista numa transferência única quer em várias
-transferências aparentemente ligadas, é punido com pena de prisão até 3 anos ou com pena de multa até 600 dias.
-2 - quem, não observando disposições legais, regulamentares ou obrigações impostas pela autoridade competente em
-conformidade com aquelas disposições, produzir, importar, exportar, colocar no mercado ou utilizar substâncias que
-empobreçam a camada de ozono é punido com pena de prisão até 1 ano ou com pena de multa até 240 dias.
-3 - se as condutas referidas nos números anteriores forem praticadas por negligência, o agente é punido com pena de prisão
-até 1 ano ou com pena de multa, nos casos do n.º 1, e com pena de prisão até 6 meses ou com pena de multa até 120 dias, nos
-casos do n.º 2.
-artigo 279.º
-poluição
-1 - quem, não observando disposições legais, regulamentares ou obrigações impostas pela autoridade competente em
-conformidade com aquelas disposições, provocar poluição sonora ou poluir o ar, a água, o solo, ou por qualquer forma
-degradar as qualidades destes componentes ambientais, causando danos substanciais, é punido com pena de prisão até 5 anos.
-2 - quem, não observando disposições legais, regulamentares ou obrigações impostas pela autoridade competente em
-conformidade com aquelas disposições, causar danos substanciais à qualidade do ar, da água, do solo, ou à fauna ou à flora, ao
-proceder:
-a) à descarga, à emissão ou à introdução de matérias ionizantes ou de radiações ionizantes na atmosfera, no solo ou na água;
-b) às operações de recolha, transporte, armazenagem, triagem, tratamento, valorização e eliminação de resíduos, incluindo o
-tratamento posterior dos locais de eliminação, bem como as actividades exercidas por negociantes e intermediários;
-c) à exploração de instalação onde se exerça atividade perigosa ou onde sejam armazenadas ou utilizadas substâncias ou
-misturas perigosas; ou
-d) à produção, ao tratamento, à manipulação, à utilização, à detenção, ao armazenamento, ao transporte, à importação, à
-exportação ou à eliminação de materiais nucleares ou de outras substâncias radioactivas perigosas;
-é punido com pena de prisão até 5 anos.
-3 - quando as condutas descritas nos números anteriores forem suscetíveis de causar danos substanciais à qualidade do ar, da
-água ou do solo ou à fauna ou à flora, o agente é punido com pena de prisão até 3 anos ou com pena de multa até 600 dias.
-4 - se as condutas referidas nos n.os 1 e 2 forem praticadas por negligência, o agente é punido com pena de prisão até 2 anos
-ou com pena de multa até 360 dias.
-5 - se as condutas referidas no n.º 3 forem praticadas por negligência, o agente é punido com pena de prisão até 1 ano ou com
-pena de multa até 240 dias.
-6 - para os efeitos dos n.os 1, 2 e 3, são danos substanciais aqueles que:
-a) prejudiquem, de modo significativo ou duradouro, a integridade física, bem como o bem-estar das pessoas na fruição da
-natureza;
-b) impeçam, de modo significativo ou duradouro, a utilização de um componente ambiental;
-c) disseminem microrganismo ou substância prejudicial para o corpo ou saúde das pessoas;
-d) causem um impacto significativo sobre a conservação das espécies ou dos seus habitats; ou
-e) prejudiquem, de modo significativo, a qualidade ou o estado de um componente ambiental.
-7 - quando forem efetuadas descargas de substâncias poluentes por navios, de forma isolada ou reiterada, das quais resulte
-deterioração da qualidade da água, o agente é punido com pena de prisão até 5 anos.
-8 - se a conduta referida no número anterior for praticada por negligência, o agente é punido com pena de prisão até 2 anos ou
-com pena de multa até 360 dias.
-artigo 280.º
-poluição com perigo comum
-quem, mediante conduta descrita nos n.os 1, 2 e 7 do artigo 279.º, criar perigo para a vida ou para a integridade física de
-outrem, para bens patrimoniais alheios de valor elevado ou para monumentos culturais ou históricos, é punido com pena de
-prisão:
-a) de 1 a 8 anos, se a conduta e a criação do perigo forem dolosas;
-b) até 6 anos, se a conduta for dolosa e a criação do perigo ocorrer por negligência.
-artigo 281.º
-perigo relativo a animais ou vegetais
-1 - quem:
-a) difundir doença, praga, planta ou animal nocivos; ou
-b) manipular, fabricar ou produzir, importar, armazenar, ou puser à venda ou em circulação, alimentos ou forragens destinados a
-animais domésticos alheios;
-e criar deste modo perigo de dano a número considerável de animais alheios, domésticos ou úteis ao homem, ou a culturas,
-plantações ou florestas alheias, é punido com pena de prisão até 2 anos ou com pena de multa.
-2 - se o perigo referido no número anterior for criado por negligência, o agente é punido com pena de prisão até 1 ano ou com
-pena de multa até 240 dias.
-3 - se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 6 meses ou com
-pena de multa até 120 dias.
-artigo 282.º
-corrupção de substâncias alimentares ou medicinais
-1 - quem:
-a) no aproveitamento, produção, confecção, fabrico, embalagem, transporte, tratamento, ou outra actividade que sobre elas
-incida, de substâncias destinadas a consumo alheio, para serem comidas, mastigadas, bebidas, para fins medicinais ou cirúrgicos,
-as corromper, falsificar, alterar, reduzir o seu valor nutritivo ou terapêutico ou lhes juntar ingredientes; ou
-b) importar, dissimular, vender, expuser à venda, tiver em depósito para venda ou, por qualquer forma, entregar ao consumo
-alheio substâncias que forem objecto de actividades referidas na alínea anterior ou que forem utilizadas depois do prazo da sua
-validade ou estiverem avariadas, corruptas ou alteradas por acção do tempo ou dos agentes a cuja acção estão expostas;
-e criar deste modo perigo para a vida ou para a integridade física de outrem é punido com pena de prisão de 1 a 8 anos.
-2 - se o perigo referido no número anterior for criado por negligência, o agente é punido com pena de prisão até 5 anos.
-3 - se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 3 anos ou com pena
-de multa.
-artigo 283.º
-propagação de doença, alteração de análise ou de receituário
-1 - quem:
-a) propagar doença contagiosa;
-b) como médico ou seu empregado, enfermeiro ou empregado de laboratório, ou pessoa legalmente autorizada a elaborar
-exame ou registo auxiliar de diagnóstico ou tratamento médico ou cirúrgico, fornecer dados ou resultados inexactos; ou
-c) como farmacêutico ou empregado de farmácia fornecer substâncias medicinais em desacordo com o prescrito em receita
-médica;
-e criar deste modo perigo para a vida ou perigo grave para a integridade física de outrem é punido com pena de prisão de 1 a 8
-anos.
-2 - se o perigo referido no número anterior for criado por negligência, o agente é punido com pena de prisão até 5 anos.
-3 - se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 3 anos ou com pena
-de multa.
-artigo 284.º
-recusa de médico
-o médico que recusar o auxílio da sua profissão em caso de perigo para a vida ou de perigo grave para a integridade física de
-outra pessoa, que não possa ser removido de outra maneira, é punido com pena de prisão até 5 anos.
-artigo 285.º
-agravação pelo resultado
-se dos crimes previstos nos artigos 272.º a 274.º, 277.º, 280.º, ou 282.º a 284.º resultar morte ou ofensa à integridade física grave
-de outra pessoa, o agente é punido com a pena que ao caso caberia, agravada de um terço nos seus limites mínimo e máximo.
-artigo 286.º
-atenuação especial e dispensa de pena
-se, nos casos previstos nos artigos 272.º a 274.º e 277.º, nos n.os 3 e 5 do artigo 279.º ou nos artigos 280.º a 284.º, o agente
-remover voluntariamente o perigo antes de se ter verificado dano substancial ou considerável, a pena é especialmente atenuada
-ou pode ter lugar a dispensa de pena.
-capítulo iv
-dos crimes contra a segurança das comunicações
-artigo 287.º
-captura ou desvio de aeronave, navio, comboio ou veículo de transporte colectivo de passageiros
-1 - quem se apossar de, ou desviar da sua rota normal, aeronave em voo, ou navio em curso de navegação, nos quais se
-encontrem pessoas, é punido com pena de prisão de 5 a 15 anos.
-2 - quem se apossar de comboio em circulação no qual se encontrem pessoas, ou o desviar do seu trajecto normal, é punido
-com pena de prisão de 2 a 10 anos.
-3 - quem se apossar de, ou desviar da sua rota normal, veículo de transporte colectivo de passageiros em trânsito é punido com
-pena de prisão de 1 a 8 anos.
-4 - considera-se:
-a) uma aeronave em voo desde o momento em que, terminado o embarque, tenham sido fechadas todas as portas exteriores
-até ao momento em que uma dessas portas seja aberta para o desembarque. em caso de aterragem forçada o voo é
-considerado como estando a decorrer até que a autoridade competente se responsabilize pela aeronave, bem como pelas
-pessoas e bens a bordo;
-b) um navio em curso de navegação desde o momento em que o pessoal de terra ou a tripulação comecem as operações
-preparatórias de uma determinada viagem até à chegada a local de destino;
-c) um comboio em curso de circulação desde o momento em que, terminado o embarque de passageiros, se inicia a marcha até
-ao momento em que deva ter lugar o desembarque.
-d) um veículo de transporte colectivo de passageiros em trânsito desde o momento em que, terminado o embarque de
-passageiros, se inicia a marcha até ao momento em que deva ter lugar o desembarque.
-artigo 288.º
-atentado à segurança de transporte por ar, água ou caminho de ferro
-1 - quem atentar contra a segurança de transporte por ar, água ou caminho de ferro:
-a) destruindo, suprimindo, danificando ou tornando não utilizável instalação, material ou sinalização;
-b) colocando obstáculo ao funcionamento ou circulação;
-c) dando falso aviso ou sinal; ou
-d) praticando acto do qual possa resultar desastre;
-é punido com pena de prisão de um a oito anos.
-2 - se, através da conduta referida no número anterior, o agente criar perigo para a vida ou para a integridade física de outrem,
-ou para bens patrimoniais alheios de valor elevado, é punido com pena de prisão de três a dez anos.
-3 - se o perigo referido no número anterior for criado por negligência, o agente é punido com pena de prisão de dois a oito
-anos.
-4 - se a conduta referida no n.º 2 for praticada por negligência, o agente é punido com pena de prisão até cinco anos.
-artigo 289.º
-condução perigosa de meio de transporte por ar, água ou caminho de ferro
-1 - quem conduzir veículo destinado a transporte por ar, água ou caminho de ferro, não estando em condições de o fazer com
-segurança ou violando grosseiramente as regras de condução, e criar deste modo perigo para a vida ou para a integridade física
-de outrem ou para bens patrimoniais alheios de valor elevado, é punido com pena de prisão de 1 a 8 anos.
-2 - se o perigo referido no número anterior for criado por negligência, o agente é punido com pena de prisão até 5 anos.
-3 - se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 3 anos ou com pena
-de multa.
-artigo 290.º
-atentado à segurança de transporte rodoviário
-1 - quem atentar contra a segurança de transporte rodoviário:
-a) destruindo, suprimindo, danificando ou tornando não utilizável via de comunicação, material circulante, obra de arte,
-instalação ou sinalização;
-b) colocando obstáculo ao funcionamento ou à circulação;
-c) dando falso aviso ou sinal; ou
-d) praticando acto do qual possa resultar desastre;
-é punido com pena de prisão de um a cinco anos.
-2 - se, através da conduta referida no número anterior, o agente criar perigo para a vida ou para a integridade física de outrem,
-ou para bens patrimoniais alheios de valor elevado, é punido com pena de prisão de dois a oito anos.
-3 - se o perigo referido no número anterior for criado por negligência, o agente é punido com pena de prisão de um a cinco
-anos.
-4 - se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até dois anos ou com
-pena de multa.
-artigo 291.º
-condução perigosa de veículo rodoviário
-1 - quem conduzir veículo, com ou sem motor, em via pública ou equiparada:
-a) não estando em condições de o fazer com segurança, por se encontrar em estado de embriaguez ou sob influência de álcool,
-estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo, ou por deficiência física ou psíquica ou fadiga
-excessiva; ou
-b) violando grosseiramente as regras da circulação rodoviária relativas à prioridade, à obrigação de parar, à ultrapassagem, à
-mudança de direcção, à passagem de peões, à inversão do sentido de marcha em auto-estradas ou em estradas fora de
-povoações, à marcha atrás em auto-estradas ou em estradas fora de povoações, ao limite de velocidade ou à obrigatoriedade
-de circular na faixa de rodagem da direita;
-e criar deste modo perigo para a vida ou para a integridade física de outrem, ou para bens patrimoniais alheios de valor elevado,
-é punido com pena de prisão até 3 anos ou com pena de multa.
-2 - quem conduzir veículo, com ou sem motor, em via pública ou equiparada e nela realizar actividades não autorizadas, de
-natureza desportiva ou análoga, que violem as regras previstas na alínea b) do número anterior, é punido com pena de prisão
-até três anos ou com pena de multa.
-3 - se o perigo referido no n.º 1 for criado por negligência, o agente é punido com pena de prisão até dois anos ou com pena
-de multa até 240 dias.
-4 - se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 1 ano ou com pena
-de multa até 120 dias.
-artigo 292.º
-condução de veículo em estado de embriaguez ou sob a influência de estupefacientes ou substâncias psicotrópicas
-1 - quem, pelo menos por negligência, conduzir veículo, com ou sem motor, em via pública ou equiparada, com uma taxa de
-álcool no sangue igual ou superior a 1,2 g/l, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias, se pena
-mais grave lhe não couber por força de outra disposição legal.
-2 - na mesma pena incorre quem, pelo menos por negligência, conduzir veículo, com ou sem motor, em via pública ou
-equiparada, não estando em condições de o fazer com segurança, por se encontrar sob influência de estupefacientes,
-substâncias psicotrópicas ou produtos com efeito análogo perturbadores da aptidão física, mental ou psicológica.
-artigo 292.º-a
-exercício de funções por pessoal crítico para a segurança da aviação civil em estado de embriaguez ou sob a influência
-de estupefacientes ou substâncias psicotrópicas
-1 - quem, pelo menos por negligência, exercer as suas funções de elemento do pessoal crítico para a segurança da aviação civil
-com uma taxa de álcool no sangue igual ou superior a 0,9 g/l é punido com pena de prisão até 2 anos ou com pena de multa
-até 240 dias, se pena mais grave lhe não couber por força de outra disposição legal.
-2 - na mesma pena incorre quem, pelo menos por negligência, exercer as suas funções de elemento do pessoal crítico para a
-segurança da aviação civil sob influência de estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo
-perturbadores da aptidão física, mental ou psicológica, se pena mais grave lhe não couber por força de outra disposição legal.
-3 - para efeitos do disposto nos números anteriores, entende-se por pessoal crítico para a segurança da aviação civil a tripulação
-das aeronaves, os pilotos remotos de aeronaves não tripuladas, o pessoal afeto à manutenção das aeronaves, os controladores
-de tráfego aéreo, os agentes de informação de tráfego de aeródromo, os oficiais de operações de voo, pessoal que efetua
-rastreios de segurança contra atos de interferência ilícita na aviação civil e qualquer outro pessoal que circule na área de
-movimento dos aeródromos.
-aditado pelo/a artigo 38.º do/a lei n.º 54/2023 - diário da república n.º 171/2023, série i de 2023-09-04, em vigor a partir de 2023-09-05
-artigo 293.º
-lançamento de projéctil contra veículo
-quem arremessar projéctil contra veículo em movimento, de transporte por ar, água ou terra, é punido com pena de prisão até
-um ano ou com pena de multa até 120 dias, se pena mais grave lhe não couber por força de outra disposição legal.
-artigo 294.º
-agravação, atenuação especial e dispensa de pena
-1 - quando os crimes previstos nos artigos 291.º e 292.º forem cometidos no exercício da respectiva actividade por condutores
-de veículos de transporte escolar, ligeiros de aluguer para transporte público de aluguer, pesados de passageiros ou de
-mercadorias ou de transporte de mercadorias perigosas, o agente é punido com a pena que ao caso caberia, agravada de um
-terço nos seus limites mínimo e máximo.
-2 - é aplicável o disposto no número anterior aos condutores de veículos de socorro ou de emergência que cometam os crimes
-previstos na alínea a) do n.º 1 e nos n.os 2 e 3 do artigo 291.º e no artigo 292.º
-3 - aos casos previstos nos artigos 287.º a 291.º aplica-se o disposto nos artigos 285.º e 286.º, ainda que com as agravações
-previstas nos números anteriores.
-capítulo v
-dos crimes contra a ordem e a tranquilidade públicas
-secção i
-dos crimes de anti-socialidade perigosa
-artigo 295.º
-embriaguez e intoxicação
-1 - quem, pelo menos por negligência, se colocar em estado de inimputabilidade derivado da ingestão ou consumo de bebida
-alcoólica ou de substância tóxica e, nesse estado, praticar um facto ilícito típico é punido com pena de prisão até 5 anos ou com
-pena de multa até 600 dias.
-2 - a pena não pode ser superior à prevista para o facto ilícito típico praticado.
-3 - o procedimento criminal depende de queixa ou de acusação particular se o procedimento pelo facto ilícito típico praticado
-também dependesse de uma ou de outra.
-artigo 296.º
-utilização de menor na mendicidade
-quem utilizar menor ou pessoa psiquicamente incapaz na mendicidade é punido com pena de prisão até três anos.
-secção ii
-dos crimes contra a paz pública
-artigo 297.º
-instigação pública a um crime
-1 - quem, em reunião pública, através de meio de comunicação social, por divulgação de escrito ou outro meio de reprodução
-técnica, provocar ou incitar à prática de um crime determinado é punido com pena de prisão até 3 anos ou com pena de multa,
-se pena mais grave lhe não couber por força de outra disposição legal.
-2 - é correspondentemente aplicável o disposto no n.º 2 do artigo 295.º
-artigo 298.º
-apologia pública de um crime
-1 - quem, em reunião pública, através de meio de comunicação social, por divulgação de escrito ou outro meio de reprodução
-técnica, recompensar ou louvar outra pessoa por ter praticado um crime, de forma adequada a criar perigo da prática de outro
-crime da mesma espécie, é punido com pena de prisão até 6 meses ou com pena de multa até 60 dias, se pena mais grave lhe
-não couber por força de outra disposição legal.
-2 - é correspondentemente aplicável o disposto no n.º 2 do artigo 295.º
-artigo 299.º
-associação criminosa
-1 - quem promover ou fundar grupo, organização ou associação cuja finalidade ou actividade seja dirigida à prática de um ou
-mais crimes é punido com pena de prisão de um a cinco anos.
-2 - na mesma pena incorre quem fizer parte de tais grupos, organizações ou associações ou quem os apoiar, nomeadamente
-fornecendo armas, munições, instrumentos de crime, guarda ou locais para as reuniões, ou qualquer auxílio para que se
-recrutem novos elementos.
-3 - quem chefiar ou dirigir os grupos, organizações ou associações referidos nos números anteriores é punido com pena de
-prisão de 2 a 8 anos.
-4 - as penas referidas podem ser especialmente atenuadas ou não ter lugar a punição se o agente impedir ou se esforçar
-seriamente por impedir a continuação dos grupos, organizações ou associações, ou comunicar à autoridade a sua existência de
-modo a esta poder evitar a prática de crimes.
-5 - para os efeitos do presente artigo, considera-se que existe grupo, organização ou associação quando esteja em causa um
-conjunto de, pelo menos, três pessoas, actuando concertadamente durante um certo período de tempo.
-artigo 300.º
-organizações terroristas
-revogado
-revogado pelo/a artigo 11.º do/a lei n.º 52/2003 - diário da república n.º 193/2003, série i-a de 2003-08-22, em vigor a partir de 2003-08-27
-artigo 301.º
-terrorismo
-revogado
-revogado pelo/a artigo 11.º do/a lei n.º 52/2003 - diário da república n.º 193/2003, série i-a de 2003-08-22, em vigor a partir de 2003-08-27
-artigo 302.º
-participação em motim
-1 - quem tomar parte em motim durante o qual forem cometidas colectivamente violências contra pessoas ou contra a
-propriedade é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias, se pena mais grave lhe não couber por
-força de outra disposição legal.
-2 - se o agente tiver provocado ou dirigido o motim, é punido com pena de prisão até 3 anos ou com pena de multa.
-3 - o agente não é punido se se tiver retirado do motim por ordem ou admoestação da autoridade sem ter cometido ou
-provocado violência.
-artigo 303.º
-participação em motim armado
-1 - os limites mínimo e máximo das penas previstas nos n.os 1 e 2 do artigo anterior são elevados ao dobro se o motim for
-armado.
-2 - considera-se armado o motim em que um dos intervenientes é portador de arma de fogo ostensiva, ou em que vários dos
-participantes são portadores de armas de fogo, ostensivas ou ocultas, ou de objectos, ostensivos ou ocultos, susceptíveis de
-serem utilizados como tal.
-3 - para efeito do disposto no número anterior não se considera armado o motim:
-a) em que as armas são trazidas acidentalmente e sem intenção de as utilizar; ou
-b) quando os participantes que tragam armas imediatamente se retirarem ou forem expulsos.
-4 - quem trouxer arma sem conhecimento dos outros é punido como se efectivamente participasse em motim armado.
-5 - é correspondentemente aplicável o disposto no n.º 3 do artigo anterior.
-artigo 304.º
-desobediência a ordem de dispersão de reunião pública
-1 - quem não obedecer a ordem legítima de se retirar de ajuntamento ou reunião pública, dada por autoridade competente,
-com advertência de que a desobediência constitui crime, é punido com pena de prisão até 1 ano ou com pena de multa até 120
-dias.
-2 - se o desobediente for promotor da reunião ou ajuntamento, é punido com pena de prisão até 2 anos ou com pena de multa
-até 240 dias.
-artigo 305.º
-ameaça com prática de crime
-quem, mediante ameaça com a prática de crime, ou fazendo crer simuladamente que um crime vai ser cometido, causar alarme
-ou inquietação entre a população é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
-artigo 306.º
-abuso e simulação de sinais de perigo
-quem utilizar abusivamente sinal ou chamada de alarme ou de socorro, ou simuladamente fizer crer que é necessário auxílio
-alheio em virtude de desastre, perigo ou situação de necessidade colectiva, é punido com pena de prisão até l ano ou com pena
-de multa até 120 dias.
-secção iii
-dos crimes contra sinais de identificação
-artigo 307.º
-abuso de designação, sinal ou uniforme
-1 - quem, ilegitimamente e com intenção de fazer crer que lhe pertencem, utilizar ou usar designação, sinal, uniforme ou traje
-próprios de função do serviço público, nacional ou estrangeiro, é punido com pena de prisão até 6 meses ou com pena de multa
-até 60 dias.
-2 - se a designação, sinal, uniforme ou traje for privativo de pessoa que exerça autoridade pública, o agente é punido com pena
-de prisão até 1 ano ou com pena de multa até 120 dias.
+
+Artigo 350.º - Auxílio de Funcionário à Evasão
+1 - O funcionário encarregado da guarda de pessoa legalmente privada da liberdade que a libertar, deixar evadir, ou facilitar, promover ou, por qualquer forma, auxiliar a sua evasão é punido com pena de prisão de 1 a 8 anos.
+2 - O funcionário que, não sendo encarregado da guarda, estiver obrigado, em virtude da função que desempenha, a exercer vigilância sobre pessoa legalmente privada da liberdade ou a impedir a sua evasão e praticar a conduta referida no número anterior é punido com pena de prisão até 5 anos.
+
+Artigo 351.º - Negligência na Guarda
+O funcionário encarregado da guarda de pessoa legalmente privada da liberdade que, por negligência grosseira, permitir a sua evasão é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
+
+Artigo 352.º - Evasão
+1 - Quem, encontrando-se legalmente privado da liberdade, se evadir é punido com pena de prisão até 2 anos.
+2 - Se o agente espontaneamente se entregar às autoridades até à declaração de contumácia, a pena pode ser especialmente atenuada.
+
+Artigo 353.º - Violação de Imposições, Proibições ou Interdições
+Quem violar imposições, proibições ou interdições determinadas por sentença criminal, a título de pena aplicada em processo sumaríssimo, de pena acessória ou de medida de segurança não privativa da liberdade, é punido com pena de prisão até dois anos ou com pena de multa até 240 dias.
+
+Artigo 354.º - Motim de Presos
+Os presos, detidos ou internados que se amotinarem e, concertando as suas forças:
+    a) atacarem funcionário legalmente encarregado da sua guarda, tratamento ou vigilância, ou o constrangerem, por meio de violência ou ameaça de violência, a praticar acto ou a abster-se de o praticar; ou
+    b) promoverem a sua evasão ou a evasão de terceiro;
+são punidos com pena de prisão de 1 a 8 anos.
+
+Secção III - Da Violação de Providências Públicas
+
+Artigo 355.º - Descaminho ou Destruição de Objectos Colocados Sob o Poder Público
+Quem destruir, danificar ou inutilizar, total ou parcialmente, ou, por qualquer forma, subtrair ao poder público a que está sujeito, documento ou outro objeto móvel, bem como coisa ou animal que tiverem sido arrestados, apreendidos ou objeto de providência cautelar, é punido com pena de prisão até 5 anos, se pena mais grave lhe não couber por força de outra disposição legal.
+
+Artigo 356.º - Quebra de Marcas e de Selos
+Quem abrir, romper ou inutilizar, total ou parcialmente, marcas ou selos, apostos legitimamente, por funcionário competente, para identificar ou manter inviolável qualquer coisa ou animal, ou para certificar que sobre estes recaiu arresto, apreensão ou providência cautelar, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
+
+Artigo 357.º - Arrancamento, Destruição ou Alteração de Editais
+Quem arrancar, destruir, danificar, alterar ou, por qualquer forma, impedir que se conheça edital afixado por funcionário competente é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
+
+Secção IV - Usurpação de Funções
+
+Artigo 358.º - Usurpação de Funções
+Quem:
+    a) sem para tal estar autorizado, exercer funções ou praticar actos próprios de funcionário, de comando militar ou de força de segurança pública, arrogando-se, expressa ou tacitamente, essa qualidade;
+    b) exercer profissão ou praticar acto próprio de uma profissão para a qual a lei exige título ou preenchimento de certas condições, arrogando-se, expressa ou tacitamente, possuí-lo ou preenchê-las, quando o não possui ou não as preenche; ou
+    c) continuar no exercício de funções públicas, depois de lhe ter sido oficialmente notificada demissão ou suspensão de funções;
+é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
+
+Capítulo III - Dos Crimes Contra a Realização da Justiça
+
+Artigo 359.º - Falsidade de Depoimento ou Declaração
+1 - Quem prestar depoimento de parte, fazendo falsas declarações relativamente a factos sobre os quais deve depor, depois de ter prestado juramento e de ter sido advertido das consequências penais a que se expõe com a prestação de depoimento falso, é punido com pena de prisão até 3 anos ou com pena de multa.
+2 - Na mesma pena incorrem o assistente e as partes civis relativamente a declarações que prestarem em processo penal, bem como o arguido relativamente a declarações sobre a sua identidade.
+3 - Incorre na pena de prisão até três anos ou em pena de multa o representante da pessoa coletiva ou entidade equiparada arguida em processo penal que não responda ou responda falsamente quanto à sua identidade ou à identidade da pessoa coletiva ou entidade equiparada.
+
+Artigo 360.º - Falsidade de Testemunho, Perícia, Interpretação ou Tradução
+1 - Quem, como testemunha, perito, técnico, tradutor ou intérprete, perante tribunal ou funcionário competente para receber como meio de prova, depoimento, relatório, informação ou tradução, prestar depoimento, apresentar relatório, der informações ou fizer traduções falsos, é punido com pena de prisão de 6 meses a 3 anos ou com pena de multa não inferior a 60 dias.
+2 - Na mesma pena incorre quem, sem justa causa, se recusar a depor ou a apresentar relatório, informação ou tradução.
+3 - Se o facto referido no n.º 1 for praticado depois de o agente ter prestado juramento e ter sido advertido das consequências penais a que se expõe, a pena é de prisão até 5 anos ou de multa até 600 dias.
+
+Artigo 361.º - Agravação
+1 - As penas previstas nos artigos 359.º e 360.º são agravadas de um terço nos seus limites mínimo e máximo se:
+    a) o agente actuar com intenção lucrativa;
+    b) do facto resultar demissão de lugar, perda de posição profissional ou destruição das relações familiares ou sociais de outra pessoa; ou
+    c) do facto resultar que, em vez do agente, outra pessoa seja condenada pelo crime que aquele praticou.
+2 - Se das condutas descritas nos artigos 359.º ou 360.º resultar privação da liberdade de uma pessoa, o agente é punido com pena de prisão de 1 a 8 anos.
+
+Artigo 362.º - Retractação
+1 - A punição pelos artigos 359.º, 360.º e 361.º, alínea a), não tem lugar se o agente se retractar voluntariamente, a tempo de a retractação poder ser tomada em conta na decisão e antes que tenha resultado do depoimento, relatório, informação ou tradução falsos, prejuízo para terceiro.
+2 - A retractação pode ser feita, conforme os casos, perante o tribunal, o ministério público ou o órgão de polícia criminal.
+
+Artigo 363.º - Suborno
+Quem convencer ou tentar convencer outra pessoa, através de dádiva ou promessa de vantagem patrimonial ou não patrimonial, a praticar os factos previstos nos artigos 359.º ou 360.º, sem que estes venham a ser cometidos, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias, se pena mais grave lhe não couber por força de outra disposição legal.
+
+Artigo 364.º - Atenuação Especial e Dispensa da Pena
+As penas previstas nos artigos 359.º, 360.º e 363.º são especialmente atenuadas, podendo ter lugar a dispensa de pena quando:
+    a) a falsidade disser respeito a circunstâncias que não tenham significado essencial para a prova a que o depoimento, relatório, informação ou tradução se destinar; ou
+    b) o facto tiver sido praticado para evitar que o agente, o cônjuge, um adoptante ou adoptado, os parentes ou afins até ao 2.º grau, ou a pessoa, de outro ou do mesmo sexo, que com aquele viva em condições análogas às dos cônjuges, se expusessem ao perigo de virem a ser sujeitos a pena ou a medida de segurança.
+
+Artigo 365.º - Denúncia Caluniosa
+1 - Quem, por qualquer meio, perante autoridade ou publicamente, com a consciência da falsidade da imputação, denunciar ou lançar sobre determinada pessoa a suspeita da prática de crime, com intenção de que contra ela se instaure procedimento, é punido com pena de prisão até 3 anos ou com pena de multa.
+2 - Se a conduta consistir na falsa imputação de contra-ordenação ou falta disciplinar, o agente é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
+3 - Se o meio utilizado pelo agente se traduzir em apresentar, alterar ou desvirtuar meio de prova, o agente é punido:
+    a) no caso do n.º 1, com pena de prisão até 5 anos;
+    b) no caso do n.º 2, com pena de prisão até 3 anos ou com pena de multa.
+4 - Se do facto resultar privação da liberdade do ofendido, o agente é punido com pena de prisão de 1 a 8 anos.
+5 - A requerimento do ofendido o tribunal ordena o conhecimento público da sentença condenatória, nos termos do artigo 189.º
+
+Artigo 366.º - Simulação de Crime
+1 - Quem, sem o imputar a pessoa determinada, denunciar crime ou fizer criar suspeita da sua prática à autoridade competente, sabendo que ele se não verificou, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
+2 - Se o facto respeitar a contra-ordenação ou ilícito disciplinar, o agente é punido com pena de multa até 60 dias.
+
+Artigo 367.º - Favorecimento Pessoal
+1 - Quem, total ou parcialmente, impedir, frustrar ou iludir actividade probatória ou preventiva de autoridade competente, com intenção ou com consciência de evitar que outra pessoa, que praticou um crime, seja submetida a pena ou medida de segurança, é punido com pena de prisão até 3 anos ou com pena de multa.
+2 - Na mesma pena incorre quem prestar auxílio a outra pessoa com a intenção ou com a consciência de, total ou parcialmente, impedir, frustrar ou iludir execução de pena ou de medida de segurança que lhe tenha sido aplicada.
+3 - A pena a que o agente venha a ser condenado, nos termos dos números anteriores, não pode ser superior à prevista na lei para o facto cometido pela pessoa em benefício da qual se actuou.
+4 - A tentativa é punível.
+5 - Não é punível:
+    a) o agente que, com o facto, procurar ao mesmo tempo evitar que contra si seja aplicada ou executada pena ou medida de segurança;
+    b) o cônjuge, os adoptantes ou adoptados, os parentes ou afins até ao 2.º grau ou a pessoa, de outro ou do mesmo sexo, que viva em situação análoga à dos cônjuges com aquela em benefício da qual se actuou.
+
+Artigo 368.º - Favorecimento Pessoal Praticado por Funcionário
+Quando o favorecimento previsto no artigo anterior for praticado por funcionário que intervenha ou tenha competência para intervir no processo, ou por quem tenha competência para ordenar a execução de pena ou de medida de segurança, ou seja incumbido de a executar, o agente é punido com pena de prisão até 5 anos.
+
+Artigo 368.º-A - Branqueamento
+1 - Para efeitos do disposto nos números seguintes, consideram-se vantagens os bens provenientes da prática, sob qualquer forma de comparticipação, de factos ilícitos típicos puníveis com pena de prisão de duração mínima superior a seis meses ou de duração máxima superior a cinco anos ou, independentemente das penas aplicáveis, de factos ilícitos típicos de:
+    a) lenocínio, abuso sexual de crianças ou de menores dependentes, ou pornografia de menores;
+    b) burla informática e nas comunicações, extorsão, abuso de cartão de garantia ou de cartão, dispositivo ou dados de pagamento, contrafação de moeda ou de títulos equiparados, depreciação do valor de moeda metálica ou de títulos equiparados, passagem de moeda falsa de concerto com o falsificador ou de títulos equiparados, passagem de moeda falsa ou de títulos equiparados, ou aquisição de moeda falsa para ser posta em circulação ou de títulos equiparados;
+    c) falsidade informática, contrafação de cartões ou outros dispositivos de pagamento, uso de cartões ou outros dispositivos de pagamento contrafeitos, aquisição de cartões ou outros dispositivos de pagamento contrafeitos, actos preparatórios da contrafação, aquisição de cartões ou outros dispositivos de pagamento obtidos mediante crime informático, dano relativo a programas ou outros dados informáticos, sabotagem informática, acesso ilegítimo, interceção ilegítima ou reprodução ilegítima de programa protegido;
+    d) associação criminosa;
+    e) infrações terroristas, infrações relacionadas com um grupo terrorista, infrações relacionadas com atividades terroristas e financiamento do terrorismo;
+    f) tráfico de estupefacientes e substâncias psicotrópicas;
+    g) tráfico de armas;
+    h) tráfico de pessoas, auxílio à imigração ilegal ou tráfico de órgãos ou tecidos humanos;
+    i) danos contra a natureza, poluição, atividades perigosas para o ambiente, ou perigo relativo a animais ou vegetais;
+    j) contrabando, contrabando de circulação, contrabando de mercadorias de circulação condicionada em embarcações, fraude fiscal ou fraude contra a segurança social;
+    k) tráfico de influência, recebimento indevido de vantagem, corrupção, peculato, participação económica em negócio, administração danosa em unidade económica do setor público, fraude na obtenção ou desvio de subsídio, subvenção ou crédito, ou corrupção com prejuízo do comércio internacional ou no setor privado;
+    l) abuso de informação privilegiada ou manipulação de mercado;
+    m) violação do exclusivo da patente, do modelo de utilidade ou da topografia de produtos semicondutores, violação dos direitos exclusivos relativos a desenhos ou modelos, contrafação, imitação e uso ilegal de marca, venda ou ocultação de produtos ou fraude sobre mercadorias.
+2 - Consideram-se igualmente vantagens os bens obtidos através dos bens referidos no número anterior.
+3 - Quem converter, transferir, auxiliar ou facilitar alguma operação de conversão ou transferência de vantagens, obtidas por si ou por terceiro, direta ou indiretamente, com o fim de dissimular a sua origem ilícita, ou de evitar que o autor ou participante dessas infrações seja criminalmente perseguido ou submetido a uma reação criminal, é punido com pena de prisão até 12 anos.
+4 - Na mesma pena incorre quem ocultar ou dissimular a verdadeira natureza, origem, localização, disposição, movimentação ou titularidade das vantagens, ou os direitos a ela relativos.
+5 - Incorre ainda na mesma pena quem, não sendo autor do facto ilícito típico de onde provêm as vantagens, as adquirir, detiver ou utilizar, com conhecimento, no momento da aquisição ou no momento inicial da detenção ou utilização, dessa qualidade.
+6 - A punição pelos crimes previstos nos n.os 3 a 5 tem lugar ainda que se ignore o local da prática dos factos ilícitos típicos de onde provenham as vantagens ou a identidade dos seus autores, ou ainda que tais factos tenham sido praticados fora do território nacional, salvo se se tratar de factos lícitos perante a lei do local onde foram praticados e aos quais não seja aplicável a lei portuguesa nos termos do artigo 5.º
+7 - O facto é punível ainda que o procedimento criminal relativo aos factos ilícitos típicos de onde provêm as vantagens depender de queixa e esta não tiver sido apresentada.
+8 - A pena prevista nos n.os 3 a 5 é agravada em um terço se o agente praticar as condutas de forma habitual ou se for uma das entidades referidas no artigo 3.º ou no artigo 4.º da Lei n.º 83/2017, de 18 de agosto, e a infração tiver sido cometida no exercício das suas atividades profissionais.
+9 - Quando tiver lugar a reparação integral do dano causado ao ofendido pelo facto ilícito típico de cuja prática provêm as vantagens, sem dano ilegítimo de terceiro, até ao início da audiência de julgamento em 1.ª instância, a pena é especialmente atenuada.
+10 - Verificados os requisitos previstos no número anterior, a pena pode ser especialmente atenuada se a reparação for parcial.
+11 - A pena pode ser especialmente atenuada se o agente auxiliar concretamente na recolha das provas decisivas para a identificação ou a captura dos responsáveis pela prática dos factos ilícitos típicos de onde provêm as vantagens.
+12 - A pena aplicada nos termos dos números anteriores não pode ser superior ao limite máximo da pena mais elevada de entre as previstas para os factos ilícitos típicos de onde provêm as vantagens.
+
+Artigo 369.º - Denegação de Justiça e Prevaricação
+1 - O funcionário que, no âmbito de inquérito processual, processo jurisdicional, por contra-ordenação ou disciplinar, conscientemente e contra direito, promover ou não promover, conduzir, decidir ou não decidir, ou praticar acto no exercício de poderes decorrentes do cargo que exerce, é punido com pena de prisão até 2 anos ou com pena de multa até 120 dias.
+2 - Se o facto for praticado com intenção de prejudicar ou beneficiar alguém, o funcionário é punido com pena de prisão até 5 anos.
+3 - Se, no caso do n.º 2, resultar privação da liberdade de uma pessoa, o agente é punido com pena de prisão de 1 a 8 anos.
+4 - Na pena prevista no número anterior incorre o funcionário que, sendo para tal competente, ordenar ou executar medida privativa da liberdade de forma ilegal, ou omitir ordená-la ou executá-la nos termos da lei.
+5 - No caso referido no número anterior, se o facto for praticado com negligência grosseira, o agente é punido com pena de prisão até 2 anos ou com pena de multa.
+
+Artigo 370.º - Prevaricação de Advogado ou de Solicitador
+1 - O advogado ou solicitador que intencionalmente prejudicar causa entregue ao seu patrocínio é punido com pena de prisão até 3 anos ou com pena de multa.
+2 - Em igual pena incorre o advogado ou solicitador que, na mesma causa, advogar ou exercer solicitadoria relativamente a pessoas cujos interesses estejam em conflito, com intenção de actuar em benefício ou em prejuízo de alguma delas.
+
+Artigo 371.º - Violação de Segredo de Justiça
+1 - Quem, independentemente de ter tomado contacto com o processo, ilegitimamente der conhecimento, no todo ou em parte, do teor de acto de processo penal que se encontre coberto por segredo de justiça, ou a cujo decurso não for permitida a assistência do público em geral, é punido com pena de prisão até dois anos ou com pena de multa até 240 dias, salvo se outra pena for cominada para o caso pela lei de processo.
+2 - Se o facto descrito no número anterior respeitar:
+    a) a processo por contra-ordenação, até à decisão da autoridade administrativa; ou
+    b) a processo disciplinar, enquanto se mantiver legalmente o segredo;
+o agente é punido com pena de prisão até 6 meses ou com pena de multa até 60 dias.
+
+Capítulo IV - Dos Crimes Cometidos no Exercício de Funções Públicas
+
+Secção I - Da Corrupção
+
+Artigo 372.º - Recebimento ou Oferta Indevidos de Vantagem
+1 - O funcionário que, no exercício das suas funções ou por causa delas, por si, ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, vantagem patrimonial ou não patrimonial, que não lhe seja devida, é punido com pena de prisão até cinco anos ou com pena de multa até 600 dias.
+2 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer a funcionário, ou a terceiro por indicação ou conhecimento daquele, vantagem patrimonial ou não patrimonial, que não lhe seja devida, no exercício das suas funções ou por causa delas, é punido com pena de prisão até três anos ou com pena de multa até 360 dias.
+3 - Excluem-se dos números anteriores as condutas socialmente adequadas e conformes aos usos e costumes.
+
+Artigo 373.º - Corrupção Passiva
+1 - O funcionário que por si, ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, vantagem patrimonial ou não patrimonial, ou a sua promessa, para a prática de um qualquer acto ou omissão contrários aos deveres do cargo, ainda que anteriores àquela solicitação ou aceitação, é punido com pena de prisão de um a oito anos.
+2 - Se o acto ou omissão não forem contrários aos deveres do cargo e a vantagem não lhe for devida, o agente é punido com pena de prisão de um a cinco anos.
+
+Artigo 374.º - Corrupção Activa
+1 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer a funcionário, ou a terceiro por indicação ou com conhecimento daquele, vantagem patrimonial ou não patrimonial com o fim indicado no n.º 1 do artigo 373.º, é punido com pena de prisão de um a cinco anos.
+2 - Se o fim for o indicado no n.º 2 do artigo 373.º, o agente é punido com pena de prisão até três anos ou com pena de multa até 360 dias.
+3 - A tentativa é punível.
+
+Artigo 374.º-A - Agravação
+1 - Se a vantagem referida nos artigos 372.º a 374.º for de valor elevado, o agente é punido com a pena aplicável ao crime respectivo agravada em um quarto nos seus limites mínimo e máximo.
+2 - Se a vantagem referida nos artigos 372.º a 374.º for de valor consideravelmente elevado, o agente é punido com a pena aplicável ao crime respectivo agravada em um terço nos seus limites mínimo e máximo.
+3 - Para efeitos do disposto nos números anteriores, é correspondentemente aplicável o disposto nas alíneas a) e b) do artigo 202.º
+4 - Sem prejuízo do disposto no artigo 11.º, quando o agente actue nos termos do artigo 12.º é punido com a pena aplicável ao crime respectivo agravada em um terço nos seus limites mínimo e máximo.
+5 - Sem prejuízo do disposto nos números anteriores, o funcionário que seja titular de alto cargo público é punido:
+    a) com pena de prisão de 1 a 5 anos, quando o crime for o previsto no n.º 1 do artigo 372.º;
+    b) com pena de prisão de 2 a 8 anos, quando o crime for o previsto no n.º 1 do artigo 373.º;
+    c) com pena de prisão de 2 a 5 anos, quando o crime for o previsto no n.º 2 do artigo 373.º
+6 - Sem prejuízo do disposto nos n.os 1 a 4, caso o funcionário seja titular de alto cargo público, o agente é punido:
+    a) com pena de prisão até 5 anos ou com pena de multa até 600 dias, nas situações previstas no n.º 2 do artigo 372.º;
+    b) com pena de prisão de 2 a 5 anos, nas situações previstas no n.º 1 do artigo 374.º; ou
+    c) com pena de prisão até 5 anos, nas situações previstas no n.º 2 do artigo 374.º
+7 - O funcionário titular de alto cargo público que, no exercício das suas funções ou por causa delas, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer a funcionário, a funcionário que seja titular de alto cargo público ou a titular de cargo político, ou a terceiro com o conhecimento deste, vantagem patrimonial ou não patrimonial que não lhe seja devida, é punido com pena de 2 a 8 anos se o fim for o indicado no n.º 1 artigo 373.º e com pena de 2 a 5 anos se o fim for o indicado no n.º 2 do artigo 373.º
+8 - São considerados titulares de alto cargo público:
+    a) gestores públicos e membros de órgão de administração de sociedade anónima de capitais públicos, que exerçam funções executivas;
+    b) titulares de órgão de gestão de empresa participada pelo estado, quando designados por este;
+    c) membros de órgãos de gestão das empresas que integram os sectores empresarial regional ou local;
+    d) membros de órgãos directivos dos institutos públicos;
+    e) membros do conselho de administração de entidade administrativa independente;
+    f) titulares de cargos de direcção superior do 1.º grau e do 2.º grau e equiparados, e dirigentes máximos dos serviços das câmaras municipais e dos serviços municipalizados, quando existam.
+
+Artigo 374.º-B - Dispensa ou Atenuação de Pena
+1 - O agente é dispensado de pena sempre que tiver denunciado o crime antes da instauração de procedimento criminal e, nas situações previstas:
+    a) no n.º 1 do artigo 373.º, não tenha praticado o ato ou omissão contrários aos deveres do cargo para o qual solicitou ou aceitou a vantagem e restitua ou repudie voluntariamente a vantagem ou, tratando-se de coisa ou animal fungíveis, restitua o seu valor;
+    b) no n.º 1 do artigo 372.º e no n.º 2 do artigo 373.º, restitua ou repudie voluntariamente a vantagem ou, tratando-se de coisa ou animal fungíveis, restitua o seu valor;
+    c) no n.º 1 do artigo 374.º, tenha retirado a promessa de vantagem ou solicitado a sua restituição ou repúdio ao funcionário ou ao terceiro antes da prática do ato ou da omissão contrários aos deveres do cargo;
+    d) no n.º 2 do artigo 372.º e no n.º 2 do artigo 374.º, tenha retirado a promessa de vantagem ou solicitado a sua restituição ou repúdio ao funcionário ou ao terceiro.
+2 - O agente pode ser dispensado de pena sempre que, durante o inquérito ou a instrução, e verificando-se o disposto nas alíneas do n.º 1, conforme aplicável, tiver contribuído decisivamente para a descoberta da verdade.
+3 - A dispensa de pena abrange os crimes que sejam efeito dos crimes previstos nos artigos 372.º a 374.º, ou que se tenham destinado a continuar ou a ocultar estes crimes ou as vantagens provenientes dos mesmos, desde que o agente os tenha denunciado ou tenha contribuído decisivamente para a sua descoberta.
+4 - Ressalvam-se do disposto no número anterior os crimes praticados contra bens eminentemente pessoais.
+5 - A pena é especialmente atenuada se, até ao encerramento da audiência de julgamento em primeira instância, o agente colaborar ativamente na descoberta da verdade, contribuindo de forma relevante para a prova dos factos.
+6 - A dispensa e a atenuação da pena não são excluídas nas situações de agravação previstas no artigo 374.º-A.
+
+Secção II - Do Peculato
+
+Artigo 375.º - Peculato
+1 - O funcionário que ilegitimamente se apropriar, em proveito próprio ou de outra pessoa, de dinheiro ou qualquer coisa móvel ou imóvel ou animal, públicos ou particulares, que lhe tenha sido entregue, esteja na sua posse ou lhe seja acessível em razão das suas funções, é punido com pena de prisão de 1 a 8 anos, se pena mais grave lhe não couber por força de outra disposição legal.
+2 - Se os valores ou objectos referidos no número anterior forem de diminuto valor, nos termos da alínea c) do artigo 202.º, o agente é punido com pena de prisão até 3 anos ou com pena de multa.
+3 - Se o funcionário der de empréstimo, empenhar ou, de qualquer forma, onerar valores ou objectos referidos no n.º 1, é punido com pena de prisão até 3 anos ou com pena de multa, se pena mais grave lhe não couber por força de outra disposição legal.
+
+Artigo 376.º - Peculato de Uso
+1 - O funcionário que fizer uso ou permitir que outra pessoa faça uso, para fins alheios àqueles a que se destinem, de coisa imóvel, de veículos, de outras coisas móveis ou de animais de valor apreciável, públicos ou particulares, que lhe forem entregues, estiverem na sua posse ou lhe forem acessíveis em razão das suas funções, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
+2 - Se o funcionário, sem que especiais razões de interesse público o justifiquem, der a dinheiro público destino para uso público diferente daquele a que está legalmente afectado, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
+
+Artigo 377.º - Participação Económica em Negócio
+1 - O funcionário que, com intenção de obter, para si ou para terceiro, participação económica ilícita, lesar em negócio jurídico os interesses patrimoniais que, no todo ou em parte, lhe cumpre, em razão da sua função, administrar, fiscalizar, defender ou realizar, é punido com pena de prisão até 5 anos.
+2 - O funcionário que, por qualquer forma, receber, para si ou para terceiro, vantagem patrimonial por efeito de acto jurídico-civil relativo a interesses de que tinha, por força das suas funções, no momento do acto, total ou parcialmente, a disposição, administração ou fiscalização, ainda que sem os lesar, é punido com pena de prisão até 6 meses ou com pena de multa até 60 dias.
+3 - A pena prevista no número anterior é também aplicável ao funcionário que receber, para si ou para terceiro, por qualquer forma, vantagem patrimonial por efeito de cobrança, arrecadação, liquidação ou pagamento que, por força das suas funções, total ou parcialmente, esteja encarregado de ordenar ou fazer, posto que não se verifique prejuízo para a fazenda pública ou para os interesses que lhe estão confiados.
+
+Artigo 377.º-A - Atenuação Especial da Pena
+Nos crimes de peculato e participação económica em negócio, a pena é especialmente atenuada se, até ao encerramento da audiência de julgamento em primeira instância, o agente colaborar ativamente na descoberta da verdade, contribuindo de forma relevante para a prova dos factos.
+
+Secção III
+Do Abuso de Autoridade
+
+Artigo 378.º - Violação de Domicílio por Funcionário
+O funcionário que, abusando dos poderes inerentes às suas funções, praticar o crime previsto no n.º 1 do artigo 190.º, ou violar o domicílio profissional de quem, pela natureza da sua actividade, estiver vinculado ao dever de sigilo, é punido com pena de prisão até 3 anos ou com pena de multa.
+
+Artigo 379.º - Concussão
+1 - O funcionário que, no exercício das suas funções ou de poderes de facto delas decorrentes, por si ou por interposta pessoa com o seu consentimento ou ratificação, receber, para si, para o estado ou para terceiro, mediante indução em erro ou aproveitamento de erro da vítima, vantagem patrimonial que lhe não seja devida, ou seja superior à devida, nomeadamente contribuição, taxa, emolumento, multa ou coima, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias, se pena mais grave lhe não couber por força de outra disposição legal.
+2 - Se o facto for praticado por meio de violência ou ameaça com mal importante, o agente é punido com pena de prisão de 1 a 8 anos, se pena mais grave lhe não couber por força de outra disposição legal.
+
+Artigo 380.º - Emprego de Força Pública Contra a Execução da Lei ou de Ordem Legítima
+O funcionário que, sendo competente para requisitar ou ordenar emprego da força pública, requisitar ou ordenar este emprego para impedir a execução de lei, mandado regular da justiça ou ordem legítima de autoridade pública, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
+
+Artigo 381.º - Recusa de Cooperação
+O funcionário que, tendo recebido requisição legal de autoridade competente para prestar a devida cooperação à administração da justiça ou a qualquer serviço público, se recusar a prestá-la, ou sem motivo legítimo a não prestar, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
+
+Artigo 382.º - Abuso de Poder
+O funcionário que, fora dos casos previstos nos artigos anteriores, abusar de poderes ou violar deveres inerentes às suas funções, com intenção de obter, para si ou para terceiro, benefício ilegítimo ou causar prejuízo a outra pessoa, é punido com pena de prisão até 3 anos ou com pena de multa, se pena mais grave lhe não couber por força de outra disposição legal.
+
+Artigo 382.º-A - Violação de Regras Urbanísticas por Funcionário
+1 - O funcionário que informe ou decida favoravelmente processo de licenciamento ou de autorização ou preste neste informação falsa sobre as leis ou regulamentos aplicáveis, consciente da desconformidade da sua conduta com as normas urbanísticas, é punido com pena de prisão até três anos ou multa.
+2 - Se o objecto da licença ou autorização incidir sobre via pública, terreno da reserva ecológica nacional, reserva agrícola nacional, bem do domínio público ou terreno especialmente protegido por disposição legal, o agente é punido com pena de prisão até cinco anos ou multa.
+
+Secção IV - Da Violação de Segredo
+
+Artigo 383.º - Violação de Segredo por Funcionário
+1 - O funcionário que, sem estar devidamente autorizado, revelar segredo de que tenha tomado conhecimento ou que lhe tenha sido confiado no exercício das suas funções, ou cujo conhecimento lhe tenha sido facilitado pelo cargo que exerce, com intenção de obter, para si ou para outra pessoa, benefício, ou com a consciência de causar prejuízo ao interesse público ou a terceiros, é punido com pena de prisão até 3 anos ou com pena de multa.
+2 - Se o funcionário praticar o facto previsto no número anterior criando perigo para a vida ou para a integridade física de outrem ou para bens patrimoniais alheios de valor elevado é punido com pena de prisão de um a cinco anos.
+3 - O procedimento criminal depende de participação da entidade que superintender no respectivo serviço ou de queixa do ofendido.
+
+Artigo 384.º - Violação de Segredo de Correspondência ou de Telecomunicações
+O funcionário de serviços dos correios, telégrafos, telefones ou telecomunicações que, sem estar devidamente autorizado:
+    a) suprimir ou subtrair carta, encomenda, telegrama ou outra comunicação confiada àqueles serviços e que lhe é acessível em razão das suas funções;
+    b) abrir carta, encomenda ou outra comunicação que lhe é acessível em razão das suas funções ou, sem a abrir, tomar conhecimento do seu conteúdo;
+    c) revelar a terceiros comunicações entre determinadas pessoas, feitas pelo correio, telégrafo, telefone ou outros meios de telecomunicações daqueles serviços, de que teve conhecimento em razão das suas funções;
+    d) gravar ou revelar a terceiro o conteúdo, total ou parcial, das comunicações referidas, ou tornar-lhe possível ouvi-las ou tomar delas conhecimento; ou
+    e) permitir ou promover os factos referidos nas alíneas anteriores;
+é punido com pena de prisão de 6 meses a 3 anos ou com pena de multa não inferior a 60 dias.
+
+Secção V - Do Abandono de Funções
+
+Artigo 385.º - Abandono de Funções
+O funcionário que ilegitimamente, com intenção de impedir ou de interromper serviço público, abandonar as suas funções ou negligenciar o seu cumprimento é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.
+
+Secção VI - Disposição Geral
+
+Artigo 386.º - Conceito de Funcionário
+1 - Para efeito da lei penal, a expressão funcionário abrange:
+    a) o empregado público civil e o militar;
+    b) quem desempenhe cargo público em virtude de vínculo especial;
+    c) quem, mesmo provisória ou temporariamente, mediante remuneração ou a título gratuito, voluntária ou obrigatoriamente, tiver sido chamado a desempenhar ou a participar no desempenho de uma atividade compreendida na função pública administrativa ou jurisdicional;
+    d) os juízes do tribunal constitucional, os juízes do tribunal de contas, os magistrados judiciais, os magistrados do ministério público, o procurador-geral da república, o provedor de justiça, os membros do conselho superior da magistratura, os membros do conselho superior dos tribunais administrativos e fiscais e os membros do conselho superior do ministério público;
+    e) o árbitro, o jurado, o perito, o técnico que auxilie o tribunal em inspeção judicial, o tradutor, o intérprete e o mediador;
+    f) o notário;
+    g) quem, mesmo provisória ou temporariamente, mediante remuneração ou a título gratuito, voluntária ou obrigatoriamente, desempenhar ou participar no desempenho de função pública administrativa ou exercer funções de autoridade em pessoa coletiva de utilidade pública, incluindo as instituições particulares de solidariedade social; e
+    h) quem desempenhe ou participe no desempenho de funções públicas em associação pública.
+2 - Ao funcionário são equiparados os membros de órgão de gestão ou administração ou órgão fiscal e os trabalhadores de empresas públicas, nacionalizadas, de capitais públicos ou com participação maioritária de capital público e ainda de empresas concessionárias de serviços públicos, sendo que no caso das empresas com participação igual ou minoritária de capitais públicos, são equiparados a funcionários os titulares de órgão de gestão ou administração designados pelo estado ou por outro ente público.
+3 - São ainda equiparados ao funcionário, para efeitos do disposto nos artigos 335.º e 372.º a 375.º:
+    a) os magistrados, funcionários, agentes e equiparados de organizações de direito internacional público, independentemente da nacionalidade e residência;
+    b) os funcionários nacionais de outros estados;
+    c) todos os que exerçam funções idênticas às descritas no n.º 1 no âmbito de qualquer organização internacional de direito público de que Portugal seja membro;
+    d) os magistrados e funcionários de tribunais internacionais, desde que Portugal tenha declarado aceitar a competência desses tribunais;
+    e) todos os que exerçam funções no âmbito de procedimentos de resolução extrajudicial de conflitos, independentemente da nacionalidade e residência;
+    f) os jurados e árbitros nacionais de outros estados.
+4 - A equiparação a funcionário, para efeito da lei penal, de quem desempenhe funções políticas é regulada por lei especial.
+
+Esta secção do ficheiro corresponde ao livro 2, título 5 (dos crimes contra animais de companhia) do código penal de Portugal.
+
+Artigo 387.º - Morte e Maus Tratos de Animal de Companhia
+1 - Quem, sem motivo legítimo, matar animal de companhia é punido com pena de prisão de 6 meses a 2 anos ou com pena de multa de 60 a 240 dias, se pena mais grave lhe não couber por força de outra disposição legal.
+2 - Se a morte for produzida em circunstâncias que revelem especial censurabilidade ou perversidade, o limite máximo da pena referida no número anterior é agravado em um terço.
+3 - Quem, sem motivo legítimo, infligir dor, sofrimento ou quaisquer outros maus tratos físicos a um animal de companhia é punido com pena de prisão de 6 meses a 1 ano ou com pena de multa de 60 a 120 dias.
+4 - Se dos factos previstos no número anterior resultar a morte do animal, a privação de importante órgão ou membro ou a afetação grave e permanente da sua capacidade de locomoção, ou se o crime for praticado em circunstâncias que revelem especial censurabilidade ou perversidade, o agente é punido com pena de prisão de 6 meses a 2 anos ou com pena de multa de 60 a 240 dias, se pena mais grave lhe não couber por força de outra disposição legal.
+5 - É suscetível de revelar a especial censurabilidade ou perversidade a que se referem os n.os 2 e 4, entre outras, a circunstância de:
+    a) o crime ser de especial crueldade, designadamente por empregar tortura ou ato de crueldade que aumente o sofrimento do animal;
+    b) utilizar armas, instrumentos, objetos ou quaisquer meios e métodos insidiosos ou particularmente perigosos;
+    c) ser determinado pela avidez, pelo prazer de matar ou de causar sofrimento, para excitação ou por qualquer motivo torpe ou fútil.

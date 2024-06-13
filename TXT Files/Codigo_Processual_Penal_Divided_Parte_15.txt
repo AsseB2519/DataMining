@@ -1,0 +1,191 @@
+código de processo penal - cpp
+4 - a secretaria procede à transcrição de requerimentos e respetivas respostas, despachos e decisões que o juiz, oficiosamente
+ou a requerimento, determine, por despacho irrecorrível.
+5 - a transcrição é feita no prazo de cinco dias, a contar do respetivo ato; o prazo para arguir qualquer desconformidade da
+transcrição é de cinco dias, a contar da notificação da sua incorporação nos autos.
+6 - é correspondentemente aplicável o disposto no artigo 101.º
+título iii
+da sentença
+artigo 365.º
+(deliberação e votação)
+1 - salvo em caso de absoluta impossibilidade, declarada em despacho, a deliberação segue-se ao encerramento da discussão.
+2 - na deliberação participam todos os juízes e jurados que constituem o tribunal, sob a direcção do presidente.
+3 - cada juiz e cada jurado enunciam as razões da sua opinião, indicando, sempre que possível, os meios de prova que serviram
+para formar a sua convicção, e votam sobre cada uma das questões, independentemente do sentido do voto que tenham
+expresso sobre outras. não é admissível a abstenção.
+4 - o presidente recolhe os votos, começando pelo juiz com menor antiguidade de serviço, e vota em último lugar. no tribunal
+do júri votam primeiro os jurados, por ordem crescente de idade.
+5 - as deliberações são tomadas por maioria simples de votos.
+artigo 366.º
+(secretário)
+1 - à deliberação e votação pode assistir o secretário ou o funcionário de justiça que o presidente designar.
+2 - o secretário presta ao tribunal todo o auxílio e colaboração de que este necessitar durante o processo de deliberação e
+votação, nomeadamente tomando nota, sempre que o presidente o entender, das razões e dos meios de prova indicados por
+cada membro do tribunal e do resultado da votação de cada uma das questões a considerar.
+3 - as notas tomadas pelo secretário são destruídas logo que a sentença for elaborada.
+artigo 367.º
+(segredo da deliberação e votação)
+1 - os participantes no acto de deliberação e votação referido nos artigos anteriores não podem revelar nada do que durante
+ela se tiver passado e se relacionar com a causa, nem exprimir a sua opinião sobre a deliberação tomada, salvo o disposto no n.º
+código de processo penal - cpp
+2 do artigo 372.º
+2 - a violação do disposto no número anterior é punível com a sanção prevista no artigo 371.º do código penal, sem prejuízo da
+responsabilidade disciplinar a que possa dar lugar.
+artigo 368.º
+(questão da culpabilidade)
+1 - o tribunal começa por decidir separadamente as questões prévias ou incidentais sobre as quais ainda não tiver recaído
+decisão.
+2 - em seguida, se a apreciação do mérito não tiver ficado prejudicada, o presidente enumera discriminada e especificadamente
+e submete a deliberação e votação os factos alegados pela acusação e pela defesa, e bem assim os que resultarem da discussão
+da causa, relevantes para as questões de saber:
+a) se se verificaram os elementos constitutivos do tipo de crime;
+b) se o arguido praticou o crime ou nele participou;
+c) se o arguido actuou com a culpa;
+d) se se verificou alguma causa que exclua a ilicitude ou a culpa;
+e) se se verificaram quaisquer outros pressupostos de que a lei faça depender a punibilidade do agente ou a aplicação a este de
+uma medida de segurança;
+f) se se verificaram os pressupostos de que depende o arbitramento da indemnização civil.
+3 - em seguida, o presidente enumera discriminadamente e submete a deliberação e votação todas as questões de direito
+suscitadas pelos factos referidos no número anterior.
+artigo 369.º
+(questão da determinação da sanção)
+1 - se, das deliberações e votações realizadas nos termos do artigo anterior, resultar que ao arguido deve ser aplicada uma pena
+ou uma medida de segurança, o presidente lê ou manda ler toda a documentação existente nos autos relativa aos antecedentes
+criminais do arguido, à perícia sobre a sua personalidade e ao relatório social.
+2 - em seguida, o presidente pergunta se o tribunal considera necessária produção de prova suplementar para determinação da
+espécie e da medida da sanção a aplicar. se a resposta for negativa, ou após a produção da prova nos termos do artigo 371.º, o
+tribunal delibera e vota sobre a espécie e a medida da sanção a aplicar.
+3 - se, na deliberação e votação a que se refere a parte final do número anterior, se manifestarem mais de duas opiniões, os
+votos favoráveis à sanção de maior gravidade somam-se aos favoráveis à sanção de gravidade imediatamente inferior, até se
+obter maioria.
+artigo 370.º
+(relatório social)
+1 - o tribunal pode, em qualquer altura do julgamento, logo que, em função da prova para o efeito produzida em audiência, o
+considerar necessário à correcta determinação da sanção que eventualmente possa vir a ser aplicada, solicitar a elaboração de
+código de processo penal - cpp
+relatório social ou de informação dos serviços de reinserção social, ou a respectiva actualização quando aqueles já constarem do
+processo.
+2 - no caso de arguido menor, se o relatório social ou a informação dos serviços de reinserção social não se mostrar ainda junta
+ao processo, deve a respetiva junção ocorrer no prazo de 30 dias, salvo se, fundamentadamente, se justificar a respetiva
+dispensa face às circunstâncias do caso e desde que seja compatível com o superior interesse do menor.
+3 - independentemente de solicitação, os serviços de reinserção social podem enviar ao tribunal, quando o acompanhamento
+do arguido o aconselhar, o relatório social ou a respectiva actualização.
+4 - a leitura em audiência do relatório social ou da informação dos serviços de reinserção social só é permitida a requerimento,
+nos termos e para os efeitos previstos no artigo seguinte.
+5 - é correspondentemente aplicável o disposto no artigo 355.º
+artigo 371.º
+(reabertura da audiência para a determinação da sanção)
+1 - tornando-se necessária produção de prova suplementar, nos termos do artigo 369.º, n.º 2, o tribunal volta à sala de
+audiência e declara esta reaberta.
+2 - em seguida procede-se à produção da prova necessária, ouvindo sempre que possível o perito criminológico, o técnico de
+reinserção social e quaisquer pessoas que possam depor com relevo sobre a personalidade e as condições de vida do arguido.
+3 - os interrogatórios são feitos sempre pelo presidente, podendo, findos eles, os outros juízes, os jurados, o ministério público,
+o defensor e o advogado do assistente sugerir quaisquer pedidos de esclarecimento ou perguntas úteis à decisão.
+4 - finda a produção da prova suplementar, o ministério público, o advogado do assistente e o defensor podem alegar
+conclusivamente até um máximo de vinte minutos cada um.
+5 - a produção de prova suplementar decorre com exclusão da publicidade, salvo se o presidente, por despacho, entender que
+da publicidade não pode resultar ofensa à dignidade do arguido.
+artigo 371.º-a
+abertura da audiência para aplicação retroactiva de lei penal mais favorável
+se, após o trânsito em julgado da condenação mas antes de ter cessado a execução da pena, entrar em vigor lei penal mais
+favorável, o condenado pode requerer a reabertura da audiência para que lhe seja aplicado o novo regime.
+aditado pelo/a artigo 2.º do/a lei n.º 48/2007 - diário da república n.º 166/2007, série i de 2007-08-29, em vigor a partir de 2007-09-15
+artigo 372.º
+(elaboração e assinatura da sentença)
+1 - concluída a deliberação e votação, o presidente ou, se este ficar vencido, o juiz mais antigo dos que fizerem vencimento,
+elaboram a sentença de acordo com as posições que tiverem feito vencimento.
+código de processo penal - cpp
+2 - em seguida, a sentença é assinada por todos os juízes e pelos jurados e, se algum dos juízes assinar vencido, declara com
+precisão os motivos do seu voto.
+3 - regressado o tribunal à sala de audiência, a sentença é lida publicamente pelo presidente ou por outro dos juízes. a leitura
+do relatório pode ser omitida. a leitura da fundamentação ou, se esta for muito extensa, de uma sua súmula, bem como do
+dispositivo, é obrigatória, sob pena de nulidade.
+4 - a leitura da sentença equivale à sua notificação aos sujeitos processuais que deverem considerar-se presentes na audiência.
+5 - logo após a leitura da sentença, o presidente procede ao seu depósito na secretaria. o secretário apõe a data, subscreve a
+declaração de depósito e entrega cópia aos sujeitos processuais que o solicitem.
+retificado pelo/a declaração de rectificação n.º 100-a/2007 - diário da república n.º 207/2007, 1º suplemento, série i de 2007-10-26
+artigo 373.º
+leitura da sentença
+1 - quando, atenta a especial complexidade da causa, não for possível proceder imediatamente à elaboração da sentença, o
+presidente fixa publicamente a data dentro dos 10 dias seguintes para a leitura da sentença.
+2 - na data fixada procede-se publicamente à leitura da sentença e ao seu depósito na secretaria, nos termos do artigo anterior.
+3 - o arguido que não estiver presente considera-se notificado da sentença depois de esta ter sido lida perante o defensor
+nomeado ou constituído.
+artigo 374.º
+(requisitos da sentença)
+1 - a sentença começa por um relatório, que contém:
+a) as indicações tendentes à identificação do arguido;
+b) as indicações tendentes à identificação do assistente e das partes civis;
+c) a indicação do destino a dar a animais, coisas ou objetos relacionados com o crime, com expressa menção das disposições
+legais aplicadas;
+d) a indicação sumária das conclusões contidas na contestação, se tiver sido apresentada.
+2 - ao relatório segue-se a fundamentação, que consta da enumeração dos factos provados e não provados, bem como de uma
+exposição tanto quanto possível completa, ainda que concisa, dos motivos, de facto e de direito, que fundamentam a decisão,
+com indicação e exame crítico das provas que serviram para formar a convicção do tribunal.
+3 - a sentença termina pelo dispositivo que contém:
+a) as disposições legais aplicáveis;
+b) a decisão condenatória ou absolutória;
+c) a indicação do destino a dar a coisas ou objetos relacionados com o crime, com expressa menção das disposições legais
+aplicadas;
+d) a ordem de remessa de boletins ao registo criminal;
+e) a data e as assinaturas dos membros do tribunal.
+4 - a sentença observa o disposto neste código e no regulamento das custas processuais em matéria de custas.
+código de processo penal - cpp
+artigo 375.º
+(sentença condenatória)
+1 - a sentença condenatória especifica os fundamentos que presidiram à escolha e à medida da sanção aplicada, indicando,
+nomeadamente, se for caso disso, o início e o regime do seu cumprimento, outros deveres que ao condenado sejam impostos e
+a sua duração, bem como o plano individual de readaptação social.
+2 - após a leitura da sentença condenatória, o presidente, quando o julgar conveniente, dirige ao arguido breve alocução,
+exortando-o a corrigir-se.
+3 - para efeito do disposto neste código, considera-se também sentença condenatória a que tiver decretado dispensa da pena.
+4 - sempre que necessário, o tribunal procede ao reexame da situação do arguido, sujeitando-o às medidas de coacção
+admissíveis e adequadas às exigências cautelares que o caso requerer.
+artigo 376.º
+(sentença absolutória)
+1 - a sentença absolutória declara a extinção de qualquer medida de coacção e ordena a imediata libertação do arguido preso
+preventivamente, salvo se ele dever continuar preso por outro motivo ou sofrer medida de segurança de internamento.
+2 - a sentença absolutória condena o assistente em custas, nos termos previstos neste código e no regulamento das custas
+processuais.
+3 - se o crime tiver sido cometido por inimputável, a sentença é absolutória; mas se nela for aplicada medida de segurança, vale
+como sentença condenatória para efeitos do disposto no n.º 1 do artigo anterior e de recurso do arguido.
+artigo 377.º
+(decisão sobre o pedido de indemnização civil)
+1 - a sentença, ainda que absolutória, condena o arguido em indemnização civil sempre que o pedido respectivo vier a revelar-
+se fundado, sem prejuízo do disposto no artigo 82.º, n.º 3.
+2 - se o responsável civil tiver intervindo no processo penal, a condenação em indemnização civil é proferida contra ele ou
+contra ele e o arguido solidariamente, sempre que a sua responsabilidade vier a ser reconhecida.
+3 - havendo condenação no que respeita ao pedido de indemnização civil, é o demandado condenado a pagar as custas
+suportadas pelo demandante nesta qualidade e, caso cumule, na qualidade de assistente.
+código de processo penal - cpp
+4 - havendo absolvição no que respeita ao pedido de indemnização civil, é o demandante condenado em custas nos termos
+previstos no regulamento das custas processuais.
+artigo 378.º
+(publicação de sentença absolutória)
+1 - quando o considerar justificado, o tribunal ordena no dispositivo a publicação integral ou por extracto da sentença
+absolutória em jornal indicado pelo arguido, desde que este o requeira até ao encerramento da audiência e haja assistente
+constituído no processo.
+2 - as despesas correm a cargo do assistente e valem como custas.
+artigo 379.º
+(nulidade da sentença)
+1 - é nula a sentença:
+a) que não contiver as menções referidas no n.º 2 e na alínea b) do n.º 3 do artigo 374.º ou, em processo sumário ou abreviado,
+não contiver a decisão condenatória ou absolutória ou as menções referidas nas alíneas a) a d) do n.º 1 do artigo 389.º-a e
+391.º-f;
+b) que coordenar por factos diversos dos descritos na acusação ou na pronúncia, se a houver, fora dos casos e das condições
+previstos nos artigos 358.º e 359.º
+c) quando o tribunal deixe de pronunciar-se sobre questões que devesse apreciar ou conheça de questões de que não podia
+tomar conhecimento.
+2 - as nulidades da sentença devem ser arguidas ou conhecidas em recurso, devendo o tribunal supri-las, aplicando-se, com as
+necessárias adaptações, o disposto no n.º 4 do artigo 414.º
+3 - se, em consequência de nulidade de sentença conhecida em recurso, tiver de ser proferida nova decisão no tribunal
+recorrido, o recurso que desta venha a ser interposto é sempre distribuído ao mesmo relator, exceto em caso de
+impossibilidade.
+artigo 380.º
+(correcção da sentença)
+1 - o tribunal procede, oficiosamente ou a requerimento, à correcção da sentença quando:
+a) fora dos casos previstos no artigo anterior, não tiver sido observado ou não tiver sido integralmente observado o disposto no
+artigo 374.º;
+b) a sentença contiver erro, lapso, obscuridade ou ambiguidade cuja eliminação não importe modificação essencial.
+2 - se já tiver subido recurso da sentença, a correcção é feita, quando possível, pelo tribunal competente para conhecer do
+recurso.
