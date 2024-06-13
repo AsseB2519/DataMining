@@ -1,8 +1,5 @@
-código de processo penal - cpp
-livro v
-relações com autoridades estrangeiras e entidades judiciárias internacionais
-título i
-disposições gerais
+Esta secção do ficheiro corresponde ao livro 5 (Relações com autoridades estrangeiras e entidades judiciárias internacionais), titulo 1 (Disposições gerais) do código processual penal de portugal.
+
 artigo 229.º
 (prevalência dos acordos e convenções internacionais)
 as rogatórias, a extradição, a delegação do procedimento penal, os efeitos das sentenças penais estrangeiras e as restantes
