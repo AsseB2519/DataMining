@@ -1,73 +1,28 @@
-código de processo penal - cpp
-b) tratando-se da nulidade referida na alínea b) do número anterior, até cinco dias após a notificação do despacho que designar
-dia para a audiência;
-c) tratando-se de nulidade respeitante ao inquérito ou à instrução, até ao encerramento do debate instrutório ou, não havendo
-lugar a instrução, até cinco dias após a notificação do despacho que tiver encerrado o inquérito;
-d) logo no início da audiência nas formas de processo especiais.
-artigo 121.º
-(sanação de nulidades)
-1 - salvo nos casos em que a lei dispuser de modo diferente, as nulidades ficam sanadas se os participantes processuais
-interessados:
-a) renunciarem expressamente a argui-las;
-b) tiverem aceite expressamente os efeitos do acto anulável; ou
-c) se tiverem prevalecido de faculdade a cujo exercício o acto anulável se dirigia.
-2 - as nulidades respeitantes a falta ou a vício de notificação ou de convocação para acto processual ficam sanadas se a pessoa
-interessada comparecer ou renunciar a comparecer ao acto.
-3 - ressalvam-se do disposto no número anterior os casos em que o interessado comparecer apenas com a intenção de arguir a
-nulidade.
-artigo 122.º
-(efeitos da declaração de nulidade)
-1 - as nulidades tornam inválido o acto em que se verificarem, bem como os que dele dependerem e aquelas puderem afectar.
-2 - a declaração de nulidade determina quais os actos que passam a considerar-se inválidos e ordena, sempre que necessário e
-possível, a sua repetição, pondo as despesas respectivas a cargo do arguido, do assistente ou das partes civis que tenham dado
-causa, culposamente, à nulidade.
-3 - ao declarar uma nulidade o juiz aproveita todos os actos que ainda puderem ser salvos do efeito daquela.
-artigo 123.º
-(irregularidades)
-1 - qualquer irregularidade do processo só determina a invalidade do acto a que se refere e dos termos subsequentes que
-possa afectar quando tiver sido arguida pelos interessados no próprio acto ou, se a este não tiverem assistido, nos três dias
-seguintes a contar daquele em que tiverem sido notificados para qualquer termo do processo ou intervindo em algum acto nele
-praticado.
-2 - pode ordenar-se oficiosamente a reparação de qualquer irregularidade, no momento em que da mesma se tomar
-conhecimento, quando ela puder afectar o valor do acto praticado.
-livro iii
-da prova
-código de processo penal - cpp
-título i
-disposições gerais
-artigo 124.º
-(objecto da prova)
-1 - constituem objecto da prova todos os factos juridicamente relevantes para a existência ou inexistência do crime, a
-punibilidade ou não punibilidade do arguido e a determinação da pena ou da medida de segurança aplicáveis.
-2 - se tiver lugar pedido civil, constituem igualmente objecto da prova os factos relevantes para a determinação da
-responsabilidade civil.
-artigo 125.º
-(legalidade da prova)
-são admissíveis as provas que não forem proibidas por lei.
-artigo 126.º
-(métodos proibidos de prova)
-1 - são nulas, não podendo ser utilizadas, as provas obtidas mediante tortura, coacção ou, em geral, ofensa da integridade física
-ou moral das pessoas.
-2 - são ofensivas da integridade física ou moral das pessoas as provas obtidas, mesmo que com consentimento delas, mediante:
-a) perturbação da liberdade de vontade ou de decisão através de maus tratos, ofensas corporais, administração de meios de
-qualquer natureza, hipnose ou utilização de meios cruéis ou enganosos;
-b) perturbação, por qualquer meio, da capacidade de memória ou de avaliação;
-c) utilização da força, fora dos casos e dos limites permitidos pela lei;
-d) ameaça com medida legalmente inadmissível e, bem assim, com denegação ou condicionamento da obtenção de benefício
-legalmente previsto;
-e) promessa de vantagem legalmente inadmissível.
-3 - ressalvados os casos previstos na lei, são igualmente nulas, não podendo ser utilizadas, as provas obtidas mediante
-intromissão na vida privada, no domicílio, na correspondência ou nas telecomunicações sem o consentimento do respectivo
-titular.
-4 - se o uso dos métodos de obtenção de provas previstos neste artigo constituir crime, podem aquelas ser utilizadas com o fim
-exclusivo de proceder contra os agentes do mesmo.
-artigo 127.º
-(livre apreciação da prova)
-salvo quando a lei dispuser diferentemente, a prova é apreciada segundo as regras da experiência e a livre convicção da
-entidade competente.
-código de processo penal - cpp
-título ii
-dos meios de prova
+Esta secção do ficheiro corresponde ao livro 3 (Da prova), titulo 1 (Disposições gerais) do código processual penal de portugal.
+
+Artigo 124.º - Objecto da prova
+1 - Constituem objecto da prova todos os factos juridicamente relevantes para a existência ou inexistência do crime, a punibilidade ou não punibilidade do arguido e a determinação da pena ou da medida de segurança aplicáveis.
+2 - Se tiver lugar pedido civil, constituem igualmente objecto da prova os factos relevantes para a determinação da responsabilidade civil.
+
+Artigo 125.º - Legalidade da prova
+São admissíveis as provas que não forem proibidas por lei.
+
+Artigo 126.º - Métodos proibidos de prova
+1 - São nulas, não podendo ser utilizadas, as provas obtidas mediante tortura, coacção ou, em geral, ofensa da integridade física ou moral das pessoas.
+2 - São ofensivas da integridade física ou moral das pessoas as provas obtidas, mesmo que com consentimento delas, mediante:
+    a) Perturbação da liberdade de vontade ou de decisão através de maus tratos, ofensas corporais, administração de meios de qualquer natureza, hipnose ou utilização de meios cruéis ou enganosos;
+    b) Perturbação, por qualquer meio, da capacidade de memória ou de avaliação;
+    c) Utilização da força, fora dos casos e dos limites permitidos pela lei;
+    d) Ameaça com medida legalmente inadmissível e, bem assim, com denegação ou condicionamento da obtenção de benefício legalmente previsto;
+    e) Promessa de vantagem legalmente inadmissível.
+3 - Ressalvados os casos previstos na lei, são igualmente nulas, não podendo ser utilizadas, as provas obtidas mediante intromissão na vida privada, no domicílio, na correspondência ou nas telecomunicações sem o consentimento do respectivo titular.
+4 - Se o uso dos métodos de obtenção de provas previstos neste artigo constituir crime, podem aquelas ser utilizadas com o fim exclusivo de proceder contra os agentes do mesmo.
+
+Artigo 127.º - Livre apreciação da prova
+Salvo quando a lei dispuser diferentemente, a prova é apreciada segundo as regras da experiência e a livre convicção da entidade competente.
+
+Esta secção do ficheiro corresponde ao livro 3 (Da prova), titulo 2 (Dos meios de prova) do código processual penal de portugal.
+
 capítulo i
 da prova testemunhal
 artigo 128.º
@@ -567,3 +522,5 @@ artigo 170.º
 1 - o tribunal pode, oficiosamente ou a requerimento, declarar no dispositivo da sentença, mesmo que esta seja absolutória, um
 documento junto aos autos como falso, devendo, para tal fim, quando o julgar necessário e sem retardamento sensível do
 processo, mandar proceder às diligências e admitir a produção da prova necessárias.
+2 - Do dispositivo relativo à falsidade de um documento pode recorrer-se autonomamente, nos mesmos termos em que poderiarecorrer-se da parte restante da sentença.
+3 - No caso previsto no n.º 1 e ainda sempre que o tribunal tiver ficado com fundada suspeita da falsidade de um documento,transmite cópia deste ao Ministério Público, para os efeitos da lei.

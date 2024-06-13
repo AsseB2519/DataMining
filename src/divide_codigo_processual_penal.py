@@ -54,7 +54,7 @@ def text_from_pdf_with_pdfplumber(pdf_path):
                 full_text = re.sub(r'pág.*$', '', full_text, flags=re.MULTILINE)
                 full_text = re.sub(r'versão à data.*$', '', full_text, flags=re.MULTILINE)
                 full_text = re.sub(r'^rectificado.*$', '', full_text, flags=re.MULTILINE | re.IGNORECASE)
-                full_text = re.sub(r'^código processual penal - cpp|legislação consolidada$', '', full_text, flags=re.MULTILINE)
+                full_text = re.sub(r'^código de processo penal - cpp|legislação consolidada$', '', full_text, flags=re.MULTILINE)
 
                 full_text = re.sub(r'\n\s*\n', '\n', full_text)
     

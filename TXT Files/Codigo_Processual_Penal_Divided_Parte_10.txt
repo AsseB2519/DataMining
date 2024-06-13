@@ -1,14 +1,5 @@
-código de processo penal - cpp
-2 - a obtenção e junção aos autos de dados sobre a localização celular ou de registos da realização de conversações ou
-comunicações só podem ser ordenadas ou autorizadas, em qualquer fase do processo, por despacho do juiz, quanto a crimes
-previstos no n.º 1 do artigo 187.º e em relação às pessoas referidas no n.º 4 do mesmo artigo.
-artigo 190.º
-nulidade
-os requisitos e condições referidos nos artigos 187.º, 188.º e 189.º são estabelecidos sob pena de nulidade.
-livro iv
-das medidas de coacção e de garantia patrimonial
-título i
-disposições gerais
+Esta secção do ficheiro corresponde ao livro 3 (Das medidas de coacção e de garantia patrimonial), titulo 1 (Disposições gerais) do código processual penal de portugal.
+
 artigo 191.º
 (princípio da legalidade)
 1 - a liberdade das pessoas só pode ser limitada, total ou parcialmente, em função de exigências processuais de natureza
