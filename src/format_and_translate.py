@@ -14,18 +14,18 @@ page_ranges_codigo_processual_penal = [(0, 15), (16, 26), (26, 39), (40, 42), (4
 if __name__ == "__main__":
     # Iterar pelos pfds originais e dividir em secções
     
-    # CODIGO PENAL
-    #divide_pdf("../Original Files/Codigo_Penal.pdf", page_ranges_codigo_penal)
+    # Codigo Penal
+    divide_pdf("../Original Files/Codigo_Penal.pdf", page_ranges_codigo_penal)
 
-    # CODIGO PROCESSUAL PENAL
+    # Codigo Processual Penal
     divide_pdf("../Original Files/Codigo_Processual_Penal.pdf", page_ranges_codigo_processual_penal)
     
-    # PDF -> TXT
+    # PDF to TXT
     file_num = 0
-    print("CONVERSION")
+    print("Conversion")
     convert_pdfs_to_txt("../PDF Files")
-    # FORMATTING
-    print("FORMATTING")
+    # Formatting
+    print("Formatting")
     file_num = 0
     for filename in os.listdir('../TXT Files'):
         print(file_num)
@@ -33,11 +33,10 @@ if __name__ == "__main__":
         with open(f'../TXT Files/{filename}', 'r', encoding='utf-8') as file:
             text = file.read()
             formatted_text = format_text(text)
-            # print(len(formatted_text))
             with open(f'../TXT Files Processed/{filename}', 'w', encoding='utf-8') as file:
                 file.write(formatted_text)
-    # TRANSLATING ++ TXT -> PDF
-    print("TRANSLATION")
+    # Translatting ++ TXT to PDF
+    print("Translation")
     file_num = 0
     for filename in os.listdir('../TXT Files Processed'):
         print(file_num)
@@ -47,6 +46,3 @@ if __name__ == "__main__":
             text = file.read()
             pdf_dir = f'../Final PDF Files/{filename.replace(".txt", ".pdf")}'
             text_to_pdf(txt_path, pdf_dir)
-    
-            
-    

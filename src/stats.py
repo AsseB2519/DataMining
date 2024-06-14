@@ -73,15 +73,14 @@ def display_plots(data):
     st.plotly_chart(fig)
 
     # Score vs Time scatter plot
-    # st.write("## Score vs Time")
     st.markdown("<h2 style='color: black;'>Score vs Time</h2>", unsafe_allow_html=True)
     fig3 = px.scatter(
         data, 
         x='score', 
         y='time', 
         title='Score vs Time',
-        color='model',  # Color by model to differentiate between them
-        size='score',  # Size by score to emphasize higher scores
+        color='model',
+        size='score',
         hover_data=['model']
     )
 
@@ -147,7 +146,6 @@ def display_plots(data):
         
     # Box plot for scores by model
     st.markdown("<h2 style='color: black;'>Scores by Model</h2>", unsafe_allow_html=True)
-    # st.write("### Scores by Model")
     fig5 = px.box(data, x='model', y='score', title='Scores by Model', color='model')
     st.plotly_chart(fig5)
 

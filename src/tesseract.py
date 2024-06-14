@@ -30,7 +30,7 @@ def write_to_file(text, output_file):
         file.write(text)
 
 # Example usage
-pdf_path = '../Original Files/Codigo_Penal.pdf'  # Path to your PDF file
-output_file = '../TXT Files/extracted_text_tesseract.txt'  # Path to the output text file
+pdf_path = '../Original Files/Codigo_Penal.pdf'
+output_file = '../TXT Files/extracted_text_tesseract.txt'
 extracted_text = text_from_pdf(pdf_path)
 write_to_file(extracted_text, output_file)

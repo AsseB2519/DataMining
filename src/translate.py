@@ -50,9 +50,6 @@ def text_to_pdf(text_file, pdf_file):
     pdf.output(pdf_file)
     print(f'{pdf_file} created successfully.')
 
-# Example usage
-# text_to_pdf('input.txt', 'output.pdf')
-
 if __name__ == "__main__":
     # Example usage
     input_text_file = '../TXT Files Processed/Codigo_Processual_Penal_Divided_Parte_1.txt'

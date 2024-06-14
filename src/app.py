@@ -32,7 +32,7 @@ def load_documents_into_database(llm_model_name:str, model_name: str, documents_
     raw_documents = load_documents(documents_path)
     documents = TEXT_SPLITTER.split_documents(raw_documents)
 
-    # ESCREVER
+    # Write
     if reload:
         print("Creating embeddings and loading documents into Chroma")
         db = Chroma.from_documents(
@@ -41,45 +41,12 @@ def load_documents_into_database(llm_model_name:str, model_name: str, documents_
             persist_directory=directory
         )
     else:
-        # LER
+        # Read
         db = Chroma(persist_directory=directory, embedding_function=OllamaEmbeddings(model=model_name))
     
     return db
 
-
-def evalute(llm_model_name: str, db: Chroma):
-    accuracy_criteria = {
-    "accuracy": """
-        Score 1: The answer is completely irrelevant or incoherent in relation to the reference.
-        Score 2: The answer is mostly irrelevant, with few or no correct parts.
-        Score 3: The answer has some relevance but is mostly incorrect or out of context.
-        Score 4: The answer has moderate relevance but contains several significant inaccuracies.
-        Score 5: The answer has moderate relevance but contains some notable inaccuracies.
-        Score 6: The answer is generally correct but contains a reasonable number of minor errors or omissions.
-        Score 7: The answer is mostly correct and relevant but contains some minor errors or omissions.
-        Score 8: The answer is very correct and relevant, with only small inaccuracies or omissions.
-        Score 9: The answer is almost entirely accurate and relevant, with only one or two small inaccuracies or omissions.
-        Score 10: The answer is completely accurate and perfectly aligns with the reference, with no errors or omissions."""
-    }
-
-
-    evaluator = load_evaluator(
-        "labeled_score_string",
-        criteria=accuracy_criteria,
-        llm=Ollama(model=llm_model_name),
-    )
-
-    chat = getChatChain(Ollama(model=llm_model_name), db)
-    df = pd.read_csv("evaluate.csv")
-
-    for index,row in df.iterrows():
-        question = row['question']
-        answer = row['answer']
-        evaluation = evaluator.evaluate_strings(prediction=chat(question=question),reference=answer,input=question)
-        print(evaluation)
-
-
-# MODELO DO OPENAI COM CUSTOM EMBEDDINGS PARA COMPARACOES
+# Modelo do OpenAI com custom Embeddings para comparacoes
 openai.api_key = 'sk-proj-JMrLIkbxcJlIgYlwHPG3T3BlbkFJorXQLAgdbTNsLvixYcp9'
 def generate_gpt_chat(prompt):
     response = openai.Completion.create(
@@ -120,8 +87,6 @@ def main(llm_model_name: str, embedding_model_name: str, documents_path: str) ->
     # Initialize LLM and chat chain
     llm = Ollama(model=llm_model_name)
     chat = getChatChain(llm, db)
-
-    # evalute(llm_model_name,db)
 
     # Start the conversation loop
     while True:

@@ -82,4 +82,3 @@ def convert_pdfs_to_txt(input_folder, output_folder):
 base_dir = "../PDF Files"
 output_dir = "../TXT Files"
 convert_pdfs_to_txt(base_dir, output_dir)
-
