@@ -1,0 +1,1078 @@
+Este ficheiro corresponde aos Sujeitos e Participantes Processuais do Direito Processual Penal de Portugal.
+
+os sujeitos e os participantes processuais:
+no processo penal intervêm muitas pessoas e essas pessoas são designadas como participantes processuais. exemplos:
+testemunhas, peritos, órgãos de polícia criminal, advogado do assistente, etc. nesta categoria mais ampla, costuma-se
+destacar o círculo mais circunscrito de sujeitos processuais.
+como se distingue esta subcategoria dentro de categoria mais ampla?
+• há uma compreensão inicial de beling segundo a qual sujeitos processuais seriam as pessoas que compunham
+a relação triangular do processo, isto é, seriam sujeitos processuais o arguido, o mp e o juiz para julgar. seriam
+sujeitos aqueles sem quais os não é pensada uma ação penal – ideia de causalidade necessária.
+• para figueiredo dias o conceito de sujeitos processuais é mais lato – os sujeitos processuais são aqueles cuja
+intervenção do processo não se reduz à prática de atos singulares, mas que têm antes poderes de conformação
+da marcha processual e co-determinação da decisão final. quem seriam os sujeitos? o juiz, o arguido e o mp,
+mas também o defensor do arguido, o assistente (não a vítima, mas a vítima que assume determinada veste
+processual que lhe dá poderes de intervenção e de conformação da marcha, ou seja, poder de indicar provas,
+interpor recurso, arguir nulidades, etc.) e as partes civis, embora estas sejam apenas sujeitos processuais no
+plano formal e não material. as partes civis são apenas sujeitos processuais no plano formal porque a relação
+jurídica que as partes civis encabeçam é de natureza jurídico-civil.
+enquanto os participantes processuais «praticam atos singulares, cujo conteúdo processual se esgota na própria
+atividade», os sujeitos processuais são titulares de «direitos (que surgem, muitas vezes, sob a forma de poderes- deveres
+ou de ofícios de direito público) autónomos de conformação da concreta tramitação do processo com um todo, em vista
+da sua decisão final». ou seja, têm uma participação constitutiva na declaração do direito do caso. neste sentido, os
+sujeitos processuais são o tribunal (o juiz), o ministério público, o arguido, o defensor e o assistente. (maria joão
+antunes)
+o que significa dizer co-determinar a decisão final? significa que àquele sujeito processual são dados poderes de indicar
+prova, recorrer, arguir nulidades que condicionam o desfecho do processo.
+• para além dos participantes e dos sujeitos processuais, há uma categoria híbrida que é figura da vítima e que foi
+autonomizada recentemente (artigo 67.º-a do cpp). a vítima não é propriamente um sujeito processual, embora
+tenha alguns direitos processuais, mas esses direitos são sobretudo direitos de informação e direitos proteção
+assistencial e não são de molde a conferir à vítima poder de conformar a marcha e co-determinar a decisão final.
+a vítima é um afigura híbrida e está a meio caminho entre o mero participante processual e o sujeito processual.
+no sistema acusatório, o arguido teria de ser sujeito processual (apenas no sistema inquisitório é que arguido é visto
+como mero objeto do processo) e ao arguido são cumpridos poderes de intervenção processual convertendo- o em
+sujeito. mas o nosso sistema acusatório não é sistema idêntico ao sistema acusatório anglo-americano. não é um
+processo de partes, mas sim um processo de sujeitos processuais. temos de evitar a expressão “partes” porque no
+processo penal português falta o típico antagonismo entre acusação e defesa que vigora nos sistemas anglo-saxónicos.
+razões que ditam que o nosso processo não é de partes:
+1. em portugal e demais países da europa continental, países africanos de tradição europeia e na generalidade de
+países da américa do sul, o mp não é parte interessada na condenação a todo o custo do arguido. está pautado
+por deveres de objetividade e legalidade e, portanto, a sua atividade exerce-se tanto em favor da pretensão
+punitiva do estado como em favor da tutela do arguido. contudo, na prática, a defesa do arguido assegurada
+pelo mp seria um contra-senso. do ponto de vista normativo, com alguma tradição, deve dizer- se que não existe
+este antagonismo. o mp pode entre nós recorrer por exclusivo interesse do arguido (artigo 401.º/1, al. a) do cp)
+e embora isso aconteça em hipóteses circunscritas, isso não é anomalia. tal como também acontece nas
+alegações finais o mp pedir absolvição do arguido – exemplo: o caso tancos em relação a ministro azeredo
+lopes. isto é reflexo de que o mp age pautado por deveres de objetividade e de legalidade e não pode ser visto
+como parte exclusivamente interessada na condenação do arguido.
+2. também não é processo de partes porque não existe entre nós disponibilidade sobre objeto. causa penal é coisa
+publica e não existe da parte de acusação nem da defesa disponibilidade sobre o objeto e por isso o nosso sistema
+é mais refratário do que os sistemas de common law a soluções consensuais. não estão excluídas, mas são
+mais difíceis de compreender nos sistemas romano-germânicos do que nos sistemas de common law.
+3. não existe no nosso oj uma autorresponsabilidade probatória das partes. existe um poder-dever de investigação
+do juiz e por isso não existe ónus da prova nem da parte da acusação, nem da parte da defesa.
+sujeitos processuais- o tribunal
+na nossa crp há manifestações muito claras de reserva de jurisdição em matéria penal. só os juízes podem condenar
+em penas criminais. não pode haver condenação em penas criminais por ato de poder político ou um ato administrativo.
+esta ideia resulta do artigo 202.º, que consagra monopólio dos juízes no exercício da função jurisdicional, do artigo 27.º
+(em matéria de aplicação de penas e medidas restritivas de liberdade) e do artigo 32.º/4 da crp, que diz respeito à
+intervenção do juiz na fase de inquérito quando se tenha de praticar atos restritivos de df na fase do inquérito.
+também é a crp que enuncia as duas características principais do poder judicial:
+1. independência: os tribunais são independentes e estão sujeitos apenas à lei (artigo 203.o da crp). a
+independência deve ser perspectivada de ponto de vista:
+o externo – a independência deve ser perspectivada do ponto de vista da relação de poder judicial em
+relação a outros poderes do estado.
+i. os tribunais são independentes face a poder legislativo e por isso não recebem ordens,
+orientações ou instruções quanto a processos concretos.
+ii. os tribunais também são independentes face ao poder executivo e por isso os governos não
+exercem qualquer função disciplinar sobre os juízes. já ouvimos falar das prerrogativas de
+inamovibilidade e irresponsabilidade do juiz – os juízes não podem ser responsabilizados por
+decisões que sejam tecnicamente incorretas. os juízes podem ser responsabilizados por atos e
+omissões praticados no exercício das suas funções, designadamente quando cometam crimes.
+esse controlo penal e disciplinar não se exerce sobre o conteúdo das decisões, mas sobre a
+forma como decisões são proferidas. esta responsabilidade penal e disciplinar não é exercida
+perante órgãos de poder legislativo ou executivo, esta é aferida perante conselho superior de
+magistratura, que não tem legitimidade democrática e que é composto por 17 membros (artigo
+218.º).
+iii. os juízes devem ser independentes perante o próprio poder judicial, isto é, os juízes não estão
+vinculados a direções ou orientações de outros juízes mesmo que de instâncias superiores, salvo
+em recurso. em recurso, o tribunal de hierarquia superior pode revogar uma decisão de tribunal
+de hierarquia inferior, mas uma decisão de tribunal superior não vincula em geral os demais
+juízes, salvo em recurso, e por isso é alvo de censura a formulação seguida no acórdão 2/2013,
+em que parece que o stj está a dar instruções a um outro juiz.
+os juízes devem ser independentes também em relação a grupos da vida pública. é desaconselhável que juízes
+participem ativamente em grupos de influência política, grupos muito ativos de interesses, lobbys, que sejam
+atores permanentes de órgãos de comunicação social. não há proibição, mas serem presença assídua e serem
+catalogados como figuras públicas é desaconselhado porque se geram cumplicidades e pressões, podendo no
+futuro o juiz vir a ser chamado a decidir causas sobre as quais opinou previamente na comunicação social, ou
+que estão em relação de interesse com os grupos da vida pública em que intervém ativamente (lobbys da vida
+económica, por exemplo) e obviamente isso reduz independência do juiz, neste caso em relação a poderes
+informais.
+o interno – a independência dos juízes também se afere no plano interno. os juízes apenas estão
+vinculados pela lei. os juízes devem ser independentes em relação às suas próprias pré compensações
+na medida em que elas sejam conflituantes com os valores fundamentais do estado, com os valores
+constitucionais. nas suas decisões, o juiz deve decidir de acordo com a lei e, na medida do que seja
+possível, libertar-se das suas compreensões pessoais que sejam contrárias aos valores do estado.
+2. imparcialidade: os juízes devem ser imparciais – corolário da independência. o juiz só é imparcial se for
+independente, mas imparcialidade exige algo mais: exige que o juiz se apresente como terceiro em relação às
+pessoas e à causa a que é chamado a decidir. assegura-se imparcialidade através de dois mecanismos:
+i. impedimentos – previstos de forma taxativa e que são de funcionamento automático. são as situações
+mais graves e, por isso, o legislador enunciou-as na lei de forma taxativa. uma vez verificada a situação
+descrita na lei, o juiz deve considerar-se impedido sem mais. diz-se que os impedimentos são taxativos,
+no entanto, vamos ter de atender a algumas situações levantadas por figueiredo dias e nuno brandão.
+no texto destes autores, diz-se que as normas do cpp são menos garantistas da imparcialidade do que
+as do processo civil, o que seria um contra-senso, pois é mais importante a imparcialidade no processo
+penal do que no processo civil (isto se tivéssemos que graduar). parece que o legislador no plano civil
+estabelece elencos de impedimentos maior do que os que são estabelecidos pelo legislador penal e por
+isso figueiredo dias e nuno brandão dizem que devem integrar-se no elenco do cpp as soluções que
+nele não estão contempladas e estão previstas no artigo 115.º do cpc. o juiz está impedido por 2
+espécies de razões:
+▪ em virtude das suas relações com outros intervenientes processuais:
+• é o caso dos artigo 39.º/1/a) e b);.
+• o código também estabelece ainda em relação aos impedimentos do juízes fundados
+na relações com outras pessoas, que não podem intervir juízes no mesmo processo que
+sejam entre si cônjuges, parentes ou afins até ao 3.º grau ou que vivam em condições
+análogas às dos cônjuges (artigo 39.º/3). mas não se estabelece proibição de intervir
+como juiz alguém que seja casado com magistrado do mp, defensor, ou com advogado
+do assistente. este impedimento, que é consagrado de alguma forma no artigo
+115.º/1/al. b) do cpc, deve, no entender de figueiredo dias e de nuno brandão, valer
+no processo penal. deve ampliar-se um bocado o n.º 3 do artigo 39.º. remissão do
+artigo 39.º/3 do cpp para o artigo 115.º/1, al. d) do cpc.
+▪ em função de intervenção anterior do juiz ou futura naquela processo:
+• é o caso da participação anterior do juiz no processo, prevista nos artigos 39.º/1/al. c)
+e 40.º. em regra, o impedimento funda-se em participação anterior, passada do juiz no
+processo. ex: impedimento de intervenção como juiz de quem já tinha intervindo como
+magistrado do mp ou opc – este impedimento liga-se ao princípio de acusação.
+• mas também pode ser interpretação futura. se o juiz for indicado como testemunha,
+não pode ser simultaneamente juiz no processo. aqui, o legislador foi cauteloso. pode
+suceder que se indique o juiz como testemunha não porque o juiz sabe alguma coisa
+sobre os factos, mas sim para afastar o juiz indesejável, que não se quer a julgar uma
+determinada causa e, por isso, o legislador é cauteloso. se o juiz tiver sido oferecido
+como testemunha ele é chamado a declarar, sob compromisso de honra, por despacho
+nos autos, se tem conhecimento de factos que possam influir na decisão da causa. se
+ele afirmar que tem conhecimento dos factos, verifica-se o impedimento e não pode ser
+juiz no processo. se declarar que não tem conhecimento, continua a ser juiz e deixa de
+ser testemunha (artigo 39.º/1, al. d) e n.º 2).
+quando dissemos que não podia intervir como juiz alguém que tenha intervindo já como opc,
+magistrado do mp, ou ainda como defensor, advogado do assistente ou da parte civil ou perito (artigo
+39.º/1, alínea c)), isso está previsto, mas não está previsto impedimento do juiz que tenha intervindo
+naquele processo como jurisconsulto (autor de processo), está apenas previsto no processo civil. e, por
+isso, figueiredo dias e nuno brandão dizem que se deve também prever isso. remissão da alínea c) do
+n.º 1 do artigo 39.º para o artigo 115.º/1, al. c) do cpc- caso dos jurisconsultos.
+figueiredo dias e nuno brandão levantam a questão de que não se prevê no cpp o impedimento do
+juiz para decidir a causa em que o próprio seja o ofendido, mas essa situação está prevista no cpc – o
+cpp não se deixa de contemplar esta hipótese, mas contempla-se esta hipótese de outra forma, dizendo-
+se que quando o juiz seja ofendido num processo penal, esse processo penal não pode sequer correr na
+sua comarca, onde ele exerce funções. mais do que impedimento daquele concreto juiz, atribui-se
+competência para julgar a comarca distinta da que onde ele exerce funções. o legislador penal
+contemplou é de outra forma, até mais garantista da imparcialidade (artigo 23.º do cpp).
+em parte, a crítica de figueiredo dias e brandão é acertada, pois falta a previsão dos artigos 115.º/1, al.
+c) e 115.º/1, al. d), que devem complementar os artigos 39.º/1, al. c) e 39.º/3 do cpp, mas, por outro
+lado, viram mal a situação de quando o juiz é ofendido no processo. a lei penal não estabelece
+impedimento, estabelece algo ainda mais sério.
+os impedimentos têm funcionamento automático – o juiz deve considerar-se impedido sem mais quando
+se verifica uma destas circunstâncias. a declaração de impedimento pode também ser requerida por
+qualquer um dos sujeitos processuais – o mp, o arguido, o assistente e as partes civis. se o juiz se
+declarar impedido, o seu despacho é irrecorrível, mas se o juiz não se considerar impedido, pode haver
+recurso para o tribunal imediatamente superior (artigos 41.º/2 e 42.º/1)
+ii. causas de suspeição- dão origem a incidentes de:
+• escusa;
+• recusa.
+há intervenções anteriores do juiz no processo que são fundamento de impedimento. mas será que
+todas as intervenções anteriores devem gerar impedimento ou devem, pelo contrário, gerar causa de
+suspeição que pode dar lugar a incidente de escusa ou recusa?
+na versão originária do código, os impedimentos eram muito contados. só estava impedido de intervir
+no processo o juiz que tivesse intervindo anteriormente como mp, opc (artigo 39.º/1, al. c)) e também
+o juiz que tivesse presidido o debate instrutório, nos termos artigo 40.º, sendo que este último
+impedimento ainda se ligava ao princípio de acusação porque a seguir ao debate instrutório o juiz é
+chamado a decidir sobre pronúncia (equivalente a acusação) ou não pronúncia do arguido (equivalente
+ao arquivamento). a sua intervenção no processo não é epidérmica, é uma intervenção que penetra a
+fundo matéria da causa e é equivalente nessa parte à do magistrado do mp e por isso se considerava
+haver impedimento. mas ao longo da vigência do cpp, foi aumentando a pressão para se estabelecer um
+elenco de impedimentos maior e foi isso que agora no artigo 40.º que aconteceu, sendo que situações
+que antes eram apenas causa de suspeição dão origem a autênticos impedimentos. destaca-se o
+impedimento de o juiz ter presidido a debate instrutório (artigo 40.º, al. b)), mas também o caso de o
+juiz ter aplicado a medida coação prevista nos artigos 200.º a 202.º do cpp (artigo 40.º/alínea a)). que
+medidas de coação são estas? trata-se de medidas de coação mais graves – proibição e imposição de
+condutas, obrigação de permanência na habitação e prisão preventiva. o que estas medidas de coação
+tão graves têm em comum que justifica a previsão de um impedimento quando aplicada por um juiz é a
+circunstância de se exigirem a verificação de fortes indícios da prática de crime para serem aplicadas.
+quando se aplicam outras medidas de coação, isso não justifica o impedimento. um juiz que tenha
+ficado convencido que existem fortes indícios da prática de crime, provavelmente não será equidistante
+no julgamento e será condicionado por esta convicção prévia que formou.
+também se deve atentar no artigo 40.º/al. e) – o juiz que recuse o arquivamento em caso de dispensa de
+pena, a suspensão provisória ou a forma sumaríssima por discordar da sanção proposta, também fica
+impedido de depois intervir no julgamento. imagine-se que o mp determinou arquivamento por dispensa
+de pena, ele precisa de concordância do juiz, o jic. aquele juiz a quem se pediu concordância e não deu
+concordância depois não pode julgar o caso, e o mesmo acontece na suspensão provisória do processo
+e no processo sumaríssimo. fora destas intervenções, a circunstância de o juiz ter intervindo na fase de
+inquérito não o impede de intervir na fase de julgamento, mas pode ser causa de suspeição. o juiz que
+autorize buscas domiciliárias, escutas telefónicas, que aplique uma medida de coação que não seja uma
+das referidas acima não fica impedido de intervir no procedimento, mas isso pode ser causa de
+suspeição. as causas de suspeição estão previstas no cpp através de cláusula geral no artigo 43.º/1. não
+é necessário, para que cláusula esteja preenchida, que a imparcialidade do juiz seja posta efetivamente
+em causa, basta que exista motivo grave/sério do ponto de vista da comunidade para duvidar da
+imparcialidade do juiz. a aparência de imparcialidade é condição do próprio valor da imparcialidade.
+não basta ser imparcial, é preciso parecer imparcial. no n.º 2 do artigo 43.º, diz-se que as intervenções
+do juiz noutro processo ou em fases anteriores do mesmo processo, fora dos casos do artigo 40.º, podem
+ser causa de suspeição. os tribunais têm, todavia, interpretado de forma muito contida/parcimoniosa
+esta cláusula geral, julgando improcedentes muitos dos incidentes de escusa e recusa que lhe são
+submetidos.
+o que é preciso em concreto para que um incidente de escusa e recusa ser julgado procedente?
+figueiredo dias e nuno brandão dizem que o critério é individual e objetivo. é preciso verificar- se que
+aquele concreto juiz tem alguma predisposição contra ou favor do arguido (individual), mas também é
+critério objetivo porque é preciso verificar se há alguma razão/motivo justificativo para explicar que
+essa predisposição aconteça.
+na prática, quando têm sido julgados procedentes?
+• quando existe uma relação de amizade entre o juiz e o sujeito processual;
+• casos em que o juiz tenha intervindo como juiz num processo em que se tenha discutido
+matéria conexa com aquela;
+• quando exista uma relação de inimizade entre o juiz e os sujeitos processuais;
+• quando o juiz anteriormente tenha feito manifestações públicas sobre aquela causa.
+as causas de suspeição não são taxativas (há uma cláusula geral) nem de funcionamento automático. o
+juiz não se pode declarar suspeito. o juiz pode pedir escusa a tribunal imediatamente superior e a
+qualquer dos sujeitos processuais com legitimidade pode pedir recusa do juiz. a decisão é sempre do
+tribunal imediatamente superior, e não do próprio juiz cuja imparcialidade deverá estar condicionada
+(artigo 45.º do cpp). a decisão que o tribunal superior profira é irrecorrível (artigo 45.º/6 do cpp).
+problema da repartição da competência dos tribunais penais
+o princípio fundamental em matéria da competência dos tribunais penais é chamado de princípio do juiz natural ou
+legal, que está consagrado no artigo 32.º/9 da crp. este princípio não existe desde sempre, não está inscrito na natureza
+das coisas. nos estados absolutistas, o poder de julgar era prerrogativa do rei e o rei delegava nos juízes essa
+competência para julgar e como era prerrogativa sua, o rei a qualquer momento podia avocar a causa ou transferir
+competência de tribunal para tribunal diferente. com a revolução francesa e a consagração do princípio de separação
+de poderes, as coisas alteraram-se e a maioria dos ordenamentos jurídicos consagra este princípio.
+o núcleo deste princípio traduz-se na proibição de subtrair uma causa à sua jurisdição natural, àquela que seja fixada
+por lei. traduz-se numa proibição de desaforamento ou de criação de jurisdições excecionais, ad hoc. o artigo 32.º/9 da
+crp diz o seguinte: nenhuma causa pode ser subtraída ao tribunal cuja competência esteja fixada em lei anterior. da
+leitura desta norma decorrem 3 corolários em que se decompõe este princípio:
+i. há reserva de lei formal – por isso se diz princípio de juiz natural ou legal. o juiz natural é aquele que seja
+fixado através da lei. a lei é que deve determinar a competência dos tribunais penais. a lei define as
+competências dos tribunais.
+ii. o segundo corolário liga-se à ideia de anterioridade, embora essa ideia não esteja expressa de forma
+inequívoca na lei. não se fixa em relação a que é que tem de ser anterior e daí surge controvérsia.
+o quanto a este segundo corolário, taipa de carvalho diz que a lei tem de ser anterior em relação à prática
+do crime, em relação aos factos que estão a ser apreciados pelo tribunal. em relação às competências
+dos tribunais, vale o princípio de legalidade consagrado no artigo 29.º da crp. esta ideia de taipa de
+carvalho não merece acolhimento de figueiredo dias nem da maioria de doutrina para quem imposição
+de anterioridade de fixação de competências em relação ao crime poderia gerar graves perturbações
+quando houvesse modificação global do mapa judiciário. ex: em 2013/14, áreas que correspondiam de
+grosso modo à área dos municípios passaram a corresponder à área dos distritos. na tese de taipa de
+carvalho, os tribunais que foram instalados não seriam competentes para já e os que foram declarados
+extintos continuariam a exercer funções para já enquanto não se julgassem todos os processos por factos
+que tivessem sido praticados antes da entrada me vigor desta lei que alterou o mapa judiciário municipal.
+isto significava que alguns tribunais extintos continuariam a exercer funções e a funcionar e alguns
+tribunais criados tivessem poucos processos à espera que todos aqueles crimes que tinham sido
+cometidos antes da entrada em vigor dessa lei tivessem sido definitivamente julgados. isso causa uma
+grande perturbação ao funcionamento da justiça e gera uma ingovernabilidade de processo penal a que
+figueiredo dias é sensível.
+o figueiredo dias diz que o que importa é defender o núcleo essencial do princípio do juiz natural ou
+legal, ou seja, aquilo que se procura é evitar manipulações ou modificações concretas de competência,
+retirar a causa de tribunal para outro tribunal diferente. proíbe-se o desaforamento ou a criação de
+tribunais excecionais para julgar determinada e concreta causa, mas o princípio do juiz natural ou legal
+não proíbe existência de modificações gerais da ordem de competência de tribunais penais determinadas
+por lei que seja posterior à prática de facto. não impede que a lei que entre em vigor depois do facto
+modifique o âmbito da ordem de competência. aquilo que proíbe é que lei entrada em vigor depois do
+facto retire competência para a concreta causa de um tribunal, entregando-a a outro ou que crie um
+tribunal excecional para julgar uma concreta causa.
+iii. o terceiro corolário diz respeito à fixação de uma ordem taxativa de competências. não é apenas necessário
+que a lei defina a competência dos tribunais penais e que a lei seja anterior em relação a algo que a crp não diz
+o que é, é preciso também que a lei defina a ordem taxativa de competências que não pode ser alterada através
+de ato administrativo concreto. também este terceiro corolário é controverso porque se admite o método de
+determinação concreta de competência, em certas situações. este corolário é o da determinação abstrata de
+competências. a lei determina uma e de ordem taxativa de competências quais os critérios. são essencialmente
+4 critérios, que dão lugar a uma:
+• competência funcional;
+• competência material;
+• competência territorial;
+• competência por conexão.
+passemos a explanar cada uma das competências.
+competência funcional
+a competência funcional atende aos diversos segmentos a que o processo se decompõe. e pode ser competência
+funcional por graus ou por fases.
+• competência funcional por graus – distingue-se tribunais de 1ª, 2ª ou 3ª instâncias.
+• competência funcional por fases – distingue-se entre tribunais de instrução, de julgamento, de recurso e de
+execução de penas.
+a competência funcional interessa menos.
+competência material
+a competência material divide a jurisdição dos tribunais em função das suas diversas espécies. a cada espécie de tribunal
+é atribuída uma concreta categoria de causas penais em função da matéria. a competência material distribui-se em
+função de diferentes critérios. pode atender-se à:
+i. qualidade/natureza do agente – neste caso, o critério é subjetivo e a lei consagra casos em que lei atende a
+esse critério da qualidade do agente. ex: para julgar o pr, o pm ou o par é competente o pleno das secções
+criminais do stj (artigo 11.o, n.o 3, al. a)). se estiver em causa julgar processos por crimes cometidos por juízes
+do supremo tribunal de justiça e das relações e magistrados do ministério público que exerçam funções junto
+destes tribunais, são competentes as secções criminais do stj, nos termos do artigo 11.º/4, al. a). se estiverem
+em causa crimes cometidos por juízes que não sejam juízes do stj ou das relações ou por magistrados do mp
+que não exerçam funções nesses tribunais, são competentes as secções criminais das relações. para julgar certas
+pessoas, independentemente do crime que cometam, são competentes certas espécies de tribunais, tribunais que
+são de hierarquia superior e que em regra não têm competência para julgamento em 1ª instância, mas em função
+da dignidade das funções exercidas pelo arguido, são os tribunais que em 1a instância têm competência para o
+julgar. trata-se de honrar especial dignidade de exercício de certos cargos. não faria sentido que o juiz de direito
+que exerce funções num tribunal de relação fosse julgado por juiz de tribunal de hierarquia inferior, p. ex.
+(artigo 12.º/3, al. a)). por isso estabelece-se este critério subjetivo de repartição de competências.
+ii. gravidade e natureza do crime – à parte das situações definidas pela qualidade do agente, o critério é objetivo,
+atendendo-se à gravidade e natureza do crime e não à qualidade do sujeito que vai ser julgado. este critério
+objetivo pode ser:
+a) qualitativo quando se atende à natureza do crime.
+b) quantitativo quando se atende à moldura penal prevista para aquele crime, isto é, à gravidade daquele
+crime.
+existem tribunais singulares e colegiais e, dentro destes últimos, existem os tribunais coletivos e os tribunais de júri.
+• tribunal de júri: tem pouca tradição em portugal e tem um modo de organização e funcionamento distinto do
+tribunal de júri que conhecemos dos filmes norte-americanos. diferenças entre o nosso tribunal de júri e o norte-
+americano:
+a) o nosso tribunal de júri é composto pelos 3 juízes que integrariam o tribunal coletivo, 4 jurados
+efetivos e 4 suplentes, ao passo que o norte americano é composto por 12 jurados leigos.
+b) os tribunais de júri portugueses decidem por maioria e não por unanimidade. pode acontecer que 4
+jurados leigos façam maioria em relação aos 3 juízes de carreira.
+c) outra diferença diz respeito às competências, na medida que o tribunal de júri português pode
+decidir da questão da culpabilidade e determinação da pena, ao passo que tribunal de júri norte-
+americano apenas profere sobre a culpabilidade do agente.
+d) as decisões do tribunal de júri em portugal são sempre fundamentadas, ao passo que nos eua o
+veredicto dos jurados não tem de ser fundamentado.
+quais as causas penais que cabem ao tribunal de júri? intervêm aqui o critério objetivo-qualitativo e o critério objetivo-
+quantitativo. o tribunal de júri está preparado para julgar as causas penais mais graves. a competência do tribunal de
+júri pode ser delimitada pela positiva, mas também pela negativa.
+• na sua delimitação pela positiva, diz o cpp que o júri é competente para julgar os processos que digam respeito
+aos crimes previstos em determinado lugar do cpp (artigo 13.º/ 1 do cpp). remissão do artigo 13.º/1 para os
+artigos 236 a 246 do cp e 308 a 346 do cp. trata- se de crimes contra o estado e de outras infrações. no artigo
+13.º/1 temos a materialização do critério objetivo-qualitativo, sendo que se refere à natureza do crime. no artigo
+13.º/2 atende- se à gravidade do crime. o tribunal de júri só funciona desde que num caso ou noutro haja
+requerimento nesse sentido por parte de algum dos sujeitos processuais legitimados. tem legitimidade para
+requerer a intervenção do tribunal de júri o assistente, o mp ou o arguido. se não houver requerimento, não é o
+processo atribuído ao tribunal de júri e é da competência do tribunal coletivo. as causas que podem ser
+conhecidas do tribunal de júri podem necessariamente ser conhecidas do tribunal coletivo, mas o inverso não é
+verdadeiro – há questões que podem ser conhecidas do tribunal coletivo e que não poderiam ser conhecidas pelo
+júri.
+• quanto à delimitação pela negativa, há causas penais que o tribunal de júri não pode nunca julgar – estas causas
+penais estão enunciadas no artigo 207.º/1 da crp (o júri, nos casos e com a composição que a lei fixar, intervém
+no julgamento dos crimes graves, salvo os de terrorismo e os de criminalidade altamente organizada,
+designadamente quando a acusação ou a defesa o requeiram). isto é, o tribunal de júri não pode intervir em
+caso algum nos crimes de terrorismo e de criminalidade altamente organizada. porque é que crp proíbe
+funcionamento de tribunal de júri para os crimes de alta criminalidade e terrorismo? a crp, sabendo que se
+trata de crimes particularmente graves e que envolvem um risco acrescido para quem intervém com funções
+adjudicativas, não quis impor esse risco acrescido aos comuns cidadãos. obviamente que para o juiz também
+existe o risco acrescido, e o estado obriga-se a assegurar a sua proteção, mas é um dever de ofício que o juiz
+assume, e o cidadão não assume esse dever de ofício de julgar. é para evitar sujeitar os cidadãos estes riscos
+excessivos que se proíbe isto. o que é o terrorismo e a criminalidade altamente organizada? quanto ao
+terrorismo, os tipos legais fazem um recorte da factualidade típica e está mais ou menos bem recortado. mas o
+que seja criminalidade altamente organizada, já não é bem assim. a criminalidade altamente organizada não é
+um tipo legal, é um conceito operatório cujo preenchimento pode ser feito num determinado sentido ou outro
+sentido diferente do legislador ordinário. como vamos preencher esse conceito indeterminado é a questão que
+se coloca. o cpp oferece definição no artigo 1.º/ m), mas esta definição não foi a mesma desde a versão
+originária até ao momento presente. será que é este conceito do cpp que não existia ao tempo em que a crp
+foi aprovada que se deve ter como referente para integração e densificação do conceito constitucional de
+criminalidade altamente organizada? não podemos ler a norma constitucional à luz do direito ordinário porque
+isso seria inversão dos termos, mas a norma de código oferece um apoio interpretativo. não é decisiva, não é
+determinante. não podemos interpretar a crp à luz do direito ordinário, mas à luz da interpretação daquilo que
+seja criminalidade altamente organizada, podemos ter como índice interpretativo a definição do cpp, mas não
+é critério decisivo.
+o tribunal de júri também não é competente, por força da lei, para crimes praticados por titulares de cargos políticos –
+artigo 40.º da lei n.º 34/87. nos crimes praticados por titulares de cargos políticos, pela natureza dos crimes e agentes
+envolvidos há maior permeabilidade a funções sociais que são contrárias à ideia de justiça. as pessoas decidem não em
+função de justiça, mas em função de preferências eleitoralistas.
+• tribunal coletivo: o tribunal coletivo é competente para julgar causas mais graves que não caibam na
+competência do tribunal de júri. o cpp atribui competência ao tribunal coletivo segundo o critério objetivo-
+qualitativo e o critério objetivo-quantitativo. a expressão do critério objetivo-qualitativo é o artigo 14.º/1 e 2,
+al. a). o artigo 14.º/1 tem exatamente a mesma redação do que o artigo 13.º/1 (fazer as mesmas remissões). está
+confirmada a ideia de que todos casos que cabem na competência do tribunal de júri cabem no tribunal coletivo.
+artigo 14.º/ 2, al. a) – compete ainda ao tribunal colectivo julgar os processos que, não devendo ser julgados
+pelo tribunal singular, respeitarem a crimes: a) dolosos ou agravados pelo resultado, quando for elemento do
+tipo a morte de uma pessoa;. os crimes de homicídio também são de competência do tribunal coletivo mesmo
+que se trate de homicídio privilegiado que não é punível com pena de prisão superior a 5 anos por força de
+critério objetivo qualitativo.
+quanto ao critério objetivo-quantitativo, veja-se o artigo 14.º/ 2, al. b) – compete ainda ao tribunal colectivo
+julgar os processos que, não devendo ser julgados pelo tribunal singular, respeitarem a crimes: b) cuja pena
+máxima, abstratamente aplicável, seja superior a 5 anos de prisão mesmo quando, no caso de concurso de
+infrações, seja inferior o limite máximo correspondente a cada crime.
+o critério qualitativo prevalece sempre sobre o quantitativo. no tribunal de júri, se o crime for um daqueles
+artigos para os quais remete o artigo 13.o, n.o 1, mesmo que o crime seja punível com pena de prisão cujo limite
+máximo fique aquém dos 8 anos, cabendo numa das hipóteses do artigo 13.º/1 é competente o tribunal de júri,
+pois o critério qualitativo prevalece sempre sobre o critério quantitativo. o mesmo se passa com o tribunal
+coletivo, isto é, se o crime for um crime doloso ou agravado pelo resultado que tenha como elemento do tipo a
+morte de pessoa, o tribunal competente é o tribunal coletivo mesmo que o crime seja punível com pena de
+prisão, cujo limite máximo não ultrapassa os 5 anos.
+• tribunal singular: quanto ao tribunal singular, este é de competência residual em matéria penal, isto é, todas
+as causas que não caibam na competência dos tribunal coletivo ou de júri, são de competência do tribunal
+singular. mas também tem competência própria definida em função de um critério objetivo- qualitativo e
+objetivo-quantitativo.
+o o critério objetivo-qualitativo está expresso no artigo 16.º, n.º 2, al. a) – remissão para os artigos 347 a
+458, que se referem a crimes contra autoridade pública, tais como: a desobediência, a coação, motim,
+etc.
+o o critério objetivo quantitativo está consagrado no artigo 16.º/2, al. b) – o tribunal singular é competente
+para julgar crimes puníveis com pena de prisão não superior a 5 anos. o critério qualitativo prevalece
+mais uma vez sobre critério quantitativo.
+os crimes contra autoridade pública são crimes da competência do tribunal singular mesmo que o crime seja
+punível com pena de prisão cujo limite máximo é superior a 5 anos. os crimes contra a autoridade pública são
+julgados pelo tribunal singular mesmo que sejam mais graves porque a vítima do crime é a autoridade pública
+e isso faz com que a recolha da prova seja mais fácil e fidedigna, permitindo que os formalismos da tramitação
+do processo sejam mais simples. como se confia na autoridade pública, que é vítima do crime e poderá fazer
+desde logo a recolha das informações relevantes, admite-se uma maior simplificação do formalismo em sede do
+julgamento e por isso o julgamento não se exige que seja pesado e por isso é feito por um tribunal singular. o
+tribunal singular também é competente para julgar de processos por crimes que caberiam na competência do
+tribunal coletivo porque são puníveis com pena de prisão superior a 5 anos quando o mp entenda que no caso
+concreto não se deve aplicar pena de prisão superior a esses 5 anos (artigo 16.º/3). esta norma é uma norma que
+concretiza o método de determinação concreta da competência. não é a lei que fixa a ordem taxativa de
+competência. a lei fixa a competência, mas permite que possa haver da parte de uma autoridade judiciária a
+concretização de uma competência determinada por lei – isto liga-se ao 3o corolário do princípio de juiz natural
+ou legal.
+o método da determinação concreta de competência está consagrado no artigo 16.º/3 – “compete ainda ao tribunal
+singular julgar os processos por crimes previstos na alínea b) do n.º2 do artigo 14.º, mesmo em caso de concurso de
+infracções, quando o ministério público, na acusação, ou, em requerimento, quando seja superveniente o conhecimento
+do concurso, entender que não deve ser aplicada, em concreto, pena de prisão superior a 5 anos.”
+certos casos que seriam da competência do tribunal coletivo porque são puníveis com pena de prisão superior a 5 anos
+passam a ser da competência do tribunal singular se o mp, na acusação ou em requerimento feito depois disso, entender
+que não se deve aplicar ao caso pena de prisão superior a 5 anos. esta norma suscitou algumas dificuldades no início de
+vigência do cp porque se colocava a dúvida de saber se seria conforme ao artigo 32.º/9 da crp. o tribunal
+constitucional entendeu não haver inconstitucionalidade:
+• o tribunal constitucional entendeu que a norma não era inconstitucional porque considerou que ainda é a lei
+que fixa a competência do tribunal singular, isto é, ainda é a lei geral e abstrata que diz em que casos é que uma
+causa que seria da competência do tribunal coletivo pode passar a ser da competência do tribunal singular. a lei
+enuncia requisitos e depois atribui ao mp a competência para verificar a existência desses requisitos e atribui a
+competência para decidir ao tribunal singular porque o mp limita-se a concretizar uma competência que já é o
+legislador que estabelece e define.
+• o tribunal constitucional diz ainda que não existe violação do seu núcleo essencial, embora se possa colocar
+em questão se há afetação da norma do artigo 32.º/9, isto é, do princípio do juiz natural que é a proibição do
+desaforamento de jurisdições de exceção. aqui não há desaforamento porque há uma dimensão que se mantém
+inalterada que é a competência territorial. a única intervenção do mp é quanto à competência material. continua
+a ser o tribunal de comarca que tem competência, mas em vez de ser um coletivo de juízes passa a ser o tribunal
+singular.
+• o tribunal singular, que passa a ser competente por força da lei e desta intervenção do mp concretizadora da
+lei, não pode aplicar pena de prisão superior a 5 anos. o tribunal singular continua a ter as competências que a
+lei em geral lhe atribui, não podendo condenar em pena de prisão superior a 5 anos. fica vinculado a esse teto
+máximo (artigo 16.º/4 – no caso previsto no número anterior, o tribunal não pode aplicar pena de prisão superior
+a 5 anos). apesar de este nº 4 ser um argumento que permitiu ao tribunal constitucional concluir pela não
+inconstitucionalidade da norma, ele suscita algumas dúvidas e controvérsias que se prendem com a violação do
+princípio da reserva da função judicial/jurisdicional porque estar-se-ia a atribuir ao mp uma competência
+para condicionar a jurisdição dos tribunais. o tribunal estaria apenas vinculado à lei, estaria vinculado também
+a decisão do mp que lhe imporia um teto máximo de jurisdição.
+o esta censura também foi descartada pelo tribunal constitucional, entendendo-se que não havia violação
+do artigo 202.º da crp porque, na verdade, aquilo que se estabelece nesta norma não é muito diferente
+daquilo que se estabelece noutras normas e que é, no fundo, uma emanação da titularidade da ação penal
+do mp. o mp é titular da ação penal e isso significa que o mp tem não apenas competência para acusar,
+mas também competência para apresentar a pretensão punitiva do estado. representar a pretensão
+punitiva do estado significa estabelecer limites àquilo que depois o tribunal vai poder julgar. quando o mp
+define na acusação o objeto do processo, o tribunal não pode julgar senão o objeto fixado na acusação e
+por isso tribunal fica condicionado pelos factos descritos na acusação e até pela sub-solução jurídica que o
+mp faz desses factos. o mp condiciona sempre a atividade cognitiva do tribunal, e este não é caso único –
+não é só à luz da acusação e representação que o mp condiciona a atividade cognitiva do tribunal.
+o também no artigo 409.º do cpp, onde se consagra a proibição da reformatio in pejus, que diz que o
+tribunal superior não pode agravar a pena aplicada na primeira instância quando o recurso tenha sido
+interposto apenas pelo arguido ou pelo mp no interesse do arguido. isto significa que se o mp não interpuser
+recurso no interesse da pretensão punitiva do estado os poderes do tribunal superior ficam limitados.
+também aqui o tribunal fica condicionado pela atividade do mp. também aqui se entendeu não haver
+inconstitucionalidade.
+competência territorial
+responde à questão de saber qual é o tribunal, em função do território, que é competente para julgar determinada causa.
+a distribuição da competência territorial atende à facilidade de recolha do material probatório e às exigências de
+prevenção geral. o tribunal competente será aquele onde os factos ocorreram porque é aí que é mais fácil recolher a
+prova e porque é aí que se fazem sentir com maior incidência exigências de prevenção geral (é preciso restaurar a
+confiança daquela comunidade na norma violada) e também por razões que se prendem com evitar incómodos de
+testemunhas que em regra viverão próximo do local onde o crime correu.
+a regra geral da competência territorial é de que é competente o tribunal em cuja área se tiver verificado a consumação
+do crime – artigo 19.º/1. tratando-se de crime material de resultando, será competente o tribunal onde esse resultado
+se produziu.
+há, todavia, um desvio introduzido em 2007 a esta regra, que consta do artigo 19.º/ 2 do cpp:
+• quando se trata de um crime que tenha como elemento do tipo a morte de uma pessoa o tribunal
+competente é aquele em cuja área o agente atuou, ou em caso de omissão deveria ter atuado, e não
+aquele em que o resultado morte se produziu – interessa o lugar da ação ou da omissão penalmente
+relevante e não o lugar da produção do resultado típico. as vítimas destes incidentes graves em regra
+acabavam por morrer em hospitais centrais (e a competência era sempre dos tribunais daquelas áreas),
+afastando a competência do tribunal do lugar de recolha da prova onde a recolha de prova seria mais
+simples e as exigências de prevenção geral se fariam sentir com maior acuidade.
+• os artigos 19.º, 20.º, 21.º, 22.º e 23.º contêm regras especiais de determinação da competência
+territorial. veja-se a lei para o efeito.
+competência por conexão
+esta não é, em sentido próprio, uma modalidade de competência, mas sim um conjunto de desvios às regras normais de
+distribuição das regras dos tribunais penais. o princípio geral do nosso código é que para cada agente e cada crime se
+organiza um processo e é competente nesse processo um determinado tribunal, mas aquilo que acontece na realidade
+prática é que por razões diferentes, pode ser conveniente julgar no mesmo processo mais do que um arguido e mais do
+que um facto.
+a conexão pode ser:
+• originária: organiza-se um só processo para julgar vários arguidos por vários crimes ou vários
+arguidos pelo mesmo crime.
+• superveniente: quando os processos ab initio separados e são posteriormente apensados.
+há razões materiais que justificam a conexão de processos:
+• prendem-se com objetivos programáticos de economia processual. se existe uma conexão entre os
+factos, a atividade probatória ganha com a apreciação conjunta destes mesmos factos. se os factos
+estão materialmente relacionados, ganha-se em termos de economia processual se forem indiciados no
+mesmo processo. a prova é a mesma. uma mesma atividade probatória permitirá extrair conclusões
+de vários factos.
+• há ainda a ideia de não contradição dos julgamentos – se há conexão material entre os factos, a
+circunstância de parte desses factos ser apreciada um tribunal e a outra parte por outro pode
+potenciar/gerar uma contradição de decisões que desprestigia os tribunais e reduz a confiança da
+comunidade na justiça das decisões. exemplo: operação marquês.
+*nota: a formação de um único processo tem vantagens, mas também tem desvantagens, quer na perspetiva da justiça,
+quer na perspetiva dos direitos de defesa do arguido. um processo monstruoso (mega-processo) torna-se ingerível do
+ponto de vista da defesa, na medida em que é quase impossível exercer uma defesa eficaz relativamente a um conjunto
+tão amplo de factos e a um acervo tão significativo de provas nos prazos que a lei estabelece. por isso é que neste
+processo aconteceu uma anomalia. a lei estabelece prazos para prática de atos processuais e permite que estes sejam
+prorrogados por decisão do juiz a requerimento dos sujeitos processuais e essa prorrogação não deve exceder 30 dias
+(artigo 107.º/6). mas neste caso concreto, os prazos, p. e., para recurso da decisão instrutória foram alongados até 120
+dias para além daquilo que própria lei estabelece para prazo máximo de prorrogação dos prazos processuais. significa
+que o nosso código está preparado para processos desta natureza. o prazo só foi alongado por acordo dos sujeitos
+processuais sendo que lei ano contemplava esta hipóteses. é um processo difícil de governar na perspetiva da pretensão
+punitiva do estado, e não só do lado da defesa, pois é difícil fazer-se cabalmente a prova com um conjunto tão amplo
+de factos e provas e a prescrição poderá ser um resultado mais provável – a demora processual que resulta do
+alongamento dos prazos e a própria atividade probatória pode conduzir a uma prescrição. a alternativa também não é
+simpática, sendo que a alternativa seria a divisão de factos materialmente relacionados por vários processos diferentes
+– “salamização processual”. a “salamização processual” também tem inconvenientes, na medida em que mesmo arguido
+pode estar a responder por várias décadas por factos materialmente relacionados em processos diferentes sem conseguir
+pacificar sua vida e prestar de facto contas à justiça, com prejuízo da sua paz jurídica e da confiança da comunidade nas
+normas.
+nem a salamização processual nem a criação de processos monstruosos são convenientes. a dificuldade nesta
+matéria é de tal ordem que ninguém se entende sobre o que se deve mudar. recentemente foram aprovadas na ar um
+conjunto de modificações ao cpp que vem dificultar/restringir a conexão.
+quais os fundamentos da conexão?
+existem duas modalidades de conexão:
+• conexão subjetiva – existe quando o agente é o mesmo. atende à unidade ou mesmidade do agente.
+pode haver conexão quando diversos crimes sejam cometidos pela mesma pessoa.
+no nosso código não há nenhum caso de conexão puramente subjetiva. a circunstância de a pessoa praticar
+vários crimes não é geradora em si mesma de conexão processual. a hipótese mais próxima é a prevista no
+artigo 25.º do cpp, mas ainda assim exige-se uma relação ténue entre os crimes. basta, por exemplo, que crimes
+tenham sido cometidos na mesma comarca, isto é, que sejam da competência de tribunais com sede na mesma
+comarca para haver esta relação ténue.
+nas outras situações de conexão subjetiva, a presença de elementos objetivos é ainda mais visível (artigo 24.º/1,
+a) e b)):
+o artigo 24.º/1/alínea a)–para além da mesmidade do agente, exige-se que se trate de crimes cometidos
+através da mesma ação ou omissão (há uma relação material entre eles).
+o artigo 24.º/1/alínea b) – para além da mesmidade do agente, exige-se ainda que os crimes tenham sido
+cometidos na mesma ocasião ou lugar (conexão espácio-temporal), acrescida de uma:
+▪ relação consequencial sendo uns causa-efeito dos outros. exemplo: organiza-se um motim para
+se praticar uma evasão.
+▪ de complementaridade entre os crimes (destinando-se uns a continuar ou ocultar os outros).
+exemplo: alguém comete um crime de roubo e para ocultar o crime de roubo mata a testemunha
+que viu o roubo a ser cometido.
+não há casos de conexão puramente subjetiva, mas pode acontecer que pessoa cometa vários crimes. quando
+alguém comete vários crimes, antes de transitar em julgado a condenação por qualquer deles, é condenado numa
+pena única. como se faz para condenar com uma pena única se afinal não há só um processo? cada um dos
+processos corre em separado, mas depois de transitadas em julgado todas as decisões, o processo regressa ao
+tribunal da última condenação e este determina, com base nas penas parcelares que já foram aplicadas ao agente,
+a pena única que lhe deve caber.
+o tribunal territorialmente competente é o tribunal da última condenação, mas se este não tiver competência
+material, a competência é atribuída ao tribunal que o seja daquele lugar, daquela comarca. imaginemos alguém
+que cometeu um crime de homicídio em 2019 e outro de furto em 2020. pelo crime de homicídio foi condenado
+em 9 anos de prisão e pelo furto em 2 anos de prisão. o homicídio foi julgado pelo tribunal coletivo lisboa e o
+crime de furto foi julgado pelo tribunal singular de porto. neste caso, o tribunal da última condenação foi o
+tribunal da comarca de porto e por isso seria ele a determinar a pena única, mas tratou-se de tribunal singular
+visto que para aplicação da pena única não será competente o tribunal singular porque se trata de pena única
+relativamente a crimes punidos com pena de prisão de 9 e 2 anos, a competência será de tribunal coletivo. será
+comarca do porto porque é o tribunal da última condenação, mas será um tribunal coletivo porque o tribunal
+singular não teria competência material para determinação da pena única. como é que pena única se determina?
+o limite mínimo da moldura de concurso é 9 anos, o máximo é a de soma das penas parcelares, isto é, de 11
+anos, e a pena única estará neste intervalo.
+o competência do tribunal – artigo 471.º/1 e 2 do cpp.
+• conexão objetiva – atende à identidade do crime ou à existência de uma relação material entre vários
+crimes que podem ser atribuídos a diferentes pessoas. está referida no artigo 24.º/1/ c), d) e e).:
+o a alínea c) refere-se a uma situação de comparticipação criminosa.
+o a alínea e) refere-se a uma situação de crimes cometidos reciprocamente (há vários crimes
+materialmente relacionais porque são cometidos por duas pessoas uma contra a outras).
+o a alínea d) refere-se a situação de vários agentes de terem cometido crimes em comparticipação na
+mesma ocasião ou lugar sendo uns causa ou efeito dos outros ou destinando-se uns a continuar ou
+ocultar os outros.
+a lei estabelece, todavia, obstáculos à conexão:
+• ela só opera em relação a processos que estejam na mesma fase processual (artigo 24.º/2). se o processo já está
+em fase de julgamento e se descobrem factos materialmente relacionados com aqueles que se começam a
+investigar naquele momento e ainda se está em fase de inquérito, aqui não pode haver conexão processual.
+• a conexão não opera entre processos que sejam, ou não sejam, da competência do tribunal de menores.
+• não há conexão processual quando se trata de crimes tributários de diferente natureza (artigo 46.º do rgit–
+regime geral de infrações tributárias).
+• não há conexão processual e devem ser julgados em separado crimes que sejam, ou não sejam praticados por
+titulares de cargos políticos (artigo 42.º do regime de responsabilidade de titulares de cargos políticos).
+• não há conexão processual quando estejam em causa crimes que sejam e que não sejam de natureza estritamente
+militar (artigo 113.º do código de justiça militar).
+os processos podem ser juntos/apensados (conexão superveniente), mas também podem ser separados se se mostrar
+inconveniente a apreciação conjunta. em fase de inquérito, a apreciação conjunta de vários factos pode ser conveniente.
+mas depois pode acontecer que na fase de julgamento os inconvenientes superem as vantagens. exemplo: processos de
+cartas de condução.
+• vamos estar durante meses com sessões de julgamento em que são arguidas várias pessoas, em relação a algumas
+delas os factos relevantes são apenas discutidos durante 10 minutos numa determinada sessão das muitas que
+vão acontecer. e se são arguidas nesse processo têm de ter um defensor do processo, e têm de estar presentes na
+audiência de julgamento durante vários meses com os incómodos encargos financeiros que implicam.
+o nestas situações em que há arguidos que praticaram bagatelas penais o julgamento conjunto é
+altamente inconveniente – pode ter havido vantagem na apreciação conjunta no inquérito, mas
+deduzida a acusação seria bom que o mp deduzisse acusações separadas.
+a lei diz em que casos pode haver separação (artigo 30.º). em suma, pode haver separação quando haja um interesse
+ponderoso e atendível ao arguido mas também há separação quando conexão puder representar perigo para a pretensão
+punitiva do estado, p. e., porque se aproxima o termo de prazo de prescrição.
+se o processo for separado mantém-se competente para julgar o processo o tribunal a quem a competência tenha sido
+atribuída por força das regras da conexão processual – há uma prorrogação da competência (artigo 31.º/ b)). isto serve
+para se evitar uma manipulação das competências e evitar que se use a separação para subtrair a causa do tribunal a
+quem ela tinha sido atribuída inicialmente.
+exceção à regra da perpetuação da competência: artigo 30.º/2 – a requerimento de algum ou alguns dos arguidos, o
+tribunal pode ainda tomar a providência referida no número anterior quando outro ou outros dos arguidos tiverem
+requerido a intervenção do júri. neste caso, sendo a separação ditada pelo interesse dos arguidos que não querem ser
+julgados pelo tribunal de júri, por força da separação, o processo daqueles que não quiseram ser julgados pelo tribunal
+de júri, não caberá ao tribunal de júri, sendo competente o tribunal coletivo (artigo 30.º/2 e 3).
+a conexão não é uma modalidade de competência, mas um conjunto de desvios às regras normais de competência.
+quando se verifica algum dos fundamentos de conexão objetiva ou subjetiva e não há obstáculos à conexão organiza-
+se um só processo. e qual é o tribunal competente para julgar esse único processo que se vai formar?
+• competência material (artigo 27.º) – quanto a esta competência, ela é atribuída ao tribunal de hierarquia ou de
+espécie mais elevada. imagine-se um crime de corrupção ativa por cidadão que paga ao juiz para decidir uma
+causa em sentido favorável a esse. para julgar o cidadão comum pelo crime de corrupção ativa, seria competente
+o tribunal singular. para julgar o juiz são competentes as secções criminais do tribunal da relação do porto,
+porque o crime ocorreu no porto. por força da conexão organiza-se um só processo e é competente o tribunal
+de uma hierarquia mais elevada. neste caso, era competente o tribunal da relação do porto. a conexão altera as
+regras de competência material.
+• competência territorial – artigo 28.º.
+sujeitos processuais- o ministério público
+é também um sujeito processual. trata-se de uma magistratura diferente da magistratura judicial porque é uma
+magistratura hierarquizada embora goze de um estatuto de autonomia externa, isto é, autonomia em relação aos demais
+poderes do estado. num plano interno também se fala de autonomia do mp, mas essa autonomia interna, de cada
+concreto magistrado, tem de conviver com as relações próprias da hierarquia – existem conflitos entre autonomia interna
+e a hierarquização da magistratura do mp.
+houve uma polémica em 2020 com uma diretiva:
+• em relação à questão de saber se o superior hierárquico pode ou não dar ordens ao ser subordinado é indiscutível
+que assim o é, mas essas ordens têm de ser legais, sob pena de cessar o dever de obediência do subordinado.
+• uma outra questão era a de saber se não deveriam essas ordens ser dadas por escrito, se não deveria ficar rasto
+documental delas no processo porque a circunstância de ter intervindo naquele inquérito um magistrado
+diferente daquele que é o titular dele deve ser do conhecimento do arguido e dos demais sujeitos processuais
+que queiram insurgir-se contra decisão proferida. se se suscitar intervenção hierárquica, no fundo, está-se a
+suscitar a intervenção do superior que materialmente foi quem decidiu.
+• mas agora já se diz que os superiores hierárquicos podem dar ordens aos seus subordinados, que existe um
+dever de obediência salvo se as ordens forem ilegais, e que estas devem ser dadas por escrito e deve fazer- se
+menção no processo que aquele ato processual foi praticado mediante instruções do superior hierárquico, não
+ficando todavia a ordem do superior no processo, mas fica documentada num processo paralelo que os sujeitos
+processuais podem consultar se nisso houver interesse atendível e com isso se procurou harmonizar a questão
+da autonomia interna com a hierarquia, para além da tutela de defesa dos direitos do arguido também.
+o mp é o titular da ação penal (artigo 219.º da crp). sendo o titular da ação penal, compete-lhe representar a pretensão
+punitiva do estado. o cpp, no artigo 53.º, concretiza as competências do mp como titular da ação penal.
+competências:
+• competência para acusar (artigo 53.º/ 2, al. c));
+• competência para dirigir a investigação em que se estriba a sua acusação (artigo 53.º/2, al. d)). o mp é o
+dominus do inquérito. claro que no inquérito, há atos praticados pelos opc. é ao mp que compete definir a
+estratégia de direção do inquérito e linhas da investigação. já vimos que esta direção do inquérito fez surgir
+dúvidas no início sobre a compatibilidade com a investigação – remeter para matéria já dada quanto à norma da
+crp (toda a instrução é da competência do juiz, mas ela referia-se à fase de investigação a que o cpp veio
+depois chamar de inquérito). os juízes não dirigem investigação, apenas autorizam atos que, por serem
+restritivos de df, não podem ser autorizados pelo mp.
+• competência para sustentar a acusação em julgamento (artigo 53.º/2, al. c)).
+• competência para interpor recurso, mesmo que no exclusivo interesse do arguido (artigo 53.º/2, al. d)).
+• competência para promover a execução das reações criminais (artigo 53.º/2, al. e)).
+parte dos atos do inquérito não são praticados pelo mp. muitos dos atos do inquérito são praticados pelos opc. coloca-
+se a questão de saber como ser articulam os opc com o mp, sendo certo que os opc não são sujeitos processuais, são
+meros participantes processuais.
+• o conceito de opc não é um conceito organizativo, é um conceito funcional. é o próprio cpp que define o
+conceito de opc no artigo 1.º al. c): para efeitos do disposto no presente código considera-se: c) «órgãos de
+polícia criminal» todas as entidades e agentes policiais a quem caiba levar a cabo quaisquer actos ordenados
+por uma autoridade judiciária ou determinados por este código. são opc aqueles que praticam atos
+processuais por ordem de uma autoridade judiciária no processo penal. podem ser opc a psp, gnr, pj (estas
+3 são policias de competência genérica), at, asae, sef, etc. são opc sem prejuízo de terem outras
+competências, quando praticam atos processuais por ordem de autoridade judiciária.
+• os opc agem sob a direção de uma autoridade judiciária, sem prejuízo de terem algumas competências
+autónomas. por exemplo, cabe a alguns opc receber notícias de crimes, muito embora devam transmitir essas
+notícias de crime imediatamente ao mp, não podendo fazê-lo no prazo superior a 10 dias para que o mp abra
+inquérito. mesmo antes do mp abrir inquérito, os opc têm competência para praticar as medidas cautelares e
+de polícia (recolher vestígios, identificar testemunhas, evitar que provas se percam), reguladas nos artigos 248.º
+e ss.
+• a lei de organização da investigação criminal atribui também aos opc autonomia técnica e tática. os polícias
+têm um modo de agir próprio e essa autonomia técnica e tática não é assegurada no cpp, mas sim no artigo 2.º
+da lei da organização de investigação criminal.
+que tipo de relação intercede entre o mp e os opc? há vários modelos.
+• modelo de total autonomia e independência – modelo brasileiro. a investigação criminal é conduzida pela
+polícia e, no final da investigação, esta entrega um relatório ao mp que oferece ou não a denúncia que aqui
+equivaleria à dedução ou não de acusação. há quem considere que este regime é melhor pois:
+o dá uma maior liberdade de ação às polícias para agirem de acordo com as estratégias as que estão
+habituadas;
+o asseguraria uma maior imparcialidade do mp. o mp não esteve envolvido na investigação e por isso
+seria mais equidistante no momento de oferecer denuncia, e só o faria se os indícios recolhidos fossem
+mesmo fortes.
+contudo, também há desvantagens:
+o as mãos livres que são oferecidas à polícia também podem, no entanto, ser um risco do ponto de vista
+dos df.
+o também há a questão de “assegurar uma certa imparcialidade do mp”, que não é decisiva. o que é
+decisivo é que quem acusou e investigou não julgue. não é propriamente indispensável que aquele que
+investigou não acuse ou que aquele que acusa não tenha investigado. é uma exigência supérflua. o que
+importa é que quem julga, o juiz, não tenha investigado e acusado.
+• modelo de absoluta dependência – poderia apresentar-se como uma alternativa ao outro.
+• modelo de dependência funcional – as polícias não estão sob a direção hierárquica das magistraturas, existe
+apenas uma dependência funcional. no plano organizativo, hierárquico e disciplinar, as polícias estão
+dependentes dos seus próprios ministérios e direções gerais. só no plano funcional é que a relação de
+dependência se exerce com as magistraturas, com o mp no inquérito e com o jic, na instrução.
+sujeitos processuais- o arguido
+a constituição como arguido na lei portuguesa: momentos e formalidades
+o código não define quem é o arguido, embora seja uma personagem fundamental no processo. a marca d’água do
+sistema acusatório é a atribuição ao arguido do estatuto de sujeito processual e já não de mero objeto e meio de prova.
+a lei define quem é o suspeito, mas não define o arguido, mas estrutura e densifica o seu estatuto – no artigo 60.º e 61.º,
+estabelecem-se as linhas gerais do estatuto de arguido (“desde o momento em que uma pessoa adquirir a qualidade de
+arguido é-lhe assegurado o exercício de direitos e de deveres processuais, sem prejuízo da aplicação de medidas de
+coação e de garantia patrimonial e da efetivação de diligências probatórias, nos termos especificados na lei”).
+ao distinguir o arguido do suspeito, a lei processual penal supõe que à constituição de arguido se liga o reconhecimento
+do estatuto de sujeito processual (artigos 58.º n.º2 e 4, 60.º e 61.º do cpp), por contraposição ao de mero participante
+processual. de um ponto de vista material, a constituição de arguido significa, ainda, que foi ultrapassada a mera
+existência de indício de que a pessoa visada cometeu crime ou que nele participou. para obviar a um encurtamento
+ilegítimo dos direitos processuais que devem ser dados materialmente a quem vê dirigir-se contra si um processo penal,
+o artigo 59.º/2 do cpp confere ao suspeito o direito de ser constituído arguido, a seu pedido, sempre que estiverem a ser
+efetuadas diligências que pessoalmente o afetem. pela mesma razão, o cpp prevê outros casos de constituição
+obrigatória de arguido antes de ser deduzida acusação ou de ser requerida a instrução- artigo 272.º/1, art. 58.º/1, al. a),
+artigo 58.º/1, al. b), art. 58.º/1, al. c), artigo 58,º/1, al. d), art. 59.º/1.
+o estatuto do arguido: direitos e deveres
+vamos ver os requisitos para a atribuição da qualidade processual de arguido. o código diz como e em que momento
+se adquire a qualidade processual de arguido. ou seja, define o conjunto de situações que dão lugar à constituição como
+arguido e estrutura de que modo essa constituição como arguido opera.
+essas situações-fundamento estão no art.57.º, 58.º e 59.º. a norma nuclear é o artigo 58.º e as situações- fundamento
+estão enunciadas no artigo 58.º/1. podemos agrupá-los em duas:
+• a prática de atos compressivos das liberdades fundamentais das pessoas – artigo 58.º/1/ al. b) e al. c): se
+uma pessoa é detida ou tenha de ser aplicada a essa pessoa uma medida de coação ou garantia patrimonial, ela
+é constituída arguida, porque é um ato compressivo da sua liberdade fundamental, à qual essa pessoa terá o
+direito de reagir e isso justifica a atribuição da qualidade de arguido;
+• existência de uma suspeita – artigo 58.º/1/al. a) e al. b): a existência de uma suspeita tornada pública ou
+determinado grau de gravidade que justifica a atribuição do estatuto de arguido.
+de um ponto de vista material, a constituição de arguido durante o inquérito tem, de facto, também o significado de ter
+sido ultrapassada a mera existência de indício de que a pessoa visada cometeu o crime ou que nele participou, havendo
+já uma suspeita fundada da prática de crime.
+quando usamos a palavra “arguido”, associamos um certo estigma. mas a qualidade de arguido é um estatuto de
+garantia. quando o código de 1987 entrou em vigor, aquilo que se quis foi antecipar o mais possível a atribuição da
+qualidade de arguido, porque, no código anterior, muitas pessoas eram investigadas, sem que disso tivessem
+conhecimento e nem sequer se podiam defender. portanto, adquirir a qualidade de arguido é adquirir um estatuto de
+garantia, em que vêm associados direitos que o simples suspeito não tem, por exemplo, poder ser assistido por um
+defensor, o direito a requerer a proteção de provas, o direito a recorrer, o direito a requerer a abertura da instrução, entre
+outros. por isso, contrariando a nossa ideia inicial, não é um estigma, embora, claro, a divulgação pública da existência
+da qualidade de arguido possa ser estigmatizante, mas o propósito do legislador foi a de atribuir um estatuto de garantia.
+a assunção da qualidade de arguido é uma garantia, por dela decorrer para o arguido o estatuto de sujeito processual
+durante todo o decurso do processo penal (artigo 57.º/2 do cpp). trata-se de uma posição processual que lhe permite
+uma participação constitutiva na declaração do direito do caso concreto, através da concessão de direitos processuais
+autónomos, legalmente definidos, que deverão ser respeitados por todos os intervenientes no processo penal (entre
+outros, artigos 60.º e 61.º/1 do cpp).
+o estatuto processual do arguido está enformado por três vetores fundamentais:
+o o direito de defesa;
+o o princípio da presunção de inocência até ao trânsito em julgado da sentença de condenação;
+o o princípio do respeito pela decisão da vontade do arguido, uma das implicações do princípio da
+presunção de inocência.
+no entanto, o reconhecimento, do ponto de vista social, da atribuição desse estatuto possa resultar em danos, fez com
+que o legislador, em 2007, circunscrevesse, no artigo 58.º/1/ alínea a) – “suspeita fundada”. o adjetivo “fundada” não
+estava na versão originária. agora, é preciso uma suspeita fundada. na alínea b) não estava a expressão “salvo se a
+notícia for manifestamente infundada”. é uma restrição que se fez.
+quando estas situações-fundamento estejam verificadas, existe um dever da parte de quem investiga de constituir a
+pessoa como arguido. como é que essa constituição opera? mediante comunicação feita por opc ou autoridade
+judiciária à pessoa visada que ela deve considerar-se arguida no processo e com a enunciação e, se necessário, a
+explicação dos direitos processuais (artigo 61.º cpp) que por essa razão podem caber-lhe – artigo 58.º/2 do cpp.
+o n.º3 e n.º6 do artigo 58.º do cpp: até 2007, a constituição como arguido devia ser feita pelos opc. a partir de 2007,
+continua a permitir-se aos opc constituir alguém como arguido, mas essa constituição está sujeita a validação das
+autoridades judiciárias.
+e se os opc ou autoridades judiciárias não constituírem uma pessoa como arguida, apesar do preenchimento de uma
+situação-fundamento? a não constituição de arguido nos casos em que é obrigatória (art. 58.º/1 e 272.º/1 do cpp)
+constitui nulidade, dependente de arguição, segundo o disposto no artigo 120.º/2 alínea d) do cpp, por se tratar de ato
+legalmente obrigatório.
+diz a lei no artigo 58.º/7 que as declarações que a pessoa tenha prestado não podem ser utilizadas como prova. não
+podem valer como prova em todo o processo. não têm valor probatório algum, se houver omissão ou violação destas
+formalidades.
+nota: foi editada a lei n.º 79/2021, que alterou alguns preceitos do cp e do cpp. no artigo 74.º/1 do cp diz-se que
+pode o tribunal declarar o réu culpado. esta modificação foi promovida na nossa linguagem normativa muito
+recentemente, porque, no âmbito do código de 1929, o lado ativo da relação jurídico-processual era o réu. foi para
+distinguir do processo civil que o legislador alterou a palavra para arguido, mas ainda subsistia no cp esta menção que
+agora vai ser corrigido.
+embora exista uma nata social sobre a figura do arguido, na verdade, o estatuto de arguido é um estatuto de garantia.
+um simples suspeito não tem os direitos processuais que ao arguido são reconhecidos – direitos de intervenção ativa no
+processo e co-determinação da decisão criminal.
+por isso, chegados certos momentos ou praticados certos atos, a lei impõe que a pessoa seja constituída como arguido
+em duas situações, nos termos do artigo 58.º:
+• porque a suspeita tem uma certa densidade e se justifica a atribuição daquele estatuto processual;
+• são praticados atos compressivos das liberdades fundamentais e que a pessoa deve poder reagir, e só pode fazê-
+lo tendo esse estatuto processual.
+segundo o artigo 59.º:
+• o artigo 59.º/1 também remete para o n.º2 do artigo 58.º, ou seja, nestas situações também é obrigatório proceder
+da forma que impõe o artigo 58.º/2. só não é obrigatório fazer esta comunicação quando é o próprio que requer
+a constituição como arguido.
+pelo artigo 57.º:
+• se a pessoa não for constituída como arguido em nenhuma das situações que constituem fundamento do art.
+58.º ou 59.º ocorram a pessoa contra quem corre inquérito é constituída arguida com a acusação, no despacho
+de acusação.
+exemplo: alguém que se evadiu e não se consegue localizar para ser interrogada. nesse caso, com a acusação,
+a pessoa em causa é constituída arguida.
+no entanto, se o arguido não for interrogado no inquérito, há uma nulidade sanável.
+pode acontecer que o inquérito termine com despacho de arquivamento. nesse caso, se houver requerimento de
+abertura de instrução, com o requerimento de abertura de instrução é a pessoa em causa constituída arguida.
+nos casos do artigo 57.º é obrigatório proceder nos termos previstos no artigo 58.º/2, ou seja, também é obrigatório
+informar à pessoa que ela daí em diante é arguido. claro que, se a pessoa não for encontrada, essa comunicação não é
+pessoal, mas deve constar expressamente no texto da acusação.
+já referimos anteriormente que, quando as autoridades de perseguição penal não operam a constituição como arguido,
+apesar de estarem preenchidos alguns dos fundamentos, a consequência é a proibição de validar como prova as
+declarações prestadas pela pessoa que já devia ser arguida e que não foi constituída como tal – artigo 58o no5.
+erro de remissão:
+• no artigo 59.º/3, remete-se para o artigo 58.º/3 e 4.
+• esta remissão estava certa até 2007, porque não existia no artigo 58.º o atual n.º 3, nem o atual n.º6, nem o atual
+n.º7. portanto, o 4 era o 3 e o 5 era o 4. estava-se a remeter para aquilo que agora consta no n.º4 e no n.º5. é
+particularmente grave, porque é no n.º5 que está a consequência da não comunicação do arguido. o legislador
+quis remeter para os n.º3 a 7 do artigo anterior. o mesmo se diga do artigo. 57.º/3. aqui, a remissão era para os
+n.º 2 e 6, mas o n.º7 foi aditado mais recentemente.
+o direito de defesa do arguido
+o direito de defesa constitui uma “categoria aberta” à qual devem ser imputados, desde logo, os direitos que são
+reconhecidos ao arguido em cumprimento do princípio do contraditório:
+• o direito de estar presente em todos os atos processuais que lhe disserem respeito;
+• o direito de ser ouvido pelo tribunal ou pelo juiz de instrução sempre que ele deva tomar qualquer decisão que
+pessoalmente o afete;
+• o direito de intervir oferecendo provas e requerendo as diligências que se lhe afigurarem necessárias;
+• o direito às últimas declarações.
+nas palavras de faria costa, o direito que a lei processual penal oferece ao arguido é o de se “pronunciar e contrariar
+todos os testemunhos ou meios de prova”.
+devem, ainda, destacar-se, por referência ao direito de defesa do arguido:
+• o direito de requerer a abertura de instrução, como forma de controlar a decisão de acusação do ministério
+público ou do assistente, em caso de procedimento dependente de acusação particular (artigo 287.º/1/ al. a) do
+cpp);
+• o direito de requerer intervenção do tribunal de júri (artigo 13.º do cpp);
+• o direito de se opor à desistência da queixa ou de acusação particular, podendo por esta via ver a sua inocência
+declarada em julgamento (artigo 51.º do cpp).
+em 2021, também se introduziu uma solução nova para as pessoas coletivas, passando a prever-se um regime processual
+para essas pessoas, sendo uma norma nuclear a de saber quem as representa: o representante era designado pela pessoa
+coletiva e não podia coincidir por pessoa singular julgada pelo mesmo crime, que contrariou a prática jurisprudencial...
+então, corrigiu-se esta solução legal, dizendo- se que uma pessoa coletiva é representada pelos seus representantes
+orgânicos, que poderá coincidir com a pessoa singular que seja arguida no processo (art.57.º/5 a 8 cpp).
+sujeitos processuais- o defensor
+função processual
+a crp consagra como direito do arguido o direito a escolher defensor e a ser por ele assistido em todos os atos do
+processo, podendo a lei fixar situações em que a assistência do defensor é obrigatório (artigo 32.º/3 crp). no cpp há
+uma disposição geral sobre a obrigatoriedade de assistência do defensor (artigo 64.º/1 cpp).
+o artigo 20.º/1 da crp complementa a norma constitucional, ao determinar que a justiça não pode ser denegada por
+insuficiência de meios económicos, o que é assegurado pela lei n.º 34/2004, de 29 de julho, sobre o acesso ao direito
+e aos tribunais, especificamente, no que se refere à proteção jurídica em processo penal (artigos 39.º a 44.º).
+a crp não conhece apenas o direito do arguido de ter defensor. a crp assegura a todos os arguidos o direito de escolher
+defensor, sem prejuízo de, nos casos de insuficiência económica, ser nomeado um defensor oficioso ao arguido. claro
+que pode, se houver motivo para isso, a substituição por outro defensor.
+além de outros casos que a lei preveja, poderá ser sempre nomeado defensor ao arguido, se as circunstâncias do caso
+revelarem a necessidade ou conveniência de este ser assistido, sendo obrigatoriamente nomeado ou advogado
+constituído, quando for deduzida acusação contra o arguido ou requerida a abertura de instrução (artigos 64.º n.º 2 e 3 e
+287.º/4). a não comparência do defensor nos casos em que a lei exigir a respetiva comparência constitui nulidade
+insanável (artigo 119.º/al. c) do cpp).
+podendo a lei especificar os casos e fases em que a assistência de advogado é obrigatória:
+➢ nesta parte, há uma dissonância entre a crp, a cedh e o pidcp. estes dois diplomas internacionais- a que portugal
+também se vinculou – reconhecem o direito à autodefesa. o arguido tem o direito de defender-se a si próprio ou de ter
+a assistência de um defensor. colocam como alternativa ou direito à assistência técnica e o direito à autodefesa. ao
+passo que a nossa crp prevê o direito de escolher defensor e até antecipa situações em que essa defesa possa ser
+obrigatória. nessas situações, isto significa que não se está a reconhecer ao arguido o direito a defender-se a si mesmo.
+esta questão já foi levantada junto do tc, que entende que a solução consagrada na lei não contraria a crp, nem
+diplomas internacionais a que portugal está vinculado. trata-se de uma solução materialmente fundada na tutela dos
+interesses do arguido, cujos fundamentos são três:
+• por um lado, quer-se assegurar ao arguido uma defesa tecnicamente habilitada e, portanto, capaz. é importante
+quando o arguido não seja uma pessoa com competências na área do direito.
+• e mesmo que seja, quer assegurar-se ao arguido uma defesa com um certo distanciamento emocional. há
+pessoas especialistas em direito que, por estarem diretamente envolvidos na causa, não teriam o distanciamento
+emocional e não poderiam assegurar uma defesa competente. há um certo paternalismo do tc;
+• para certos atos processuais, é desaconselhado, por razões de tutela de outras pessoas que o ato processual seja
+praticado por outro arguido. por exemplo, crimes sexuais ou crimes que toquem na esfera de intimidade ou
+vítimas especialmente vulneráveis em que se desaconselha que seja o próprio arguido a fazer a inquisição dessas
+pessoas.
+esta questão já se colocou ao comité de direitos humanos da onu que já advertiu portugal para esta circunstância de
+a nossa lei processual fixar uma impossibilidade de autodefesa em termos cegos e abstratos.
+estatuto processual
+porque não se trata de um mero representante judiciário do arguido: desde logo, pode haver defensor, mesmo que o
+arguido se desinteresse pela sua defesa. trata-se de um órgão da administração da justiça, que exerce um papel
+diferenciado em relação ao tribunal e ao ministério público. tem como função contribuir para a justiça no exclusivo
+interesse da defesa, apresentando factos, provas e argumentos jurídicos no exclusivo interesse da defesa e compensando
+a desigualdade fáctica material que existe entre a acusação- representada pelo mp, tecnicamente preparada- e o arguido-
+que pode ser qualquer cidadão.
+ao defensor não deve caber uma mera representação dos interesses do arguido, mas antes o papel de órgão de
+administração da justiça que atua no exclusivo interessa da defesa. um processo penal que assegure ao arguido todas as
+garantias de defesa caracteriza-se também pela assistência obrigatória do defensor. a atuação do defensor é
+exclusivamente em favor do arguido, pelo que se justifica que atue ainda que sem ou mesmo contra a vontade deste.
+o defensor não está obrigado a, mesmo que saiba desses factos, trazer ao processo factos verdadeiros que desfavorecem
+o seu constituinte. mas isso não significa que possa praticar crimes, designadamente, crimes de favorecimento pessoal,
+por exemplo, não deve deturpar provas, fabricar provas que não existem, não deve ajudar o seu constituinte a fugir para
+o estrangeiro, etc. o advogado, por ser defensor, não tem carta branca para partilhar crimes de favorecimento pessoal.
+a assistência obrigatória do defensor autoriza-nos a concluir que este também participa de forma constitutiva na
+declaração do direito do caso.
+o defensor poderá ser um advogado ou um defensor nomeado, podendo o arguido, neste caso, constituir advogado em
+qualquer altura do processo, segundo o artigo 62.º/1 do cpp. diferentemente do que já sucedeu entre nós, exige-se hoje
+que a defesa seja técnica. aponta nesse sentido o artigo 330.º/1 do cpp, na parte que se refere à substituição do defensor
+por outro advogado ou advogado estagiário e já não à substituição por pessoa idónea, como sucedia na versão original,
+e alteração do n.º2 do artigo 62.º do cpp. na redação primitiva desta norma, a nomeação de defensor pelo juiz incidia
+preferencialmente (não exclusivamente) em advogado ou advogado estagiário.
+a constituição de advogado ou a nomeação de defensor constitui uma garantia de defesa do arguido e, como tal, é
+assumida no cpp. o arguido goza, em qualquer fase do processo, do direito de, quando detido, comunicar, mesmo em
+privado, com o defensor (artigo 61.º/1 al. f) 2ª parte do cpp); que nem mesmo nos casos de terrorismo, criminalidade
+violenta ou altamente organizada se estende ao defensor o regime de incomunicabilidade que pode ser sujeito o arguido
+antes do primeiro interrogatório judicial (artigo 143.º/4 do cpp); que é proibida, sob pena de nulidade, a apreensão e
+qualquer outra forma de controlo da correspondência entre o arguido e o seu defensor, salvo se o juiz tiver fundadas
+razões para crer que aquela constitui objeto ou elemento de um crime (art. 179.º/2 do cpp); e que é proibida a interceção
+e a gravação de conversações ou comunicações entre o arguido e o seu defensor, salvo se o juiz tiver fundadas razões
+para crer que aquela constitui objeto ou elemento de um crime (artigo 187.º/5 do cpp).
+podia colocar-se a questão se seria este um órgão de justiça tout court, o que deu azo, aliás, a que no início do séc. xx
+nos estados totalitários se dispensasse a figura do defensor
+é um órgão autónomo de administração de justiça na medida em que tutela “apenas” o interesse da defesa, não sendo
+limitado por questões de imparcialidade. compensa, portanto, a desigualdade fáctica de armas.
+a lei diz como é escolhido o defensor, e se não, art.66.º, tiver mandatado defensor há determinados momentos em que
+lhe é nomeado um defensor, no momento da dedução da acusação, por exemplo. o mesmo advogado pode assistir a
+vários arguidos, art.65o, e pode o mesmo arguido ter vários defensores.
+há atos que só o defensor pode praticar, art.64.º, e atos que só o arguido pode praticar, como dar a concordância à
+suspensão provisória do processo, pessoalmente. os atos não contemplados nestas duas categorias podem ser praticados
+por ambos.
+sujeitos processuais- o assistente
+a constituição de assistente: legitimidade
+é também um sujeito processual, por força da constituição, que no artigo 32.º/7 diz que o ofendido tem direito a intervir.
+trata-se de uma garantia com dignidade constitucional. é a própria constituição que é fonte. é uma tradição portuguesa
+que parece ser uma originalidade nossa, a nossa lei atribuía direitos ao mesmo. o artigo 281.º do cpp foi inspirado na
+alemanha, mas lá não se refere ao assistente. a nossa lei pelo contrário atribui grande importância processual ao mesmo.
+a partir do momento em que uma pessoa se constitui assistente, pode intervir em qualquer altura do processo. no
+entanto, tem de requerer ao juiz essa intervenção no prazo legalmente previsto no n.º3 do artigo 68.º, consoante a fase
+em que o processo de encontre:
+• até cinco dias antes do início do debate instrutório ou da audiência do julgamento;
+• nos casos do art.284.º e da alínea b) do n.º 1 do art. 287.º o prazo estabelecido para a prática dos respetivos atos;
+• no prazo para interposição de recurso da sentença.
+como opera a constituição de assistente?
+segundo o artigo 68.º do cpp, consiste no titular dos interesses que a lei especialmente quis proteger com a incriminação,
+desde que maior de 16 anos, tendo legitimidade para constituir o ofendido. o legislador adota conceito estrito ou típico
+de ofendido, onde não se incluem os simples lesados, já que estes podem adquirir estatuto de partes civis, mas não são
+para este efeito ofendido e não se podem constituir assistentes.
+saber quem é o titular do bem jurídico pode implicar a tarefa delicada de indagar sobre o tipo legal, que é melindrosa
+dos tipos legais que protegem bens supraindividuais, como violação de segredo de justiça, pode ser problemático saber
+se há ofendido particular e saber quem é.
+a jurisprudência do stj em feito extensão de conceito de ofendido, estende conceito a situações em que está em causa
+bens jurídicos supraindividuais.
+são os casos do:
+• acórdão 1/2003 de fixação de jurisprudência, diz que ofendido é pessoa cujo prejuízo se pretendia com a
+falsificação de documento (é um crime de especial intenção), pode constituir- se assistente no crime de
+falsificação documentos;
+• acórdão de fixação de jurisprudência 2/2005: em processo por crime de abuso de confiança contra a segurança
+social, previsto e punido no artigo 107.º do regime geral das infracções tributárias, o instituto de gestão
+financeira da segurança social tem legitimidade para se constituir assistente;
+• acórdão de fixação de jurisprudência n.º 8/2006: no crime de denúncia caluniosa, previsto e punido pelo artigo
+365.º do código penal, o caluniado tem legitimidade para se constituir assistente no procedimento criminal
+instaurado contra o caluniador;
+• acórdão n.º 10/2010: quando há crime de desobediência qualificada decorrente de violação de providência
+cautelar – poderá se constituir assistente o requerente da providência.
+depois é a lei que alarga, no artigo 68.º/1/e), atribui-se legitimidade para constituição de assistente para pessoas em
+certos tipos de crimes, como crimes contra a paz ou crimes particularmente difíceis de investigar e cujo auxílio que o
+assistente possa prestar junto do mp seja fundamental. os crimes de tráfego de influência, prevaricação, peculato, são
+crimes resistentes à investigação e que comprometem toda a comunidade que deve estar empenhada, todas as pessoas
+têm legitimidade para constituir-se como assistente.
+estatuto processual
+mas temos problema, assistente intervém como colaborador do mp na defesa punitiva do estado. quando no artigo
+68.º/1/ alínea e) permite que qualquer pessoa se constitua assistente, começou a acontecer que, sobretudo, nos crimes
+com importância mediática, os jornalistas tenham-se constituído assistente, com o propósito não de ajudar o mp na
+investigação, mas de aceder de forma privilegiada aos autos, em momento prévio àquilo que seria momento normal do
+levantamento do segredo externo. quando se esgota, artigo 89.º/6, os prazos normais, o segredo externo é levantado: é
+nestes casos onde há desfasamento entre segredo interno e externo que se torna útil para jornalistas se constituírem como
+assistentes.
+estamos numa situação de fraude a lei e a professora sandra silva defende que quando é manifesto que interesse é outro
+que não ajudar à colaboração do mp, não deve haver constituição do assistente. se propósito não é esse, essa constituição
+não deve ser admitida.
+nos casos de crime de corrupção, o legislador favorece a constituição de assistente de determinadas pessoas... na lei
+19/2008 de 21 de abril se diz que está dispensada taxa de justiça a constituição de justiça das associações que visam
+combater a corrupção. em leis avulsas prevê-se outros casos de legitimidade extensiva para a sua constituição, como
+associações de consumidores, domínio popular, comunidade de emigrantes para crimes discriminatórios.
+no artigo 68.º alíneas c) e d) os casos de sucessão do estatuto de assistente, em que há morte e quem tem legitimidade
+para constituir assistente e situações de incapacidade, alguém que, em representação do ofendido, poderá constituir
+como assistente.
+o estatuto de assistente é o de sujeito processual, porque tem direito e poderes autónomos para determinar a marcha
+processual, o assistente intervém como colaborador do mp, subordinando a sua intervenção à do mp. em crimes
+particulares em sentido estrito, é a posição do assistente que adquire predominância, não subordina a sua atuação à do
+mp, é, na verdade, o oposto. isto, pois, é nestes que ao assistente incumbe acusar. mas fora destes casos, de crime
+particular em sentido estrito, o assistente é colaborador do mp e tem poderes processuais definidos no artigo 69.º/2:
+requerer produção de provas, interpor recurso, entre outros
+a lei impõe que o assistente artigo 70.º/1: é sempre representado por advogado e mesmo que ofendido seja advogado
+tem de ser representado por outro advogado, acórdão 15/2016 do stj.
+o advogado do assistente não é sujeito processual é representante judiciário do assistente, não tem poderes para alem
+daqueles que resultam da representação do assistente. não pode agir contra vontade do assistente.
+a posição da vítima do processo
+a vítima não é sujeito processual, é figura nova introduzida em 2015, de natureza híbrida, pois está situada a meio
+caminho entre sujeito processual e mero participante processual. bem vistas as coisas, melhor lhe cabe a qualificação
+como participante processual do que como sujeito.
+à vítima são reconhecidos determinados direitos, artigo 67.º-a n.º 4, tem:
+• direito à assistência;
+• direito de participação ativa no processo. pareceria que por ter participação ativa que seria sujeito processual,
+mas reduz-se muito esta participação, pois serão apenas os direitos consagrados na cpp e no estatuto da vítima;
+• direitos de informação sobre andamento dos autos;
+• direito de proteção,
+• direito de comunicar ao mp ou ao tribunal existência de provas, mas não o direito de requerer novas provas,
+apenas pode oferecer provas, não tem direito que a habilite a recorrer de qualquer despacho.
+estes direitos estão condensados no estatuto da vítima e regime jurídico da violência doméstica, lei 112/2009:
+• direito à informação, a ser ouvido, art.15 e 20 do regime da violência doméstica e art.11 do estatuto da vítima;
+• proteção contra a vitimização secundária, art.17 do estatuto e art.22 do regime;
+• ser ouvida em determinadas circunstâncias, art.21 do estatuto e art. 32 e 33 do regime;
+• direito de proteção à concessão de apoios económicos.
+no cpp temos o direito de intervenção na suspensão provisória do processo, art 281/8, a vítima pode ser ouvida e tem
+o direito de ser informada sobre modificação do estatuto do arguido quando seja especialmente perigoso, artigo 212 n.º4
+e 247 n.º4 do cpp.
+nos termos do artigo 82.º-a, o tribunal em caso de condenação do arguido, pode oficiosamente arbitrar uma quantia a
+título de reparação pelos prejuízos sofridos pela vítima quando não tenha deduzido pedido de indemnização civil no
+processo penal ou em separado, nos termos do artigo 72.º e 77.º, e se verifiquem particulares exigências de proteção.
+essa faculdade poderá tornar-se obrigatória se se subsumir ao caso as normas do art.21.º do regime jurídico da violência
+doméstica e do art.16.º do estatuto da vítima.
+quem é afinal a vítima? será que posição de vítima se confunde ao ofendido?
+segundo o artigo 67-a n.º1, são vítimas aquelas que tenham sofrido dano, enquanto ofendido é construído em torno de
+bem jurídico. o conceito de vítima é construído à moda anglo-saxónica, de acordo com o “harm principle”. não se
+tratam, por isso, de conceitos equivalentes.
+a vítima é qualquer pessoa singular que tenha sofrido danos resultante da prática do crime. também são vítimas os
+familiares da pessoa que tenha morrido.
+o conceito de vítima não equivale ao ofendido, é mistura entre conceito de ofendido e lesado, porque é pessoa que
+sofreu dano, mas terá de ser apenas singular e não coletiva.
+maria joão antunes critica a pulverização de normas: se existe estatuto de vítima, seria no estatuto onde se devia
+condenar soluções e não dividir ao longo de diplomas diversos.
+sujeitos processuais- as partes civis
+a indemnização cível emergente de crime: o «processo de adesão»
+de alguma maneira, são sujeitos processuais em sentido formal, mas não em sentido material, uma vez que a relação
+jurídica que encabeçam é de natureza jurídico-civil.
+como se articula a responsabilidade civil e penal?
+modelo de independência:
+conhecido no brasil, este pedido é formulado nos tribunais civis e em separado no que respeita à ação penal. a
+circunstância de se dar como provado o crime dispensa o lesado de provar o crime nessa ação cível – temos esta dispensa
+de prova do facto danoso, tendo de provar os restantes elementos constitutivos de responsabilidade civil.
+modelo de interdependência ou adesão:
+o pedido cível é formulado na própria ação penal e nela discutido. esta solução está no artigo 71º do cpp e tem
+vantagens:
+• economia processual – o facto gerador de responsabilidade civil e penal é o mesmo e economizamos os recursos
+processuais, tratando dos factos em conjunto. evita também a contradição de julgados;
+• razão assistencial – favorece ao lesado a obtenção de uma reparação sem encargos financeiros ou com encargos
+menores, uma vez que o pedido cível é formulado de forma simplificada, a tramitação é menos complexa do
+que uma ação cível promovida em separado. o lesado fica dispensado do pagamento prévio da taxa de justiça.
+há uma isenção de pagamento de custas de justiça se o pedido for não superior a 20 unidades de conta, no caso
+do art.4o/1/m) do regulamento das custas processuais. há sempre isenção relativamente à vítima de violência
+doméstica, nos termos do art.4º/1/z) desse regulamento.
+temos desvios a este princípio que o nosso sistema consagra: temos situações em que o pedido cível pode ser formulado
+em separado – artigo 72.º do cpp, ainda que o princípio seja o da adesão:
+• casos em que o pedido se faz em separado porque há uma demora anormal na tramitação do processo penal, in
+concretum ̧ se o processo penal demorar mais de 8 meses, pode-se abrir processo civil comum e deduzir o pedido
+em separado. deixa de ser razoável impor ao lesado o ónus da espera;
+• casos em que haja outros responsáveis, para além do próprio arguido. pode haver outras pessoas civilmente
+responsáveis – art. 72.º n.º1 al. f) cpp;
+• caso em que o procedimento dependa da queixa ou de acusação particular – neste caso, a razão de ser da
+possibilidade do pedido em separado é a de permitir que haja desistência na ação penal sem que isso prejudique
+a subsistência do pedido cível. art.72.º/1/c)
+temos, ainda, outros casos que dizem respeito à inadequação da forma do processo penal, face ao pedido cível –
+situações que não se ajustam à noção de pedido cível, como o facto de correr em forma sumária ou sumaríssima at
+72.º/1/h) cpp.
+temos, ainda, casos de inadequação quanto ao processo civil face ao processo penal, como na questão de pessoas com
+responsabilidade meramente civil, art.72.º/1/f) ex vi art.73.º cpp, ao exercer-se o direito de indemnização contra uma
+seguradora, o que invoca o art.74.º cpp, tendo legitimidade para exercer tal direito o ofendido e quem sofreu danos (que
+poderá ser uma pessoa coletiva). regime esse que remete para o art.75.º, 77.º e 84.º cpp.
+natureza substantiva do pedido de indemnização civil:
+atribui-se ao pedido cível, ainda que formulado em processo penal, uma natureza estritamente civil – artigo 129.º do
+código penal.
+os critérios substantivos para a decisão do pedido cível são os previstos no código civil – artigo 483.º e seguintes cc
+(facto ilícito, gerador de danos, culposo, com nexo causal)-, por isso, pode existir uma aparente incongruência entre a
+decisão penal e a decisão proferida quanto ao pedido civil. os critérios de avaliação são distintos e o pedido cível não
+perde a sua natureza jurídico-civil por ter sido formulado em processo penal.
+pode acontecer haver responsabilidade civil e não penal, por exemplo: a amnistia pode extinguir a penal, mas não a
+civil; prática de crimes de danos se não for provado o dolo; no caso dos atentados à honra, por ressonância da
+jurisprudência do tedh, há uma maior permeabilidade nesta tutela a não ser considerado crime e a ser devida, no
+entanto, indemnização.
+em termos de tramitação, o pedido é formulado em processo penal, mas a tramitação do pedido cível segue os princípios
+próprios do processo civil, como o princípio do pedido. certos formalismos mais complexos afastam-se, para que não
+se prejudique o andamento do processo penal, como acontece no art.78.º/3 cpp.
+a decisão proferida quanto ao pedido cível forma caso julgado – artigo 84.º cpp. se o lesado não ficar satisfeito com a
+indemnização e a decisão transitar em julgado, não pode formular outro pedido.
+a reparação do artigo 82.º-a
+apesar de tudo isto, temos uma norma do cpp que parece dissonante com o que temos vindo a dizer – artigo 82.º- a do
+cpp:
+    • permite o arbitramento oficioso de uma reparação, o tribunal pode:
+    o arbitrar a reparação oficiosamente;
+    o quando tenha havido condenação; os critérios de atribuição dessa reparação prendem- se com a especial
+    vulnerabilidade da vítima. isto não respeita o princípio do pedido, é arbitrada em caso de condenação
+    apenas, o critério é o da vulnerabilidade da vítima e de especiais exigências de prevenção económica que se
+    poderão levantar.
+    quem é a vítima para efeitos desta norma? todo o lesado ou apenas o ofendido?
+    no artigo 67.º-a, temos a densificação do conceito de vítima e temos de ter este conceito como referente para a norma
+    do artigo 82.º-a do cpp. diz-se que o tribunal “pode”. há situações em que o arbitramento é obrigatório:
+    • artigo 16.º do estatuto da vítima;
+    • artigo 21.º/2 do regime jurídico da violência doméstica.
+    de todo o modo, é preciso ter em conta que a quantia arbitrada a este título é descontada na indemnização civil que
+    venha a ter lugar – isto não impede a vítima de, em processo separado, venha a deduzir um pedido cível, no entanto, o
+    valor será descontado do valor que se atribui em processo penal.
+    a reparação punitiva como «terceira via» do sancionamento penal
+    que lugar tem a reparação no sistema penal?
+    há quem diga que é a 3ª via do sancionamento criminal – a par das penas e medidas de segurança. estamos longe desta
+    solução. no entanto, temos manifestações legais de atribuição de algum valor penal à reparação:
+    • no cp, é um dos pressupostos de dispensa de pena;
+    • pode ser uma circunstância modificativa atenuante (artigo 72.º cp), é um dos fatores a ter em conta na graduação
+    da medida da pena (artigo 71.º cp);
+    • pode ainda ser um dos deveres/injunções que fazem parte do núcleo de obrigações da suspensão de execução
+    da pena de prisão – pena substitutiva, art.281.º/2 cpp.
+    caminhamos para um modelo de justiça restaurativa:
+    o quando é cometido um crime a ofensa é causada à comunidade, mas temos uma pessoa concreta cuja esfera
+    jurídica é atingida. a pena criminal, em regra, não restaura o mal causado à vítima concreta de carne e osso –
+    aquilo que faz é restaurar a confiança da comunidade na vigência da norma, promover a ressocialização do
+    agente, mas sempre para evitar que se voltem a cometer outros crimes.
+    ora, aquilo que se pretende com a valorização da reparação é uma maior atenção à vítima:
+    • a reparação pelo dano do crime satisfaz o interesse da vítima concreta que sofreu uma lesão na sua esfera
+    jurídica, a pessoa concreta que ficou lesada.
+    a este propósito, temos a norma prevista no artigo 206.º do cp:
+    o os crimes de furto e de abuso de confiança permitem a extinção da responsabilidade criminal se o agente reparar
+    integralmente os danos do crime e desde que haja acordo com o ofendido. é um exemplo claro da valorização
+    da reparação, o estado reconhece que tem valor penal por si mesmo a reparação do dano do crime.
+    esses crimes são crimes públicos aos quais é útil a reparação, não obstante, por exemplo, não ser permitida a mediação
+    penal, que é uma modalidade da justiça restaurativa, a crimes públicos.
+    função assistencial do estado:
+    • previsão de um fundo estadual de reparação às vítimas de crimes violentos e de violência doméstica: lei n.º
+    104/2009, com remissão no artigo 130.º/1 do cp;
+    • possibilidade de se atribuir ao lesado um benefício económico que resulte da desistência do estado daquilo que
+    tenha recebido a título de perda de produtos, instrumentos e vantagens no limite da multa, art.130.º/2 e 3 cp.
+    

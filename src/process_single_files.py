@@ -32,8 +32,8 @@ def divide_pdf(input_pdf_path, page_ranges):
     print(f"PDF divided into {len(page_ranges)} parts in '{output_dir}'.")
 
 # Example usage:
-page_ranges = [(0,19), (19,34), (34, 49), (49, 63), (63, 91), (91, 106)]
-divide_pdf("../Original Files/Direito_Processual_Penal.pdf", page_ranges)
+# page_ranges = [(0,3), (4,6), (7,10), (11,12),(13,18),(19,42),(43, 44), (45, 50), (51, 64),(65,69),(70,78), (79,89), (90,95),(96,106)]
+# divide_pdf("../Original Files/Direito_Processual_Penal.pdf", page_ranges)
 
 def text_from_pdf_with_pdfplumber(pdf_path):
     # Initialize an empty string to gather all the text
@@ -46,16 +46,15 @@ def text_from_pdf_with_pdfplumber(pdf_path):
             # Extract text from the current page
             page_text = page.extract_text()
             # Append the text of the current page to the full text
-            if page_text:
-                full_text += page_text.lower() + '\n'
-                full_text = re.sub(r'^alterações.*$', '', full_text, flags=re.MULTILINE)
-                full_text = re.sub(r'^alterado.*$', '', full_text, flags=re.MULTILINE)
-                full_text = re.sub(r'pág.*$', '', full_text, flags=re.MULTILINE)
-                full_text = re.sub(r'versão à data.*$', '', full_text, flags=re.MULTILINE)
-                full_text = re.sub(r'^rectificado.*$', '', full_text, flags=re.MULTILINE | re.IGNORECASE)
-                full_text = re.sub(r'^código penal - cp|legislação consolidada$', '', full_text, flags=re.MULTILINE)
-
-                full_text = re.sub(r'\n\s*\n', '\n', full_text)
+            #if page_text:
+            #    full_text += page_text.lower() + '\n'
+            #    full_text = re.sub(r'^alterações.*$', '', full_text, flags=re.MULTILINE)
+            #    full_text = re.sub(r'^alterado.*$', '', full_text, flags=re.MULTILINE)
+            #    full_text = re.sub(r'pág.*$', '', full_text, flags=re.MULTILINE)
+            #    full_text = re.sub(r'versão à data.*$', '', full_text, flags=re.MULTILINE)
+            #    full_text = re.sub(r'^rectificado.*$', '', full_text, flags=re.MULTILINE | re.IGNORECASE)
+            #    full_text = re.sub(r'^código penal - cp|legislação consolidada$', '', full_text, flags=re.MULTILINE)
+            #    full_text = re.sub(r'\n\s*\n', '\n', full_text)
     
     # Return the full extracted text
     return full_text
@@ -67,7 +66,7 @@ def write_to_file(text, output_file):
 def convert_pdfs_to_txt(input_folder, output_folder):
     # Iterate over files in the input folder
     for file in os.listdir(input_folder):
-        if file.endswith(".pdf") and "Direito_Processual_Penal_Divided" in file:
+        if file.endswith(".pdf"):
             full_path = os.path.join(input_folder, file)
             print(full_path)
             # Extract text from PDF
@@ -79,7 +78,6 @@ def convert_pdfs_to_txt(input_folder, output_folder):
             write_to_file(text, output_file)
 
 # Example usage:
-base_dir = "../PDF Files"
+base_dir = "../Original Files/single_files"
 output_dir = "../TXT Files"
 convert_pdfs_to_txt(base_dir, output_dir)
-
