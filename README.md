@@ -9,43 +9,49 @@ The LawTalk Project consists of developing a chatbot using Ollama LLM's and the 
 - **PG53597** - Afonso Bessa
 - **PG54780** - Eduardo Henriques
 
-## Index of Contents
+## Index of Contents:
+
+#### `docs`: Contains both presentations and the article of this project
+
+#### `Embeddings`: Contains the vector embeddings of the LLM Models. One subdirectory is present for each of our most used models, as well as a generic one for other models
+
+#### `Final PDF Files`: Contains the result of the translation and conversion of the processed TXT files back to the PDF format. All files fed to the model are in English
+
+#### `Images`: Contains the images used in the web application of the project. Also contains the standart font used for TXT to PDF conversion
+
+#### `Original Files`: Contains the original PDF files for the Portuguese Penal and Processual Penal Code
+
+#### `PDF Files`: Contains the result of the division of the Portuguese Penal Code and the Portuguese Processual Penal Code ready for PreProcessement
+
+
 
 ### `src`: Contains the Source Code of the Project
 
 - **`app.py`**: Contains the core chatbot implementation using Ollama LLM's.
-- **`divide_codigo_penal.py`**: Contains the script to divide one of the main PDF files in many smaller PDF's.
-- **`divide_codigo_processual_penal.py`**: Contains the script to divide one of the main PDF files in many smaller PDF's.
-- **`divide_direito_processual_penal.py`**: Contains the script to divide one of the PDF files in many smaller PDF's.
-- **`process_single_files.py`**: Contains the script to process the smaller PDF files into many smaller TXT's.
-- **`document_loader.py`**: Contains the script for loading the PDF files to the database.
+- **`divide_codigo_penal.py`**: Contains the script to divide the PDF File that contains the Portuguese Penal Code in many smaller PDF files.
+- **`divide_codigo_processual_penal.py`**: Contains the script to divide the PDF File that contains the Portuguese Processual Penal Code in many smaller PDF files.
+- **`divide_direito_processual_penal.py`**: Contains the script to divide the PDF File that contains the Notes from the Law Course from the University of Porto in many smaller PDF files.
+- **`document_loader.py`**: Contains the script for loading the PDF Files to the database.
 - **`evaluate.csv`**: Contains the Test Dataset for the evaluation of the LLM Models.
-- **`evaluate.py`**: Contains the Jupyter Notebook for evaluating the LLM Models.
-- **`format.py`**: Contains the sceipt for applying indentation and structural modification to a TXT file.
-- **`streamlit.py`**: Main script to run the chatbot.
+- **`evaluate.ipynb`**: Contains the Jupyter Notebook for evaluating the LLM Models.
+- **`extract_pdfplumber.py`**: Contains the code for extracting raw text from PDF files using PDFPlumber.
+- **`format_and_translate.py`**: Contains the script for applying indentation and structural modification to a TXT File, as well as to translate the TXT Files and convert it to a PDF File.
+- **`format.py`**: Contains the script for applying indentation and structural modification to a TXT file.
 - **`llm.py`**: Contains the prompts and the chain build with the RAG Framework.
 - **`models.py`**: Contains code that verifies and downloads the LLM Models if not present in the local machine.
-- **`extract_pdfplumber.py`**: Contains the code for extracting raw text from PDF files using PDFPlumber.
-- **`py2pdf.py`**: Contains the code for extracting raw text from PDF files using Py2PDF.
-- **`tesseract.py`**: Contains the code for extracting raw text from PDF files using Tesseract.
-- **`translate.py`**: Contains the code to translate a TXT file to English from Portuguese using the Google Translate library. Afterwards, converts the raw text into a PDF file.
+- **`process_single_files.py`**: Contains the script to process the PDF Files that contain Legal Cases and their Resolution into many smaller TXT Files.
+- **`py2pdf.py`**: Contains the code for extracting raw text from PDF Files using Py2PDF.
 - **`requirements.txt`**: Contains the tools necessary to run the project.
+- **`stats.csv`**: Contains the results of the evaluation for each LLM Model.
+- **`stats.py`**: Contains the script to display the results of the evaluation in charts at a Web Base Application.
+- **`streamlit.py`**: Main script to run the chatbot on a Web Based Application.
+- **`tesseract.py`**: Contains the code for extracting raw text from PDF Files using Tesseract.
+- **`translate.py`**: Contains the code to translate a TXT file to English from Portuguese using the Google Translate library.Afterwards, converts the raw text into a PDF file.
+- **`txt_to_pdf.py`**: Script to convert a TXT File to a PDF File.
 
-#### `docs`: Contains both presentations and the report.
+#### `TXT Files`: Contains the files in TXT format extracted from the Original Files
 
-#### `Original Files`: Contains the original PDF files for the Portuguese Penal and Processual Penal Code.
-
-#### `TXT Files`: Contains the files in TXT format extracted from the Original Files.
-
-#### `TXT Files Processed`: Contains the files in TXT format after they have been properly formatted(indentation, newlines, etc.).
-
-#### `PDF Files`: Contains the result of the division of the Portuguese Penal Code and the Portuguese Processual Penal Code ready for PreProcessement.
-
-#### `Final PDF Files`: Contains the result of the translation and conversion of the processed TXT files back to the PDF format. All files fed to the model are in English.
-
-#### `Images`: Contains the images used in the web application of the project. Also contains the standart font used for TXT to PDF conversion.
-
-#### `Embeddings`: Contains the vector embeddings of the LLM Models. One subdirectory is present for each of our most used models, as well as a generic one for other models.
+#### `TXT Files Processed`: Contains the files in TXT format after they have been properly formatted(indentation, newlines and structural modifications)
 
 ## Running the Application
 

@@ -174,7 +174,7 @@ def main():
 
     # Load data from the local Stats.csv file
     try:
-        data = load_data('Stats.csv')
+        data = load_data('stats.csv')
 
         display_plots(data)
     except FileNotFoundError:
