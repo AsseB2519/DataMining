@@ -1,291 +1,279 @@
-Roteiro para Casos Práticos de DPP
+Roteiro para Casos PrÃ¡ticos de DPP
 
-Competência do Tribunal
-	Os tribunais de 1ª instância podem ser singulares, coletivos e de júri. Existem dois tipos de critérios de distribuição de competência, o critério quantitativo e o qualitativo. 
-	Atendemos a 2 critérios:
-* Critério quantitativo: é um critério genérico e subsidiário, que atenta à moldura penal do crime. Para a determinação da pena abstratamente aplicável, diz-nos o Art.15.º que devem ser levadas em conta todas as circunstâncias que possam elevar o máximo legal da pena a aplicar. 
-* Critério qualitativo: têm em consideração características específicas dos crimes, que faz com que eles devam ser julgados num tribunal singular, coletivo ou, eventualmente, de júri.
+CompetÃªncia do Tribunal
+Os tribunais de 1Âª instÃ¢ncia podem ser singulares, coletivos e de jÃºri. Existem dois tipos de critÃ©rios de distribuiÃ§Ã£o de competÃªncia, o critÃ©rio quantitativo e o qualitativo. Atendemos a 2 critÃ©rios:
 
-1º Ver a norma que prevê o crime e a respetiva moldura penal.
-2º Ver se cabe em algum critério qualitativo:
-    * 16.º/2 a) - Livro II, título V, capítulo II: 347.º-358.º  tribunal singular
-    * 14.º/1 - Livro II, título V, capítulo I: 308.º-346.º  tribunal coletivo
-    * 14.º/1  - Livro II, título III: 239.º-246.º  tribunal coletivo
-    * 14.º/2 a) - Crimes dolosos ou agravados pelo resultado, cuja morte é elemento do tipo  tribunal coletivo
-3º Se não couber, aplicar o critério quantitativo (que será, portanto, subsidiário)
-    a. 14.º/2 b) - crimes de pena máxima abstratamente aplicável superior a 5 anos de prisão, mesmo quando, no caso de concurso de infrações, seja inferior o limite máximo correspondente a cada crime - tribunal coletivo
-    b. 16.º/2 b) - crimes de pena máxima abstratamente aplicável igual ou inferior a 5 anos - tribunal singular
-    c. 16.º/3: tratando-se de um crime cuja pena máxima abstratamente aplicável seja superior a 5 anos, mesmo concurso de crimes, se o MP entender que a pena concretamente aplicável não deve ser superior a 5 anos -tribunal singular?
-Quando estamos perante esta situação, então o tribunal competente é o singular, com a consequência de que este tribunal fica limitado (16.º/4), no sentido de não poder aplicar uma pena superior a 5 anos. Como facilmente se entende, há aqui um problema de separação de poderes, entre o MP (219.º CRP) e os Tribunais (Art. 202.º/1 CRP), isto é, um problema constitucional entre quem investiga (MP) e quem aplica a lei (tribunais). E, naturalmente, o MP, o órgão que investiga, não pode limitar o Tribunal na aplicação de penas, como é o caso, levantando problemas de inconstitucionalidade.
+CritÃ©rio quantitativo: Ã© um critÃ©rio genÃ©rico e subsidiÃ¡rio, que atenta Ã  moldura penal do crime. Para a determinaÃ§Ã£o da pena abstratamente aplicÃ¡vel, diz-nos o Art.15.Âº que devem ser levadas em conta todas as circunstÃ¢ncias que possam elevar o mÃ¡ximo legal da pena a aplicar.
+CritÃ©rio qualitativo: tÃªm em consideraÃ§Ã£o caracterÃ­sticas especÃ­ficas dos crimes, que faz com que eles devam ser julgados num tribunal singular, coletivo ou, eventualmente, de jÃºri.
+1Âº Ver a norma que prevÃª o crime e a respetiva moldura penal.
+2Âº Ver se cabe em algum critÃ©rio qualitativo:
+* 16.Âº/2 a) - Livro II, tÃ­tulo V, capÃ­tulo II: 347.Âº-358.Âº tribunal singular
+* 14.Âº/1 - Livro II, tÃ­tulo V, capÃ­tulo I: 308.Âº-346.Âº tribunal coletivo
+* 14.Âº/1 - Livro II, tÃ­tulo III: 239.Âº-246.Âº tribunal coletivo
+* 14.Âº/2 a) - Crimes dolosos ou agravados pelo resultado, cuja morte Ã© elemento do tipo tribunal coletivo
+3Âº Se nÃ£o couber, aplicar o critÃ©rio quantitativo (que serÃ¡, portanto, subsidiÃ¡rio)
+a. 14.Âº/2 b) - crimes de pena mÃ¡xima abstratamente aplicÃ¡vel superior a 5 anos de prisÃ£o, mesmo quando, no caso de concurso de infraÃ§Ãµes, seja inferior o limite mÃ¡ximo correspondente a cada crime - tribunal coletivo
+b. 16.Âº/2 b) - crimes de pena mÃ¡xima abstratamente aplicÃ¡vel igual ou inferior a 5 anos - tribunal singular
+c. 16.Âº/3: tratando-se de um crime cuja pena mÃ¡xima abstratamente aplicÃ¡vel seja superior a 5 anos, mesmo concurso de crimes, se o MP entender que a pena concretamente aplicÃ¡vel nÃ£o deve ser superior a 5 anos - tribunal singular
+Quando estamos perante esta situaÃ§Ã£o, entÃ£o o tribunal competente Ã© o singular, com a consequÃªncia de que este tribunal fica limitado (16.Âº/4), no sentido de nÃ£o poder aplicar uma pena superior a 5 anos. Como facilmente se entende, hÃ¡ aqui um problema de separaÃ§Ã£o de poderes, entre o MP (219.Âº CRP) e os Tribunais (Art. 202.Âº/1 CRP), isto Ã©, um problema constitucional entre quem investiga (MP) e quem aplica a lei (tribunais). E, naturalmente, o MP, o Ã³rgÃ£o que investiga, nÃ£o pode limitar o Tribunal na aplicaÃ§Ã£o de penas, como Ã© o caso, levantando problemas de inconstitucionalidade.
 
 Portanto:
-	Tribunal Singular
-        * Os processos que respeitarem a crimes cuja pena máxima abstratamente aplicável seja igual ou superior a 5 anos de prisão (art. 16º/2/b) - critério quantitativo.
-        * Os processos que respeitem a crimes contra a autoridade pública (art. 16º/2/a CPP, 347º-358º CP), visto que esta circunstância de serem crimes contra a autoridade pública justifica o julgamento por apenas um    juiz. A apreciação e valoração da prova estão especialmente facilitadas, pelo que cabem na competência do tribunal singular crimes puníveis com pena de prisão superior a 5 anos (art. 350º/1, art. 354º CP). 
-        * Depois da Lei nº20/2013 o tribunal singular passou a julgar outros crimes puníveis com pena de prisão superior a 5 anos, em caso de julgamento em processo sumário- flagrante delito (art.381º; art. 16º/2/c CPP). 
-        * Declaração de inconstitucionalidade do julgamento sob forma sumária de crimes da competência do tribunal coletivo. Lei 1/2016: consagração legal desta declaração de inconstitucionalidade (se não houvesse declaração de inconstitucionalidade aplicava-se somente o processo sumário e tribunal singular).
+Tribunal Singular
 
-	Tribunal Coletivo
-        * Os processos que, não devendo ser julgados pelo tribunal singular (art. 16º/2/a e 3), nos termos do art. 14º/2/b (pena máxima seja superior a 5 anos) e art. 77º/2 - critério quantitativo. Se a pena abstratamente aplicável for superior a 8 anos, o tribunal coletivo só é competente se não for requerida a intervenção do tribunal de júri (13º/2)
-        * Processos que, não devendo ser julgados pelo tribunal de júri, respeitarem aos crimes contra a identidade cultural e integridade pessoal, contra a segurança do Estado ou violações do dto internacional humanitário (art. 14º/1 CPP, arts. 240º, 243º-245º, 308º, 316º-343º CP) e os processos que, não devendo ser julgados pelo tribunal singular, respeitarem a crimes dolosos ou agravados pelo resultado (14º/2/a) - critério qualitativo
+Os processos que respeitarem a crimes cuja pena mÃ¡xima abstratamente aplicÃ¡vel seja igual ou superior a 5 anos de prisÃ£o (art. 16.Âº/2/b) - critÃ©rio quantitativo.
+Os processos que respeitem a crimes contra a autoridade pÃºblica (art. 16.Âº/2/a CPP, 347.Âº-358.Âº CP), visto que esta circunstÃ¢ncia de serem crimes contra a autoridade pÃºblica justifica o julgamento por apenas um juiz. A apreciaÃ§Ã£o e valoraÃ§Ã£o da prova estÃ£o especialmente facilitadas, pelo que cabem na competÃªncia do tribunal singular crimes punÃ­veis com pena de prisÃ£o superior a 5 anos (art. 350.Âº/1, art. 354.Âº CP).
+Depois da Lei nÂº20/2013 o tribunal singular passou a julgar outros crimes punÃ­veis com pena de prisÃ£o superior a 5 anos, em caso de julgamento em processo sumÃ¡rio- flagrante delito (art.381.Âº; art. 16.Âº/2/c CPP).
+DeclaraÃ§Ã£o de inconstitucionalidade do julgamento sob forma sumÃ¡ria de crimes da competÃªncia do tribunal coletivo. Lei 1/2016: consagraÃ§Ã£o legal desta declaraÃ§Ã£o de inconstitucionalidade (se nÃ£o houvesse declaraÃ§Ã£o de inconstitucionalidade aplicava-se somente o processo sumÃ¡rio e tribunal singular).
+Tribunal Coletivo
 
-4º Pode ir a tribunal de júri?
-    a. 13.º/1: Livro II, título V, capítulo I: 308.º-346.º  requerimento do MP, do assistente ou do arguido
-    b. 13.º/2: tribunal competente é o coletivo e a pena máxima abstratamente aplicável ao crime é superior a 8 anos de prisão  requerimento do MP, do assistente ou do arguido
+Os processos que, nÃ£o devendo ser julgados pelo tribunal singular (art. 16.Âº/2/a e 3), nos termos do art. 14.Âº/2/b (pena mÃ¡xima seja superior a 5 anos) e art. 77.Âº/2 - critÃ©rio quantitativo. Se a pena abstratamente aplicÃ¡vel for superior a 8 anos, o tribunal coletivo sÃ³ Ã© competente se nÃ£o for requerida a intervenÃ§Ã£o do tribunal de jÃºri (13.Âº/2).
+Processos que, nÃ£o devendo ser julgados pelo tribunal de jÃºri, respeitarem aos crimes contra a identidade cultural e integridade pessoal, contra a seguranÃ§a do Estado ou violaÃ§Ãµes do direito internacional humanitÃ¡rio (art. 14.Âº/1 CPP, arts. 240.Âº, 243.Âº-245.Âº, 308.Âº, 316.Âº-343.Âº CP) e os processos que, nÃ£o devendo ser julgados pelo tribunal singular, respeitarem a crimes dolosos ou agravados pelo resultado (14.Âº/2/a) - critÃ©rio qualitativo.
+4Âº Pode ir a tribunal de jÃºri?
+a. 13.Âº/1: Livro II, tÃ­tulo V, capÃ­tulo I: 308.Âº-346.Âº requerimento do MP, do assistente ou do arguido
+b. 13.Âº/2: tribunal competente Ã© o coletivo e a pena mÃ¡xima abstratamente aplicÃ¡vel ao crime Ã© superior a 8 anos de prisÃ£o requerimento do MP, do assistente ou do arguido
 
-	Tribunal de Júri
-        * Processos que, não devendo ser julgados pelo tribunal singular (art. 16º/2) estão no art. 13º/1 e 2 (remissão para os arts. 240º, 243º-245º, 308º, 316º-343º CP). O tribunal de júri só intervém a requerimento irretratável do MP, do assistente ou do arguido (art. 13º/1, 2 e 5)
+Tribunal de JÃºri
 
+Processos que, nÃ£o devendo ser julgados pelo tribunal singular (art. 16.Âº/2) estÃ£o no art. 13.Âº/1 e 2 (remissÃ£o para os arts. 240.Âº, 243.Âº-245.Âº, 308.Âº, 316.Âº-343.Âº CP). O tribunal de jÃºri sÃ³ intervÃ©m a requerimento irretratÃ¡vel do MP, do assistente ou do arguido (art. 13.Âº/1, 2 e 5).
+Podem sempre existir outros tipos de processo alÃ©m do processo comum, caracterizados pela sua celeridade.
 
-	Podem sempre existir outros tipos de processo além do processo comum, caracterizados pela sua celeridade.
+A. Processo SumÃ¡rio (arts. 381.Âº e ss. CPP)
+Quanto aos pressupostos:
 
-	A.	Processo Sumário (arts. 381º e ss. CPP)
-        Quanto aos pressupostos:
-        * Detenção em flagrante delito por autoridade judiciária ou entidade policial; ou por qualquer pessoa que entregue o detido a uma das entidades anteriores no prazo de 2h desde a detenção;
-        * Crime punível com pena máxima abstratamente aplicável igual ou inferior a 5 anos de prisão. Pode ter uma pena máxima abstratamente aplicável superior a 5 anos, se o MP considerar que não deve ser aplicada em concreto pena superior a 5 anos, através do mecanismo do art. 16.º/3
-        * A Lei 20/2013 introduziu que o julgamento sob forma sumária era sempre da competência de um tribunal singular (16.º/2 c)) e que essa forma especial era aplicável a qualquer crime, mesmo que de pena superior a 5 anos de prisão (redação anterior do art. 381.º/1 e 2). Estas normas foram declaradas inconstitucionais, porque não podem ser julgados sob forma sumária crimes da competência do tribunal coletivo (TC ac. 874/2013). A Lei 1/2016 concretizou esta declaração de inconstitucionalidade. Ou seja, crimes de pena de prisão superior a 5 anos não podem ser julgados sob forma sumária, sem ter sido ativado o mecanismo do art. 16.º/3.
-? Mas nem todos os crimes julgados sob forma sumária serão da competência do tribunal singular, porque há crimes de pena inferior a 5 anos que, não obstante, são da competência do tribunal coletivo por força do critério qualitativo? Logo o 16.º/2 c) foi julgado inconstitucional porque se um desses crimes (cfr. 14.º/1 e 14.º/2 c)) for julgado em processo sumário é na mesma da competência dos tribunais coletivos?
+DetenÃ§Ã£o em flagrante delito por autoridade judiciÃ¡ria ou entidade policial; ou por qualquer pessoa que entregue o detido a uma das entidades anteriores no prazo de 2h desde a detenÃ§Ã£o;
+Crime punÃ­vel com pena mÃ¡xima abstratamente aplicÃ¡vel igual ou inferior a 5 anos de prisÃ£o. Pode ter uma pena mÃ¡xima abstratamente aplicÃ¡vel superior a 5 anos, se o MP considerar que nÃ£o deve ser aplicada em concreto pena superior a 5 anos, atravÃ©s do mecanismo do art. 16.Âº/3.
+A Lei 20/2013 introduziu que o julgamento sob forma sumÃ¡ria era sempre da competÃªncia de um tribunal singular (16.Âº/2 c)) e que essa forma especial era aplicÃ¡vel a qualquer crime, mesmo que de pena superior a 5 anos de prisÃ£o (redaÃ§Ã£o anterior do art. 381.Âº/1 e 2). Estas normas foram declaradas inconstitucionais, porque nÃ£o podem ser julgados sob forma sumÃ¡ria crimes da competÃªncia do tribunal coletivo (TC ac. 874/2013). A Lei 1/2016 concretizou esta declaraÃ§Ã£o de inconstitucionalidade. Ou seja, crimes de pena de prisÃ£o superior a 5 anos nÃ£o podem ser julgados sob forma sumÃ¡ria, sem ter sido ativado o mecanismo do art. 16.Âº/3.
+Mas nem todos os crimes julgados sob forma sumÃ¡ria serÃ£o da competÃªncia do tribunal singular, porque hÃ¡ crimes de pena inferior a 5 anos que, nÃ£o obstante, sÃ£o da competÃªncia do tribunal coletivo por forÃ§a do critÃ©rio qualitativo. Logo o 16.Âº/2 c) foi julgado inconstitucional porque se um desses crimes (cfr. 14.Âº/1 e 14.Âº/2 c)) for julgado em processo sumÃ¡rio Ã© na mesma da competÃªncia dos tribunais coletivos.
+B. Processo Abreviado (arts. 391.Âº-A e ss.)
+Quanto aos pressupostos:
 
-	B.	Processo Abreviado (arts. 391º-A e ss.)
-        Quanto aos pressupostos:
-        * Crime punível com pena de multa ou pena de prisão abstratamente aplicável não superior a 5 anos. O crime pode ter pena de prisão de limite máximo superior a 5 anos, se o MP considerar que não deve ser aplicada em concreto pena superior a 5 anos (16.º/3).
-        * Existência de provas simples e evidentes, de onde resultam indícios suficiente.
-        * Acusação deduzida no prazo de 90 dias (391.º-B).
-	C.	Processo Sumaríssimo (arts. 392º e ss.)
-        Quanto aos pressupostos:
-        * Crime punível com pena de multa ou pena de prisão abstratamente aplicável não superior a 5 anos
-        * MP considera que deve ser aplicada concretamente uma pena ou medida de segurança não privativa da liberdade
-        * Se for crime de procedimento dependente de acusação particular e ainda da concordância do assistente
-        * Não oposição do arguido
-Se não couber em nenhuma destas formas, então ficam afastadas as formas especiais de processo, seguindo-se com a forma comum.
+Crime punÃ­vel com pena de multa ou pena de prisÃ£o abstratamente aplicÃ¡vel nÃ£o superior a 5 anos. O crime pode ter pena de prisÃ£o de limite mÃ¡ximo superior a 5 anos, se o MP considerar que nÃ£o deve ser aplicada em concreto pena superior a 5 anos (16.Âº/3).
+ExistÃªncia de provas simples e evidentes, de onde resultam indÃ­cios suficientes.
+AcusaÃ§Ã£o deduzida no prazo de 90 dias (391.Âº-B).
+C. Processo SumarÃ­ssimo (arts. 392.Âº e ss.)
+Quanto aos pressupostos:
 
-	Em caso de concurso:
-	    Apesar de cada crime (art. 373º/2) singularmente considerado ter moldura legal não superior a 5 anos, como há concurso e a soma dos limites máximos é superior a 5 anos - competência do tribunal coletivo (art. 14º/2/b). No entanto, o MP poderia fazer uso do poder referido no 16º/3 (tendo por efeito: nº4), ou seja, podia o MP entender que ao caso concreto não se aplicará pena superior a 5 anos requerendo julgamento em tribunal singular (art.16º/3 e 4). O tribunal de júri nunca seria competente pois é preciso que um dos crimes tenha pena superior a 8 anos.
-2ª instância - Tribunal da Relação: segue a regra geral do art. 427º CPP; não se verifica nenhuma circunstância que permitisse recurso direto para o STJ; 
-            * Não se preenche, especificamente, o art. 342º/1/c CPP OU não se preenche especificamente o art. 432º/1/c CPP por crime ser punível no máximo com 3 anos de pena de prisão.
-            *  Em abstrato, a relação conhece de direito e de facto (art. 428º); se no caso a motivação for apenas de matéria de dto (art. 412º) a relação só aprecia o recurso interposto quanto a matéria de dto (art. 410º/2)
-    3ª instância: não há (processo transita em julgado na Relação, nunca subindo ao STJ): não se preenche o art. 432º/b CPP que poderia permitir um 2º grau de recurso pois, por remissão para o art. 400º, e tendo em conta a moldura legal do crime (5 anos) nunca se sairia da esfera da irrecorribilidade pressuposta no art. 400º CPP (dizer qual das alíneas seriam as hipóteses aqui pertinentes, normalmente são as als d) e e) CPP). 
+Crime punÃ­vel com pena de multa ou pena de prisÃ£o abstratamente aplicÃ¡vel nÃ£o superior a 5 anos.
+MP considera que deve ser aplicada concretamente uma pena ou medida de seguranÃ§a nÃ£o privativa da liberdade.
+Se for crime de procedimento dependente de acusaÃ§Ã£o particular e ainda da concordÃ¢ncia do assistente.
+NÃ£o oposiÃ§Ã£o do arguido.
+Se nÃ£o couber em nenhuma destas formas, entÃ£o ficam afastadas as formas especiais de processo, seguindo-se com a forma comum.
+Em caso de concurso:
+Apesar de cada crime (art. 373.Âº/2) singularmente considerado ter moldura legal nÃ£o superior a 5 anos, como hÃ¡ concurso e a soma dos limites mÃ¡ximos Ã© superior a 5 anos - competÃªncia do tribunal coletivo (art. 14.Âº/2/b). No entanto, o MP poderia fazer uso do poder referido no 16.Âº/3 (tendo por efeito: nÂº4), ou seja, podia o MP entender que ao caso concreto nÃ£o se aplicarÃ¡ pena superior a 5 anos requerendo julgamento em tribunal singular (art.16.Âº/3 e 4). O tribunal de jÃºri nunca seria competente pois Ã© preciso que um dos crimes tenha pena superior a 8 anos.
 
+2Âª instÃ¢ncia - Tribunal da RelaÃ§Ã£o: segue a regra geral do art. 427.Âº CPP; nÃ£o se verifica nenhuma circunstÃ¢ncia que permitisse recurso direto para o STJ;
 
-
+NÃ£o se preenche, especificamente, o art. 342.Âº/1/c CPP OU nÃ£o se preenche especificamente o art. 432.Âº/1/c CPP por crime ser punÃ­vel no mÃ¡ximo com 3 anos de pena de prisÃ£o.
+Em abstrato, a relaÃ§Ã£o conhece de direito e de facto (art. 428.Âº); se no caso a motivaÃ§Ã£o for apenas de matÃ©ria de direito (art. 412.Âº) a relaÃ§Ã£o sÃ³ aprecia o recurso interposto quanto Ã  matÃ©ria de direito (art. 410.Âº/2).
+3Âª instÃ¢ncia: nÃ£o hÃ¡ (processo transita em julgado na RelaÃ§Ã£o, nunca subindo ao STJ): nÃ£o se preenche o art. 432.Âº/b CPP que poderia permitir um 2Âº grau de recurso pois, por remissÃ£o para o art. 400.Âº, e tendo em conta a moldura legal do crime (5 anos) nunca se sairia da esfera da irrecorribilidade pressuposta no art. 400.Âº CPP (dizer qual das alÃ­neas seriam as hipÃ³teses aqui pertinentes, normalmente sÃ£o as als d) e e) CPP).
 
 FASES PROCESSUAIS
-Inquérito
-	A é acusado. Que entidade terá acusado e a que critérios terá obedecido?
-	Terá sido o MP ao abrigo do princípio da legalidade enquanto princípio.
+InquÃ©rito
+A Ã© acusado. Que entidade terÃ¡ acusado e a que critÃ©rios terÃ¡ obedecido?
+TerÃ¡ sido o MP ao abrigo do princÃ­pio da legalidade enquanto princÃ­pio.
 
-	A (pessoa que foi acusada da prática do crime) deve assumir o estatuto de arguido (arts. 57º e ss. CPP), ou seja, daquele contra quem corre um processo penal. A constituição como arguido é feita conforme o disposto nos arts. 272º/1 e 58º/1/a) do CPP.
-	O ato de constituição de arguido é um ato material, unilateral, mas obrigatório para as entidades titulares do processo penal em certas circunstâncias (indicar qual delas está presente), sob pena de nulidade (art. 120.º/2/d) CPP):
-        * 272.º/1: se correr inquérito contra determinada pessoa em relação à qual há suspeita fundada da prática de crime, e ela é interrogada.
-        * 58.º/1 a): se correr inquérito contra determinada pessoa em relação à qual há suspeita fundada da prática de crime, e ela presta declarações perante qualquer autoridade judiciária (AJ) ou órgão de polícia criminal (OPC).
-        * 58.º/1 b) e 192.º/1 e 2: para aplicar uma medida de coação ou de garantia patrimonial.
-        * 58.º/1 c) e 254.º e ss.: se o suspeito é detido.
-        * 58.º/1 d): se for levantado auto de notícia que dê uma pessoa como agente de um crime e aquele lhe foi comunicado, exceto se a notícia for manifestamente infundada.
-        * 59.º/1: se durante uma inquirição surgir fundada suspeita de crime cometido pelo inquirido.
-        * 59.º/2: se a pessoa sobre quem recaiam suspeitas de ter cometido o crime requeira para ser constituída arguido, desde que estejam a ser efetuadas diligências que pessoalmente a afetem.
+A (pessoa que foi acusada da prÃ¡tica do crime) deve assumir o estatuto de arguido (arts. 57.Âº e ss. CPP), ou seja, daquele contra quem corre um processo penal. A constituiÃ§Ã£o como arguido Ã© feita conforme o disposto nos arts. 272.Âº/1 e 58.Âº/1/a) do CPP.
+O ato de constituiÃ§Ã£o de arguido Ã© um ato material, unilateral, mas obrigatÃ³rio para as entidades titulares do processo penal em certas circunstÃ¢ncias (indicar qual delas estÃ¡ presente), sob pena de nulidade (art. 120.Âº/2/d) CPP):
 
-	A constituição do arguido tem de ser devidamente formalizada, sob pena de as declarações prestadas pela pessoa visada não poderem ser utilizadas como prova. Cumprimento dos requisitos do art. 58º/2, 3 e 4 CPP:
-        * Comunicação oral ou escrita da constituição com indicação dos direitos e deveres inerentes;
-        * Entrega de documento com identificação do processo, dos direitos e deveres do arguido e do defensor, caso este tenha sido nomeado;
-        * Como a constituição de arguido foi feita por OPC, teria que ser comunicada à AJ no prazo de 10 dias, e por esta apreciada, em ordem à validação da constituição (art. 1º/1/b e c CPP);
-        * Sujeição a termo de identidade e residência (TIR) (art. 196º CPP).
-	A assunção da qualidade de arguido implica a assunção por este do estatuto de sujeito processual durante todo o decurso do processo penal, marcado por direitos e deveres (arts. 57º/2 e 61º CPP).
-	Para que o inquérito esteja já em curso, foi necessário preencher condições:
-        * Se o crime for semi-público, é necessário apresentar queixa (art. 113º e ss. CP, arts. 48º e 49º CPP), o que consuste numa limitação do princípio da oficialidade.
-        * Menção ao princípio da oficialidade (e seu limite) e ao princípio da legalidade (art. 219º/1 CRP, arts. 244º, 246º e 262º CPP).
+272.Âº/1: se correr inquÃ©rito contra determinada pessoa em relaÃ§Ã£o Ã  qual hÃ¡ suspeita fundada da prÃ¡tica de crime, e ela Ã© interrogada.
+58.Âº/1 a): se correr inquÃ©rito contra determinada pessoa em relaÃ§Ã£o Ã  qual hÃ¡ suspeita fundada da prÃ¡tica de crime, e ela presta declaraÃ§Ãµes perante qualquer autoridade judiciÃ¡ria (AJ) ou Ã³rgÃ£o de polÃ­cia criminal (OPC).
+58.Âº/1 b) e 192.Âº/1 e 2: para aplicar uma medida de coaÃ§Ã£o ou de garantia patrimonial.
+58.Âº/1 c) e 254.Âº e ss.: se o suspeito Ã© detido.
+58.Âº/1 d): se for levantado auto de notÃ­cia que dÃ¡ uma pessoa como agente de um crime e aquele lhe foi comunicado, exceto se a notÃ­cia for manifestamente infundada.
+59.Âº/1: se durante uma inquiriÃ§Ã£o surgir fundada suspeita de crime cometido pelo inquirido.
+59.Âº/2: se a pessoa sobre quem recaiam suspeitas de ter cometido o crime requeira para ser constituÃ­da arguido, desde que estejam a ser efetuadas diligÃªncias que pessoalmente a afetem.
+A constituiÃ§Ã£o do arguido tem de ser devidamente formalizada, sob pena de as declaraÃ§Ãµes prestadas pela pessoa visada nÃ£o poderem ser utilizadas como prova. Cumprimento dos requisitos do art. 58.Âº/2, 3 e 4 CPP:
 
-	Contra A está a correr uma investigação criminal por suspeita de ter praticado um crime. Sendo chamado a comparecer, o órgão de polícia criminal competente quer interrogá-lo sobre os factos que lhe são imputados. Para que este ato processual pudesse ser considerado válido, como deveria o órgão de polícia criminal ter procedido e com que fundamento legal atuou? A é obrigatoriamente constituído arguido (art. 58º/1/a e 272º/1 CPP). Formalidades: art. 58º/2 e 4. Necessidade de validação pelo MP (fase de inquérito) art.58º/3 (para garantir direção por inquérito "delegado").
-	Caso a entidade competente entenda que existem indícios suficientes dos crimes, como deve proceder no fim da respetiva fase processual e quais as hipóteses decisórias que legalmente estarão à sua disposição? 
-        * O MP (art. 263º/1) deve acusar (283º/1 e 2 CPP) ao abrigo do princípio da legalidade - encerramento do inquérito (art. 53º/1/b, 262º CPP) 
-        * Eventualmente poderia recorrer ao instituto da suspensão provisória do processo (mencionar o princípio da legalidade e o princípio/esfera de oportunidade; pressupostos da suspensão provisória: art.281º CPP; efeitos e duração: art. 282º)
-        * Não era admissível o arquivamento (277º CPP) ou o arquivamento em caso de dispensa de pena (art.280º CPP, art.74º e 192º CP).
+ComunicaÃ§Ã£o oral ou escrita da constituiÃ§Ã£o com indicaÃ§Ã£o dos direitos e deveres inerentes;
+Entrega de documento com identificaÃ§Ã£o do processo, dos direitos e deveres do arguido e do defensor, caso este tenha sido nomeado;
+Como a constituiÃ§Ã£o de arguido foi feita por OPC, teria que ser comunicada Ã  AJ no prazo de 10 dias, e por esta apreciada, em ordem Ã  validaÃ§Ã£o da constituiÃ§Ã£o (art. 1.Âº/1/b e c CPP);
+SujeiÃ§Ã£o a termo de identidade e residÃªncia (TIR) (art. 196.Âº CPP).
+A assunÃ§Ã£o da qualidade de arguido implica a assunÃ§Ã£o por este do estatuto de sujeito processual durante todo o decurso do processo penal, marcado por direitos e deveres (arts. 57.Âº/2 e 61.Âº CPP).
+Para que o inquÃ©rito esteja jÃ¡ em curso, foi necessÃ¡rio preencher condiÃ§Ãµes:
+Se o crime for semi-pÃºblico, Ã© necessÃ¡rio apresentar queixa (art. 113.Âº e ss. CP, arts. 48.Âº e 49.Âº CPP), o que consuste numa limitaÃ§Ã£o do princÃ­pio da oficialidade.
+MenÃ§Ã£o ao princÃ­pio da oficialidade (e seu limite) e ao princÃ­pio da legalidade (art. 219.Âº/1 CRP, arts. 244.Âº, 246.Âº e 262.Âº CPP).
+Contra A estÃ¡ a correr uma investigaÃ§Ã£o criminal por suspeita de ter praticado um crime. Sendo chamado a comparecer, o Ã³rgÃ£o de polÃ­cia criminal competente quer interrogÃ¡-lo sobre os factos que lhe sÃ£o imputados. Para que este ato processual pudesse ser considerado vÃ¡lido, como deveria o Ã³rgÃ£o de polÃ­cia criminal ter procedido e com que fundamento legal atuou? A Ã© obrigatoriamente constituÃ­do arguido (art. 58.Âº/1/a e 272.Âº/1 CPP). Formalidades: art. 58.Âº/2 e 4. Necessidade de validaÃ§Ã£o pelo MP (fase de inquÃ©rito) art.58.Âº/3 (para garantir direÃ§Ã£o por inquÃ©rito "delegado").
 
-	Se o arguido quiser resolver o processo na fase processual em que se encontra (sem que seja necessária a abertura de uma outra fase processual) pode requerer a suspensão provisória do processo (art. 281º CPP):
-        * A requerimento do arguido ao MP
-        * Verificar se a moldura penal subjacente permite ou não
-        * Verificar os restantes critérios e formalidades
-        * Esfera de o portunidade face ao princípio da legalidade.
+Caso a entidade competente entenda que existem indÃ­cios suficientes dos crimes, como deve proceder no fim da respetiva fase processual e quais as hipÃ³teses decisÃ³rias que legalmente estarÃ£o Ã  sua disposiÃ§Ã£o?
 
+O MP (art. 263.Âº/1) deve acusar (283.Âº/1 e 2 CPP) ao abrigo do princÃ­pio da legalidade - encerramento do inquÃ©rito (art. 53.Âº/1/b, 262.Âº CPP).
+Eventualmente poderia recorrer ao instituto da suspensÃ£o provisÃ³ria do processo (mencionar o princÃ­pio da legalidade e o princÃ­pio/esfera de oportunidade; pressupostos da suspensÃ£o provisÃ³ria: art.281.Âº CPP; efeitos e duraÃ§Ã£o: art. 282.Âº).
+NÃ£o era admissÃ­vel o arquivamento (277.Âº CPP) ou o arquivamento em caso de dispensa de pena (art.280.Âº CPP, art.74.Âº e 192.Âº CP).
+Se o arguido quiser resolver o processo na fase processual em que se encontra (sem que seja necessÃ¡ria a abertura de uma outra fase processual) pode requerer a suspensÃ£o provisÃ³ria do processo (art. 281.Âº CPP):
 
+A requerimento do arguido ao MP.
+Verificar se a moldura penal subjacente permite ou nÃ£o.
+Verificar os restantes critÃ©rios e formalidades.
+Esfera de oportunidade face ao princÃ­pio da legalidade.
+Mas se tal nÃ£o acontecer e, reunidos os indÃ­cios suficientes para o MP acusar (art. 283.Âº/1 e 2 CPP) - princÃ­pio estrito de legalidade no fim do inquÃ©rito, o arguido pode requerer a abertura de instruÃ§Ã£o1 (287.Âº/1/a e 2 CPP), com o objetivo de pretender que a instruÃ§Ã£o encerre com despacho de nÃ£o pronÃºncia (308.Âº/1/parte final CPP). A intervenÃ§Ã£o hierÃ¡rquica nÃ£o Ã© aplicÃ¡vel a este tipo de situaÃ§Ãµes.
 
+Caso a pessoa que sofreu o crime quiser intervir no processo, ela terÃ¡ que se constituir como assistente (arts. 68.Âº e ss.) e requerer a abertura da instruÃ§Ã£o (arts. 287.Âº e 286.Âº).
 
-	Mas se tal não acontecer e, reunidos os indícios suficientes para o MP acusar (art. 283º/1 e 2 CPP) - princípio estrito de legalidade no fim do inquérito, o arguido pode requerer a abertura de instrução1 (287º/1/a e 2 CPP), com o objetivo de pretender que a instrução encerre com despacho de não pronúncia (308º/1/parte final CPP). A intervenção hierárquica não é aplicável a este tipo de situações.
+Se, por sua vez, a entidade competente entender que as provas eram manifestas e claras quanto Ã  suficiÃªncia de indÃ­cios, entÃ£o terÃ¡ Ã  sua disposiÃ§Ã£o as formas de processo:
 
-	Caso a pessoa que sofreu o crime quiser intervir no processo, ela terá que se constituir como assistente (arts. 68º e ss.) e requerer a abertura da instrução (arts. 287º e 286º).
+Processo comum.
+Processo sumÃ¡rio (tem que haver flagrante delito - art. 381.Âº/1).
+Processo abreviado (art. 391.Âº-A):
+crime tem de ser punÃ­vel com pena de multa ou com pena de prisÃ£o atÃ© 5 anos (391.Âº-A/1 CPP).
+acusaÃ§Ã£o tem que ocorrer no prazo de 90 dias a contar da apresentaÃ§Ã£o da queixa- 391.Âº-B/2/b CPP ou apÃ³s a notÃ­cia do crime. Dependendo da data da queixa a acusaÃ§Ã£o pode ser deduzida ou nÃ£o para julgamento em processo abreviado.
+Processo sumarÃ­ssimo (art. 392.Âº).
+crime punÃ­vel com pena de prisÃ£o atÃ© 5 anos (392.Âº/1 CPP).
+Ã© necessÃ¡rio que o MP requeira a aplicaÃ§Ã£o de pena (e nÃ£o meramente o julgamento) em processo sumarÃ­ssimo.
+E se as pessoas que sofreram o crime pretenderem ver-se ressarcidas dos danos que sofreram? PrincÃ­pio da adesÃ£o (art.71.Âº CPP). Em regra, deverÃ£o deduzir um pedido de indemnizaÃ§Ã£o civil perante o tribunal penal, pois tÃªm legitimidade (art.74.Âº CPP). Assumem a posiÃ§Ã£o processual de parte civil (lesado).
+Uma vez que o procedimento criminal depende de queixa, havia, em alternativa, a possibilidade de deduÃ§Ã£o do pedido de indemnizaÃ§Ã£o civil perante o tribunal civil (art.72.Âº/1/c e 2 CPP).
+X Ã© um lesado, isto Ã©, Ã© a pessoa que sofreu danos ocasionados pelo crime (74.Âº/1). Assume o estatuto de parte civil, nÃ£o sendo em rigor um verdadeiro sujeito processual penal, estando no processo apenas para esclarecer questÃµes civis. Emergindo, assim, de um mesmo facto responsabilidade civil e penal, o processo penal Ã© o lugar prÃ³prio para deduzir o respetivo pedido de indemnizaÃ§Ã£o civil. Vigora um princÃ­pio da adesÃ£o obrigatÃ³ria, sendo competente para julgar ambas as questÃµes o tribunal criminal (art. 71.Âº).
+X apenas poderÃ¡ deduzir o seu pedido em separado, perante o tribunal civil, nas hipÃ³teses referidas no art. 72.Âº.
+A intervenÃ§Ã£o processual do lesado restringe-se Ã  sustentaÃ§Ã£o e Ã  prova do pedido de indemnizaÃ§Ã£o civil. Para isso, compete-lhe os direitos que a lei confere aos assistentes (arts. 74.Âº/2 e 69.Âº).
 
-	Se, por sua vez, a entidade competente entender que as provas eram manifestas e claras quanto à suficiência de indícios, então terá à sua disposição as formas de processo:
-        * Processo comum
-        * Processo sumário (tem que haver flagrante delito - art. 381º/1)
-        * Processo abreviado (art. 391º-A):
-            - crime tem de ser punível com pena de multa ou com pena de prisão até 5 anos (391º-A/1 CPP)
-            - acusação tem que ocorrer no prazo de 90 dias a contar da apresentação da queixa- 391º-B/2/b CPP ou após a notícia do crime. Dependendo da data da queixa a acusação pode ser deduzida ou não para julgamento em processo abreviado.
-        * Processo sumaríssimo (art. 392º)
-            - crime punível com pena de prisão até 5 anos (392º/1 CPP)
-            - é necessário que o MP requeira a aplicação de pena (e não meramente o julgamento) em processo sumaríssimo
+Para estes efeitos, temos que distinguir lesado de ofendido:
 
-	E se as pessoas que sofreram o crime pretenderem ver-se ressarcidas dos danos que sofreram? Princípio da adesão (art.71º CPP). Em regra, deverão deduzir um pedido de indemnização civil perante o tribunal penal, pois têm legitimidade (art.74º CPP). Assumem a posição processual de parte civil (lesado).
-	Uma vez que o procedimento criminal depende de queixa, havia, em alternativa, a possibilidade de dedução do pedido de indemnização civil perante o tribunal civil (art.72º/1/c e 2 CPP). 
-	X é um lesado, isto é, é a pessoa que sofreu danos ocasionados pelo crime (74.º/1). Assume o estatuto de parte civil, não sendo em rigor um verdadeiro sujeito processual penal, estando no processo apenas para esclarecer questões civis. Emergindo, assim, de um mesmo facto responsabilidade civil e penal, o processo penal é o lugar próprio para deduzir o respetivo pedido de indemnização civil. Vigora um princípio da adesão obrigatória, sendo competente para julgar ambas as questões o tribunal criminal (art. 71.º).
-	X apenas poderá deduzir o seu pedido em separado, perante o tribunal civil, nas hipóteses referidas no art. 72.º. 
-	A intervenção processual do lesado restringe-se à sustentação e à prova do pedido de indemnização civil. Para isso, compete-lhe os direitos que a lei confere aos assistentes (arts. 74.º/2 e 69.º).
+Lesado - Ã© o que sofreu danos ocasionados pelo crime (art. 74.Âº/1 CPP). Ã‰ um sujeito civil, que tem como intenÃ§Ã£o receber uma indemnizaÃ§Ã£o pelos danos sofridos, e nÃ£o propriamente do processo penal, como se pode depreender do facto de a sua intervenÃ§Ã£o se restringir Ã  sustentaÃ§Ã£o e prova do pedido de indemnizaÃ§Ã£o civil (art. 74.Âº/2). A sua ligaÃ§Ã£o ao processo penal relaciona-se com o princÃ­pio da adesÃ£o (art. 71.Âº), segundo o qual o lesado tem de deduzir o pedido de indemnizaÃ§Ã£o civil perante o tribunal criminal.
+Ofendido - Ã© o titular dos interesses que a lei especialmente quis proteger com a incriminaÃ§Ã£o do facto ocorrido (art.68.Âº/1 a) CPP, art. 113.Âº/1 CP). O ofendido pode constituir-se assistente e assumir a posiÃ§Ã£o de sujeito processual, que lhe permite uma participaÃ§Ã£o constitutiva na declaraÃ§Ã£o do direito do caso concreto (art. 32.Âº/7 CRP).
+Juiz de InstruÃ§Ã£o Competente - juiz das liberalidades/ das garantias
+O JIC tem uma dupla funÃ§Ã£o: por um lado, Ã© a autoridade judiciÃ¡ria competente para dirigir a fase processual da instruÃ§Ã£o (art. 288.Âº); por outro lado, Ã© o juiz garante dos direitos fundamentais, nÃ£o sÃ³ do arguido, mas de outros intervenientes processuais.
+Efetivamente, resulta da prÃ³pria CRP que as questÃµes relativas a direitos fundamentais tÃªm de estar nas mÃ£os de um juiz (art. 32.Âº/4 CRP), estabelecendo o CPP que Ã© o JIC quem lida com direitos fundamentais atÃ© Ã  fase de julgamento (art. 17.Âº CPP). DaÃ­ que caiba a este juiz, nomeadamente, aplicar medidas de coaÃ§Ã£o, proceder ou autorizar meios de obtenÃ§Ã£o de prova, autorizar a efetivaÃ§Ã£o de perÃ­cias e realizar o primeiro interrogatÃ³rio judicial do arguido detido (art. 268.Âº e 269.Âº).
+A direÃ§Ã£o da instruÃ§Ã£o compete ao juiz de instruÃ§Ã£o, que pratica todos os atos necessÃ¡rios Ã  realizaÃ§Ã£o da finalidade de comprovar a decisÃ£o do MP (art. 288.Âº/1 e 290.Âº/1).
 
-	Para estes efeitos, temos que distinguir lesado de ofendido:
-* Lesado - é o que sofreu danos ocasionados pelo crime (art. 74.º/1 CPP). É um sujeito civil, que tem como intenção receber uma indemnização pelos danos sofridos, e não propriamente do processo penal, como se pode depreender do facto de a sua intervenção se restringir à sustentação e prova do pedido de indemnização civil (art. 74.º/2). A sua ligação ao processo penal relaciona-se com o princípio da adesão (art. 71.º), segundo o qual o lesado tem de deduzir o pedido de indemnização civil perante o tribunal criminal.
-*  Ofendido - é o titular dos interesses que a lei especialmente quis proteger com a incriminação do facto ocorrido (art.68.º/1 a) CPP, art. 113.º/1 CP). O ofendido pode constituir-se assistente e assumir a posição de sujeito processual, que lhe permite uma participação constitutiva na declaração do direito do caso concreto (art. 32.º/7 CRP).
+InstruÃ§Ã£o
+Perante uma decisÃ£o do MP com a qual o arguido/assistente nÃ£o concorda, ele pode requerer a abertura da instruÃ§Ã£o (arts. 286.Âº e ss. CPP).
+Quanto ao ofendido, para requerer a abertura da instruÃ§Ã£o, ele tem de, prÃ©via ou simultaneamente, requerer a constituiÃ§Ã£o como assistente - arts. 287.Âº/1/b) e 68.Âº/3/b) CPP.
+A instruÃ§Ã£o tem como finalidade a comprovaÃ§Ã£o judicial da decisÃ£o de deduzir acusaÃ§Ã£o ou de arquivar o inquÃ©rito, em ordem a submeter ou nÃ£o a causa a julgamento (art. 286.Âº/1). Ã‰, por isso, uma fase facultativa (art. 286.Âº/2), que sÃ³ terÃ¡ lugar se for requerida pelo arguido ou pelo assistente, i.e., pelos sujeitos processuais que estarÃ£o interessados em contrariar a decisÃ£o tomada pelo MP no final do inquÃ©rito.
+Se nÃ£o houver requerimento de abertura da instruÃ§Ã£o, o processo segue os seus trÃ¢mites normais - ou Ã© arquivado, ou segue para julgamento.
+A direÃ§Ã£o da instruÃ§Ã£o compete ao juiz de instruÃ§Ã£o, que pratica todos os atos necessÃ¡rios Ã  realizaÃ§Ã£o da finalidade de comprovar a decisÃ£o do MP (art. 288.Âº/1 e 290.Âº/1).
 
-
-Juiz de Instrução Competente - juiz das liberalidades/ das garantias
-	O JIC tem uma dupla função: por um lado, é a autoridade judiciária competente para dirigir a fase processual da instrução (art. 288.º); por outro lado, é o juiz garante dos direitos fundamentais, não só do arguido, mas de outros intervenientes processuais.
-	Efetivamente, resulta da própria CRP que as questões relativas a direitos fundamentais têm de estar nas mãos de um juiz (art. 32.º/4 CRP), estabelecendo o CPP que é o JIC quem lida com direitos fundamentais até à fase de julgamento (art. 17.º CPP). Daí que caiba a este juiz, nomeadamente, aplicar medidas de coação, proceder ou autorizar meios de obtenção de prova, autorizar a efetivação de perícias e realizar o primeiro interrogatório judicial do arguido detido (art. 268.º e 269.º).
-	A direção da instrução compete ao juiz de instrução, que pratica todos os atos necessários à realização da finalidade de comprovar a decisão do MP (art. 288.º/1 e 290.º/1).
-Instrução
-	Perante uma decisão do MP com a qual o arguido/assistente não concorda, ele pode requerer a abertura da instrução (arts. 286.º e ss. CPP).
-	Quanto ao ofendido, para requerer a abertura da instrução, ele tem de, prévia ou simultaneamente, requerer a constituição como assistente - arts. 287.º/1/b) e 68.º/3/b) CPP.
-	A instrução tem como finalidade a comprovação judicial da decisão de deduzir acusação ou de arquivar o inquérito, em ordem a submeter ou não a causa a julgamento (art. 286.º/1). É, por isso, uma fase facultativa (art. 286.º/2), que só terá lugar se for requerida pelo arguido ou pelo assistente, i.e., pelos sujeitos processuais que estarão interessados em contrariar a decisão tomada pelo MP no final do inquérito.
-	Se não houver requerimento de abertura da instrução, o processo segue os seus trâmites normais - ou é arquivado, ou segue para julgamento.
-	A direção da instrução compete ao juiz de instrução, que pratica todos os atos necessários à realização da finalidade de comprovar a decisão do MP (art. 288.º/1 e 290.º/1).
 Arguido a pedir:
-	O arguido requer, dentro do prazo de 20 dias, a abertura da instrução relativamente aos factos pelos quais o MP (ou o assistente em caso de procedimento dependente de acusação particular - art. 285.º) tiver deduzido acusação (art. 287.º/1 a)). Tem como objetivo contrariar aquela acusação, portanto que o JIC emita um despacho de não pronúncia.
+O arguido requer, dentro do prazo de 20 dias, a abertura da instruÃ§Ã£o relativamente aos factos pelos quais o MP (ou o assistente em caso de procedimento dependente de acusaÃ§Ã£o particular - art. 285.Âº) tiver deduzido acusaÃ§Ã£o (art. 287.Âº/1 a)). Tem como objetivo contrariar aquela acusaÃ§Ã£o, portanto que o JIC emita um despacho de nÃ£o pronÃºncia.
 
 Assistente a pedir:
-	O assistente requer, no prazo de 20 dias, a abertura da instrução relativamente aos factos pelos quais o MP não tiver deduzido acusação, nos casos em que o procedimento não depende de acusação particular (art. 287.º/1 b)).
-	Nos casos em que o procedimento depende de acusação particular, o assistente também pode requerer a abertura da instrução, se o MP tiver arquivado o inquérito erroneamente ou sem ter notificado o assistente. Aqui, a apresentação de requerimento equivale à dedução de acusação particular.
-	Em alternativa, o assistente pode requerer a intervenção hierárquica (art. 278.º).
+O assistente requer, no prazo de 20 dias, a abertura da instruÃ§Ã£o relativamente aos factos pelos quais o MP nÃ£o tiver deduzido acusaÃ§Ã£o, nos casos em que o procedimento nÃ£o depende de acusaÃ§Ã£o particular (art. 287.Âº/1 b)).
+Nos casos em que o procedimento depende de acusaÃ§Ã£o particular, o assistente tambÃ©m pode requerer a abertura da instruÃ§Ã£o, se o MP tiver arquivado o inquÃ©rito erroneamente ou sem ter notificado o assistente. Aqui, a apresentaÃ§Ã£o de requerimento equivale Ã  deduÃ§Ã£o de acusaÃ§Ã£o particular.
+Em alternativa, o assistente pode requerer a intervenÃ§Ã£o hierÃ¡rquica (art. 278.Âº).
 
+Medidas de CoaÃ§Ã£o
+Para sabermos a entidade que deve promover a aplicaÃ§Ã£o da medida, entÃ£o temos primeiro que enquadrar a fase em que o processo se encontra.
+Se o processo estÃ¡ na fase de inquÃ©rito:
 
+Tem de ser requerida pelo MP (art. 267.Âº e 194.Âº/1 CPP) e Ã© aplicada/decidida pelo juiz de instruÃ§Ã£o (art. 194.Âº/1, 268.Âº/1/b CPP).
+Verificar os requisitos gerais de aplicaÃ§Ã£o de medidas de coaÃ§Ã£o (art. 204.Âº CPP).
+O juiz de instruÃ§Ã£o sÃ³ pode aplicar medida de coaÃ§Ã£o mais grave do que a que foi requerida pelo MP nos casos de fuga ou perigo de fuga e de perigo, em funÃ§Ã£o das circunstÃ¢ncias do crime ou da personalidade do arguido, de que este continue- arts.194.Âº/2 e 204.Âº/a) e c) CPP.
+A aplicaÃ§Ã£o da medida da coaÃ§Ã£o terÃ¡ decorrido:
 
-	
-
-Medidas de Coação
-	Para sabermos a entidade que deve promover a aplicação da medida, então temos primeiro que enquadrar a fase em que o processo se encontra.
-	Se o processo está na fase de inquérito:
-        * Tem de ser requerida pelo MP (art. 267º e 194º/1 CPP) e é aplicada/decidida pelo juiz de instrução (art. 194º/1, 268º/1/b CPP)
-        * Verificar os requisitos gerais de aplicação de medidas de coação (art. 204º CPP)
-        * O juiz de instrução só pode aplicar medida de coação mais grave do que a que foi requerida pelo MP nos casos de fuga ou perigo de fuga e de perigo, em função das circunstâncias do crime ou da personalidade do arguido, de que este continue- arts.194º/2 e 204º/a) e c) CPP.  
-
-	A aplicação da medida da coação terá decorrido:
-        * Ou durante o 1º interrogatório judicial de arguido detido (arts. 194º/4, 141º/1, 255º, 254º/1/a) CPP)
-        * Ou posteriormente, mediante audição pelo juiz de instrução (art. 194º/4 CPP).
-	Em ambos os casos, o defensor assistirá ao ato (art. 141º/2, 64º/1/a) e b) CPP). Teremos sempre que aplicar o disposto nos arts. 141º/1 e 194º/4 CPP. Logo, as declarações assim prestadas podem ser lidas em audiência de julgamento, sendo sempre sujeitas à livre apreciação da prova (art. 357º/1/b), 141º/4/b), parte final e 357º/2 CPP).
-
-	Medida de coação de proibição de contactos com outras pessoas e com o ofendido (art. 200º CPP) por haver riscos de ocultação e destruição de provas. 
+Ou durante o 1Âº interrogatÃ³rio judicial de arguido detido (arts. 194.Âº/4, 141.Âº/1, 255.Âº, 254.Âº/1/a) CPP).
+Ou posteriormente, mediante audiÃ§Ã£o pelo juiz de instruÃ§Ã£o (art. 194.Âº/4 CPP).
+Em ambos os casos, o defensor assistirÃ¡ ao ato (art. 141.Âº/2, 64.Âº/1/a) e b) CPP). Teremos sempre que aplicar o disposto nos arts. 141.Âº/1 e 194.Âº/4 CPP. Logo, as declaraÃ§Ãµes assim prestadas podem ser lidas em audiÃªncia de julgamento, sendo sempre sujeitas Ã  livre apreciaÃ§Ã£o da prova (art. 357.Âº/1/b), 141.Âº/4/b), parte final e 357.Âº/2 CPP).
+Medida de coaÃ§Ã£o de proibiÃ§Ã£o de contactos com outras pessoas e com o ofendido (art. 200.Âº CPP) por haver riscos de ocultaÃ§Ã£o e destruiÃ§Ã£o de provas.
 Quanto ao procedimento:
-    * Requerimento pelo MP (quando o processo está na fase de inquérito): decisão pelo juiz com prévia audição do arguido sobre indícios e fundamentos cautelares (art.194º/2 e 4). Decisão de aplicação devidamente fundamentada.
 
-Condições:
-    * Fundamento cautelar (art. 204º/b): juiz não pode, no caso, aplicar medida + grave que a requerida pelo MP: atualidade da aplicação e princípios gerais de aplicação (legalidade, proporcionalidade em sentido amplo e estrito);
-    * Art. 200º/d): fortes indícios de crime doloso punido com pena superior a 3 anos (verifica-se abuso de confiança); aplicação justificada pela necessidade, adequação e proporcionalidade.
+Requerimento pelo MP (quando o processo estÃ¡ na fase de inquÃ©rito): decisÃ£o pelo juiz com prÃ©via audiÃ§Ã£o do arguido sobre indÃ­cios e fundamentos cautelares (art.194.Âº/2 e 4). DecisÃ£o de aplicaÃ§Ã£o devidamente fundamentada.
+CondiÃ§Ãµes:
 
+Fundamento cautelar (art. 204.Âº/b): juiz nÃ£o pode, no caso, aplicar medida + grave que a requerida pelo MP: atualidade da aplicaÃ§Ã£o e princÃ­pios gerais de aplicaÃ§Ã£o (legalidade, proporcionalidade em sentido amplo e estrito);
+Art. 200.Âº/d): fortes indÃ­cios de crime doloso punido com pena superior a 3 anos (verifica-se abuso de confianÃ§a); aplicaÃ§Ã£o justificada pela necessidade, adequaÃ§Ã£o e proporcionalidade.
+Medida de coaÃ§Ã£o da PrisÃ£o Preventiva
 
-	Medida de coação da Prisão Preventiva
-        * Finalidades (art. 191º e ss. CPP)
-        * Entidade competente para propor e entidade competente para aplicar as medidas de coação (art. 194º CPP)
-        * Pressupostos:
-            - constituição prévia como arguido- art. 192º/1 CPP; neste caso já se teria verificado o art. 58º/1/c CPP.
-            - verificação, no momento da aplicação, de um dos requisitos gerais legitimadores de aplicação de uma MC: art.204º CPP e ainda arts. 191º, 192º, 193º CPP
-            - verificação do princípio da necessidade, da adequação e proporcionalidade (art. 193º/1 CPP)
-            - verificação de 1 dos requisitos específicos legitimadores da aplicação da prisão preventiva (art. 202º CPP): os fortes indícios da prática de crime doloso, requisito das molduras penais aplicáveis
-            - verificação do princípio da subsidariedade (as restantes medidas sejam insuficientes, designadamente a obrigação de permanência de habitação, que constitui também uma medida preventiva da liberdade)
-            - audiência prévia do arguido (art. 194º/4)
-            - emissão de despacho de aplicação da prisão preventiva devidamente fundamentado (art. 194º/6 CPP)
-O que pode fazer a pessoa que foi sujeita à medida de coação se considerar que já decorreu muito tempo desde o início da aplicação da medida, sendo que esta atualmente já não se justifica: princípio da precariedade (art. 212º/1/b CPP). Justificação do princípio: atualidade e proporcionalidade na execução ou manutenção da medida. A deve requerer ao juiz a revogação ou substituição da medida (art. 212º/4).
+Finalidades (art. 191.Âº e ss. CPP).
+Entidade competente para propor e entidade competente para aplicar as medidas de coaÃ§Ã£o (art. 194.Âº CPP).
+Pressupostos:
+constituiÃ§Ã£o prÃ©via como arguido- art. 192.Âº/1 CPP; neste caso jÃ¡ se teria verificado o art. 58.Âº/1/c CPP.
+verificaÃ§Ã£o, no momento da aplicaÃ§Ã£o, de um dos requisitos gerais legitimadores de aplicaÃ§Ã£o de uma MC: art.204.Âº CPP e ainda arts. 191.Âº, 192.Âº, 193.Âº CPP.
+verificaÃ§Ã£o do princÃ­pio da necessidade, da adequaÃ§Ã£o e proporcionalidade (art. 193.Âº/1 CPP).
+verificaÃ§Ã£o de 1 dos requisitos especÃ­ficos legitimadores da aplicaÃ§Ã£o da prisÃ£o preventiva (art. 202.Âº CPP): os fortes indÃ­cios da prÃ¡tica de crime doloso, requisito das molduras penais aplicÃ¡veis.
+verificaÃ§Ã£o do princÃ­pio da subsidiariedade (as restantes medidas sejam insuficientes, designadamente a obrigaÃ§Ã£o de permanÃªncia de habitaÃ§Ã£o, que constitui tambÃ©m uma medida preventiva da liberdade).
+audiÃªncia prÃ©via do arguido (art. 194.Âº/4).
+emissÃ£o de despacho de aplicaÃ§Ã£o da prisÃ£o preventiva devidamente fundamentado (art. 194.Âº/6 CPP).
+O que pode fazer a pessoa que foi sujeita Ã  medida de coaÃ§Ã£o se considerar que jÃ¡ decorreu muito tempo desde o inÃ­cio da aplicaÃ§Ã£o da medida, sendo que esta atualmente jÃ¡ nÃ£o se justifica: princÃ­pio da precariedade (art. 212.Âº/1/b CPP). JustificaÃ§Ã£o do princÃ­pio: atualidade e proporcionalidade na execuÃ§Ã£o ou manutenÃ§Ã£o da medida. A deve requerer ao juiz a revogaÃ§Ã£o ou substituiÃ§Ã£o da medida (art. 212.Âº/4).
+DetenÃ§Ã£o
+1Âº interrogatÃ³rio judicial de arguido detido- meio de prova (art. 141.Âº CPP):
 
+situaÃ§Ã£o de detenÃ§Ã£o.
+constituiÃ§Ã£o como arguido.
+cautela dos DF's de A porque foi detido (art. 58.Âº/1/c) CPP).
+interrogatÃ³rio realizado por juiz de instruÃ§Ã£o (art.17.Âº CPP, art. 268.Âº/1/a), 32.Âº/4 CRP), apesar de decorrer durante o inquÃ©rito - pois Ã© o juiz das garantias, como jÃ¡ vimos.
+DetenÃ§Ã£o em flagrante delito (255.Âº CPP)
 
-Detenção
-    1º interrogatório judicial de arguido detido- meio de prova (art. 141º CPP):
-        * situação de detenção
-        * constituição como arguido
-        * cautela dos DF's de A porque foi detido (art. 58º/1/c) CPP)
-        * interrogatório realizado por juiz de instrução (art.17º CPP, art. 268º/1/a), 32º/4 CRP), apesar de decorrer durante o inquérito - pois é o juíz das garantias, como já vimos.
-
-    Detenção em flagrante delito (255º CPP)
-        * Finalidades: julgamento no prazo máximo de 48h ou apresentação ao juiz, para validação e aplicação de medida de coação.
-        * quando é uma situação de detenção em flagrante delito, o 1º interrogatório judicial do arguido detido deverá ser realizado pelo juiz de instrução criminal (141º CPP, 268º/1/a CPP). Foi constituído arguido por força da detenção- 58º/1/c) CPP.
-
-Que diligência ou diligências processuais se seguiram à detenção?
-	A detenção visa apresentar, no prazo máximo de 48h o detido ao juiz, para aplicação de medida de coação ou submeter o julgamento em processo sumário. No caso, não sendo provável o julgamento no prazo máximo de 48h (por impossibilidade, em função de pena ou respeito de 48h), necessidade de apresentação ao juiz e possível aplicação de medida de coação.
-
+Finalidades: julgamento no prazo mÃ¡ximo de 48h ou apresentaÃ§Ã£o ao juiz, para validaÃ§Ã£o e aplicaÃ§Ã£o de medida de coaÃ§Ã£o.
+quando Ã© uma situaÃ§Ã£o de detenÃ§Ã£o em flagrante delito, o 1Âº interrogatÃ³rio judicial do arguido detido deverÃ¡ ser realizado pelo juiz de instruÃ§Ã£o criminal (141.Âº CPP, 268.Âº/1/a CPP). Foi constituÃ­do arguido por forÃ§a da detenÃ§Ã£o- 58.Âº/1/c) CPP.
+Que diligÃªncia ou diligÃªncias processuais se seguiram Ã  detenÃ§Ã£o?
+A detenÃ§Ã£o visa apresentar, no prazo mÃ¡ximo de 48h o detido ao juiz, para aplicaÃ§Ã£o de medida de coaÃ§Ã£o ou submeter o julgamento em processo sumÃ¡rio. No caso, nÃ£o sendo provÃ¡vel o julgamento no prazo mÃ¡ximo de 48h (por impossibilidade, em funÃ§Ã£o de pena ou respeito de 48h), necessidade de apresentaÃ§Ã£o ao juiz e possÃ­vel aplicaÃ§Ã£o de medida de coaÃ§Ã£o.
 
 Meios de Prova
-Escutas telefónicas (art. 187º)
-	Quem ordena as escutas e a requerimento de quem (187º/1)? São autorizadas pelo Juiz de instrução,  durante o inquérito, mediante requerimento do MP, em crimes para os quais a lei prevê a admissibilidade da utilização deste meio de obtenção de prova.
-Pressupostos: 
-    * se houver razões para crer que a diligência é indispensável para a descoberta da verdade ou que a prova seria, de outra forma, impossível ou muito difícil de obter,
-    * -contra quem podem ser autorizadas escutas? Contra suspeitos (187º/4)
-    * -art.187º/1/a e nº4 alínea a e 269º/1/e CPP
-
-Buscas (art. 174º)
-    * Se for busca domiciliária (art. 177º)
-    * Art. 32º e 34º CRP
-    * Regra geral de competência do CPP em matéria de buscas domiciliárias (art. 177º)
-    * Competência do juiz de instrução (art. 269º/1/c) CPP)
-    * Se houver detenção em flagrante delito (art. 177º/3/a) CPP).
-
-
-
-
-Audiência de Julgamento
-E se o arguido não comparecer?
+Escutas telefÃ´nicas (art. 187.Âº)
+Quem ordena as escutas e a requerimento de quem (187.Âº/1)? SÃ£o autorizadas pelo Juiz de instruÃ§Ã£o, durante o inquÃ©rito, mediante requerimento do MP, em crimes para os quais a lei prevÃª a admissibilidade da utilizaÃ§Ã£o deste meio de obtenÃ§Ã£o de prova.
 Pressupostos:
-    * A foi constituído Arguido ao ser interrogado (arts. 55º, 56º, 272º e 58º/1/a CPP)
-    * ao ser constituído arguido presta TIR - art. 196º/1 CPP- e foi avisado (art. 196º/3/a) e c) CPP)
-    * assim, terá sido notificado da data de audiência de julgamento (arts. 58º, 113º/1/c) e por isso, se não comparecer estão reunidos os pressupostos para ser aplicado o regime do julgamento na ausência (art. 333º/1 CPP): A seria julgado na ausência (excecionalmente o julgamento seria adiado).
-    * exceção à regra da presença obrigatória do arguido em audiência do julgamento (art. 332º CPP, art. 32º/6 CRP)
 
-Pode o arguido vir a ser declarado contumaz no âmbito do presente processo?
-    * se se preencherem os requisitos para a aplicação do regime de julgamento na ausência, o arguido não deve ser declarado contumaz, mas deveria ser julgado na ausência.
+se houver razÃµes para crer que a diligÃªncia Ã© indispensÃ¡vel para a descoberta da verdade ou que a prova seria, de outra forma, impossÃ­vel ou muito difÃ­cil de obter,
+contra quem podem ser autorizadas escutas? Contra suspeitos (187.Âº/4).
+art.187.Âº/1/a e nÂº4 alÃ­nea a e 269.Âº/1/e CPP.
+Buscas (art. 174.Âº)
 
-Alteração da qualificação jurídica (durante a audiência de julgamento o tribunal entende que os factos descritos na acusação respeitantes a um dos crimes deve ser subsumido noutro crime)
-	Está em causa o princípio da acusação e a necessidade de garantir a vinculação temática do tribunal e o contraditório/defesa do arguido. No caso, está em causa uma alteração da qualificação jurídica (art. 358º/3 CPP). 
+Se for busca domiciliÃ¡ria (art. 177.Âº).
+Art. 32.Âº e 34.Âº CRP.
+Regra geral de competÃªncia do CPP em matÃ©ria de buscas domiciliÃ¡rias (art. 177.Âº).
+CompetÃªncia do juiz de instruÃ§Ã£o (art. 269.Âº/1/c) CPP).
+Se houver detenÃ§Ã£o em flagrante delito (art. 177.Âº/3/a) CPP).
+AudiÃªncia de Julgamento
+E se o arguido nÃ£o comparecer?
+Pressupostos:
 
-Não há qualquer alteração de factos. Não se coloca em causa o objeto do processo (vinculação do tribunal) mas tem de ser garantido o contraditório do arguido, ou seja, ser prevenido e ter possibilidade de apresentar provas (art. 379º/1/b). Necessidade de garantir que a sentença corresponda à acusação ou às modificações introduzidas desde que com prevenção do arguido para efeito de contraditório.
+A foi constituÃ­do Arguido ao ser interrogado (arts. 55.Âº, 56.Âº, 272.Âº e 58.Âº/1/a CPP).
+ao ser constituÃ­do arguido presta TIR - art. 196.Âº/1 CPP- e foi avisado (art. 196.Âº/3/a) e c) CPP).
+assim, terÃ¡ sido notificado da data de audiÃªncia de julgamento (arts. 58.Âº, 113.Âº/1/c) e por isso, se nÃ£o comparecer estÃ£o reunidos os pressupostos para ser aplicado o regime do julgamento na ausÃªncia (art. 333.Âº/1 CPP): A seria julgado na ausÃªncia (excepcionalmente o julgamento seria adiado).
+exceÃ§Ã£o Ã  regra da presenÃ§a obrigatÃ³ria do arguido em audiÃªncia do julgamento (art. 332.Âº CPP, art. 32.Âº/6 CRP).
+Pode o arguido vir a ser declarado contumaz no Ã¢mbito do presente processo?
 
-Alteração substancial dos factos: surgem novos factos que fazem aumentar a moldura penal
-	Ex: e se em julgamento são apurados não só os factos constantes da acusação mas ainda outros factos que demonstram que o crime praticado por A se enquadra no crime de abuso de confiança qualificado em vez do abuso de confiança simples; assim, surgem novos factos que fazem aumentar a moldura penal.
-    * Art. 1º/1/f) CPP
-    * novos factos: violam o objeto do processo, não são autonomizáveis face ao mesmo.
-    * o tribunal deve continuar o julgamento pelos factos constantes da acusação e desconsiderar os entretanto apurados.
-    * Art. 359º/1 CPP
+se se preencherem os requisitos para a aplicaÃ§Ã£o do regime de julgamento na ausÃªncia, o arguido nÃ£o deve ser declarado contumaz, mas deveria ser julgado na ausÃªncia.
+AlteraÃ§Ã£o da qualificaÃ§Ã£o jurÃ­dica (durante a audiÃªncia de julgamento o tribunal entende que os factos descritos na acusaÃ§Ã£o respeitantes a um dos crimes deve ser subsumido noutro crime)
+EstÃ¡ em causa o princÃ­pio da acusaÃ§Ã£o e a necessidade de garantir a vinculaÃ§Ã£o temÃ¡tica do tribunal e o contraditÃ³rio/defesa do arguido. No caso, estÃ¡ em causa uma alteraÃ§Ã£o da qualificaÃ§Ã£o jurÃ­dica (art. 358.Âº/3 CPP).
 
-Na audiência de julgamento A alega que não cometeu nenhum crime de abuso de confiança pois esse crime pressupõe que o agente atue com ilegítima intenção de apropriação. A alega que tem um dto de crédito sobre B pelo que atuou legitimamente segundo as regras de dto civil e se necessário proporá a respetiva ação na jurisdição competente para demonstrar o seu direito. Como deve proceder o tribunal penal e que princípio do processo penal poderá estar em causa? Princípio da suficiência: (art.7º/1 e 2 CPP). Cabe à partida ao tribunal penal apreciar a questão prévia integrada no processo penal respetivo. Pode o tribunal ordenar oficiosamente a suspensão do processo para apreciação da matéria não penal controvertida apenas se não puder resolver convenientemente a questão no tribunal penal, e sempre mediante a fixação de um prazo máximo findo o qual a questão é resolvida pelo tribunal penal (nº3 e 4). 
+NÃ£o hÃ¡ qualquer alteraÃ§Ã£o de factos. NÃ£o se coloca em causa o objeto do processo (vinculaÃ§Ã£o do tribunal) mas tem de ser garantido o contraditÃ³rio do arguido, ou seja, ser prevenido e ter possibilidade de apresentar provas (art. 379.Âº/1/b). Necessidade de garantir que a sentenÃ§a corresponda Ã  acusaÃ§Ã£o ou Ã s modificaÃ§Ãµes introduzidas desde que com prevenÃ§Ã£o do arguido para efeito de contraditÃ³rio.
 
-Confissão
-	Na audiência de julgamento é suscitada a possibilidade da audição das declarações de A no interrogatório e no qual A terá reconhecido alguma responsabilidade. Caso esta audição seja viável, qual o princípio a que a apreciação das declarações pela entidade competente estará submetido?
-	O interrogatório foi realizado por um juiz (de instrução) com a presença do defensor. É expectável que se tenha observado os requisitos do art.141º/4/b (o princípio geral é o de que as declarações não podem ser lidas; exceto se tiverem sido realizadas no circunstancialismo do 141º/4/b CPP). Por força do 357º CPP as declarações prestadas podem ser reproduzidas na audiência, seja a solicitação do arguido mas sobretudo à luz do 357º/1/b.
-	A assunção de responsabilidade não vale como confissão (art.344º), ou seja, nunca implicará a renúncia à produção da prova (mesmo que parcialmente); as declarações serão valoradas, em conjugação com todas as outras provas segundo o princípio da livre apreciação: art.127º CPP
-        * conteúdo deste princípio (distinção perante o princípio-sistema da prova legal)
-        * função positiva e função negativa, necessidade de objetivação/fundamentação e controlabilidade (exceções). Por isso, mesmo apesar daquelas declarações prestadas, A poderia ser absolvido no fim da audiência de julgamento.	
+AlteraÃ§Ã£o substancial dos factos: surgem novos factos que fazem aumentar a moldura penal
+Ex: e se em julgamento sÃ£o apurados nÃ£o sÃ³ os factos constantes da acusaÃ§Ã£o mas ainda outros factos que demonstram que o crime praticado por A se enquadra no crime de abuso de confianÃ§a qualificado em vez do abuso de confianÃ§a simples; assim, surgem novos factos que fazem aumentar a moldura penal.
 
-	Na audiência de julgamento A remeteu-se ao silêncio/optou por não prestar declarações. O tribunal pode aproveitar uma anterior confissão (integral dos factos constantes da acusação perante a entidade acusadora) do arguido? 
-    * Se tiver sido uma confissão ouvida por órgãos de polícia criminal, não pode (art.1º/1/c CPP). Se as declarações tiverem sido prestadas perante OPC (em vez de AJ), não podem ser lidas sem ser a pedido do arguido (357º/1/a CPP). Exceção à regra geral de produção e valoração de prova em julgamento- 355º CPP.
-    * Poderia se fossem declarações que tivessem sido prestadas perante autoridade judiciária: MP (art.1º/b CPP) durante o inquérito, com assistência obrigatória do defensor (art.64º/1/b CPP). Aplica-se o regime do artigo 357º/1/b (reprodução ou leitura permitidas de declarações do arguido), cumprindo-se o dever de informação previsto no art.141º/4/b, as declarações podem ser lidas em julgamento, sujeitando-se ao regime da regra da livre apreciação da prova (art.357º/2 e 127º CPP) 
-    * esta confissão (feita no interrogatório para aplicação de medida de coação) pode ser lida durante o julgamento e ser sujeita ao pp da livre apreciação da prova, por ter sido prestada perante autoridade judiciária, com a assistência do defensor, tendo sido o arguido informado de que as declarações por si prestadas poderão ser depois utilizadas no processo (194º/1 e 4, 64º/1/b, 141º/4 e 268º/1/b CPP). Art.355º CPP, art. 357º/1/b e 2 CPP, 127º CPP
-    Ou seja, as declarações prestadas antes da fase de julgamento só podem ser utilizadas em julgamento se tiverem sido recolhidas com base nos pressupostos do art.141º: desde que o arguido tivesse sido devidamente informado, por autoridade judiciária (se foi detido, seria possível perante o juiz), com presença do defensor. Estas declarações estão sujeitas à livre apreciação da prova e não valem como confissão (tem de haver outros meios probatórios). Outra hipótese seria o arguido requerer a sua leitura (declaração do arguido pode ser reproduzida/lida em audiência de julgamento a sua própria solicitação (art.357º/1/a CPP). 
+Art. 1.Âº/1/f) CPP.
+novos factos: violam o objeto do processo, nÃ£o sÃ£o autonomizÃ¡veis face ao mesmo.
+o tribunal deve continuar o julgamento pelos factos constantes da acusaÃ§Ã£o e desconsiderar os entretanto apurados.
+Art. 359.Âº/1 CPP.
+Na audiÃªncia de julgamento A alega que nÃ£o cometeu nenhum crime de abuso de confianÃ§a pois esse crime pressupÃµe que o agente atue com ilegÃ­tima intenÃ§Ã£o de apropriaÃ§Ã£o. A alega que tem um direito de crÃ©dito sobre B pelo que atuou legitimamente segundo as regras de direito civil e se necessÃ¡rio proporÃ¡ a respectiva aÃ§Ã£o na jurisdiÃ§Ã£o competente para demonstrar o seu direito. Como deve proceder o tribunal penal e que princÃ­pio do processo penal poderÃ¡ estar em causa?
+PrincÃ­pio da suficiÃªncia: (art.7.Âº/1 e 2 CPP). Cabe Ã  partida ao tribunal penal apreciar a questÃ£o prÃ©via integrada no processo penal respectivo. Pode o tribunal ordenar oficiosamente a suspensÃ£o do processo para apreciaÃ§Ã£o da matÃ©ria nÃ£o penal controvertida apenas se nÃ£o puder resolver convenientemente a questÃ£o no tribunal penal, e sempre mediante a fixaÃ§Ã£o de um prazo mÃ¡ximo findo o qual a questÃ£o Ã© resolvida pelo tribunal penal (nÂº3 e 4).
 
-Interrupção da audiência
-    * princípio da concentração na vertente temporal de continuidade da audiência (328º CP);
-    * conteúdo: necessidade de concentração dos atos processuais;
-    * fundamento: ligação com o pp da publicidade da audiência e garantia de melhor apreciação e valoração da prova produzida em audiência; prevenir perda de valia da prova.
-    * justificação do princípio: memória dos sujeitos processuais e do tribunal, garantindo contraditório e boa decisão.
-    * interesses em confronto: continuidade e documentação das declarações prestadas (363º).
-    * solução antes da alteração legislativa: 30 dias e perda de eficácia da prova (fixação de jurisprudência). Passagem de 30 dias: perda de eficácia da prova produzida (solução legal confirmada pelo Ac de Fixação de Jurisprudência 11/20082
-    * solução atual: não há previsão de sanção probatória, mas há dever de fundamentação.
+ConfissÃ£o
+Na audiÃªncia de julgamento Ã© suscitada a possibilidade da audiÃ§Ã£o das declaraÃ§Ãµes de A no interrogatÃ³rio e no qual A terÃ¡ reconhecido alguma responsabilidade. Caso esta audiÃ§Ã£o seja viÃ¡vel, qual o princÃ­pio a que a apreciaÃ§Ã£o das declaraÃ§Ãµes pela entidade competente estarÃ¡ submetido?
+O interrogatÃ³rio foi realizado por um juiz (de instruÃ§Ã£o) com a presenÃ§a do defensor. Ã‰ expectÃ¡vel que se tenha observado os requisitos do art.141.Âº/4/b (o princÃ­pio geral Ã© o de que as declaraÃ§Ãµes nÃ£o podem ser lidas; exceto se tiverem sido realizadas no circunstancialismo do 141.Âº/4/b CPP). Por forÃ§a do 357.Âº CPP as declaraÃ§Ãµes prestadas podem ser reproduzidas na audiÃªncia, seja a solicitaÃ§Ã£o do arguido mas sobretudo Ã  luz do 357.Âº/1/b.
+A assunÃ§Ã£o de responsabilidade nÃ£o vale como confissÃ£o (art.344.Âº), ou seja, nunca implicarÃ¡ a renÃºncia Ã  produÃ§Ã£o da prova (mesmo que parcialmente); as declaraÃ§Ãµes serÃ£o valoradas, em conjugaÃ§Ã£o com todas as outras provas segundo o princÃ­pio da livre apreciaÃ§Ã£o: art.127.Âº CPP.
+
+conteÃºdo deste princÃ­pio (distinÃ§Ã£o perante o princÃ­pio-sistema da prova legal).
+funÃ§Ã£o positiva e funÃ§Ã£o negativa, necessidade de objectivaÃ§Ã£o/fundamentaÃ§Ã£o e controlabilidade (exceÃ§Ãµes). Por isso, mesmo apesar daquelas declaraÃ§Ãµes prestadas, A poderia ser absolvido no fim da audiÃªncia de julgamento.
+Na audiÃªncia de julgamento A remeteu-se ao silÃªncio/optou por nÃ£o prestar declaraÃ§Ãµes. O tribunal pode aproveitar uma anterior confissÃ£o (integral dos factos constantes da acusaÃ§Ã£o perante a entidade acusadora) do arguido?
+
+Se tiver sido uma confissÃ£o ouvida por Ã³rgÃ£os de polÃ­cia criminal, nÃ£o pode (art.1.Âº/1/c CPP). Se as declaraÃ§Ãµes tiverem sido prestadas perante OPC (em vez de AJ), nÃ£o podem ser lidas sem ser a pedido do arguido (357.Âº/1/a CPP). ExceÃ§Ã£o Ã  regra geral de produÃ§Ã£o e valoraÃ§Ã£o de prova em julgamento- 355.Âº CPP.
+Poderia se fossem declaraÃ§Ãµes que tivessem sido prestadas perante autoridade judiciÃ¡ria: MP (art.1.Âº/b CPP) durante o inquÃ©rito, com assistÃªncia obrigatÃ³ria do defensor (art.64.Âº/1/b CPP). Aplica-se o regime do artigo 357.Âº/1/b (reproduÃ§Ã£o ou leitura permitidas de declaraÃ§Ãµes do arguido), cumprindo-se o dever de informaÃ§Ã£o previsto no art.141.Âº/4/b, as declaraÃ§Ãµes podem ser lidas em julgamento, sujeitando-se ao regime da regra da livre apreciaÃ§Ã£o da prova (art.357.Âº/2 e 127.Âº CPP).
+esta confissÃ£o (feita no interrogatÃ³rio para aplicaÃ§Ã£o de medida de coaÃ§Ã£o) pode ser lida durante o julgamento e ser sujeita ao princÃ­pio da livre apreciaÃ§Ã£o da prova, por ter sido prestada perante autoridade judiciÃ¡ria, com a assistÃªncia do defensor, tendo sido o arguido informado de que as declaraÃ§Ãµes por si prestadas poderÃ£o ser depois utilizadas no processo (194.Âº/1 e 4, 64.Âº/1/b, 141.Âº/4 e 268.Âº/1/b CPP). Art.355.Âº CPP, art. 357.Âº/1/b e 2 CPP, 127.Âº CPP.
+Ou seja, as declaraÃ§Ãµes prestadas antes da fase de julgamento sÃ³ podem ser utilizadas em julgamento se tiverem sido recolhidas com base nos pressupostos do art.141.Âº: desde que o arguido tivesse sido devidamente informado, por autoridade judiciÃ¡ria (se foi detido, seria possÃ­vel perante o juiz), com presenÃ§a do defensor. Estas declaraÃ§Ãµes estÃ£o sujeitas Ã  livre apreciaÃ§Ã£o da prova e nÃ£o valem como confissÃ£o (tem de haver outros meios probatÃ³rios). Outra hipÃ³tese seria o arguido requerer a sua leitura (declaraÃ§Ã£o do arguido pode ser reproduzida/lida em audiÃªncia de julgamento a sua prÃ³pria solicitaÃ§Ã£o (art.357.Âº/1/a CPP).
+InterrupÃ§Ã£o da audiÃªncia
+
+princÃ­pio da concentraÃ§Ã£o na vertente temporal de continuidade da audiÃªncia (328.Âº CP).
+conteÃºdo: necessidade de concentraÃ§Ã£o dos atos processuais.
+fundamento: ligaÃ§Ã£o com o princÃ­pio da publicidade da audiÃªncia e garantia de melhor apreciaÃ§Ã£o e valoraÃ§Ã£o da prova produzida em audiÃªncia; prevenir perda de valia da prova.
+justificaÃ§Ã£o do princÃ­pio: memÃ³ria dos sujeitos processuais e do tribunal, garantindo contraditÃ³rio e boa decisÃ£o.
+interesses em confronto: continuidade e documentaÃ§Ã£o das declaraÃ§Ãµes prestadas (363.Âº).
+soluÃ§Ã£o antes da alteraÃ§Ã£o legislativa: 30 dias e perda de eficÃ¡cia da prova (fixaÃ§Ã£o de jurisprudÃªncia). Passagem de 30 dias: perda de eficÃ¡cia da prova produzida (soluÃ§Ã£o legal confirmada pelo Ac de FixaÃ§Ã£o de JurisprudÃªncia 11/20082.
+soluÃ§Ã£o atual: nÃ£o hÃ¡ previsÃ£o de sanÃ§Ã£o probatÃ³ria, mas hÃ¡ dever de fundamentaÃ§Ã£o.
 Ex.1:
-	Durante o julgamento, foi necessário proceder a uma interrupção da audiência, tendo sido esta retomada 40 dias depois--> neste caso carecia de fundamentação o adiamento da audiência.
+Durante o julgamento, foi necessÃ¡rio proceder a uma interrupÃ§Ã£o da audiÃªncia, tendo sido esta retomada 40 dias depois--> neste caso carecia de fundamentaÃ§Ã£o o adiamento da audiÃªncia.
 
 Ex.2:
-	Iniciou-se a audiência no dia 27/03 e após terem sido ouvidas as testemunhas oferecidas pela acusação, verifica-se o seu adiamento para o dia 24/04/2014. Por um acidente não foi possível retomar audiência nessa data, só o podendo em Maio deste ano. 
+Iniciou-se a audiÃªncia no dia 27/03 e apÃ³s terem sido ouvidas as testemunhas oferecidas pela acusaÃ§Ã£o, verifica-se o seu adiamento para o dia 24/04/2014. Por um acidente nÃ£o foi possÃ­vel retomar audiÃªncia nessa data, sÃ³ o podendo em Maio deste ano.
 
-Prova pericial na audiência de julgamento (art. 151º) da qual resultou um relatório que comprova que o arguido é culpado por falsificação de documentos.
-    * princípio da livre apreciação da prova (art.127º). Limite a este princípio consagrado no art.163º. Tribunal deve dar como provado o facto que resulta do relatório pericial (autoria da assinatura), embora possa afastar tal resultado se o tribunal divergir fundamentadamente do juízo pericial (art. 157º/1, 163º/1, parte final, 163º/2, 97º/5).
+Prova pericial na audiÃªncia de julgamento (art. 151.Âº) da qual resultou um relatÃ³rio que comprova que o arguido Ã© culpado por falsificaÃ§Ã£o de documentos.
 
-Em julgamento, pode uma testemunha recusar-se a prestar declarações?
-	Sim, cfr. o art.134º CPP.
+princÃ­pio da livre apreciaÃ§Ã£o da prova (art.127.Âº). Limite a este princÃ­pio consagrado no art.163.Âº. Tribunal deve dar como provado o facto que resulta do relatÃ³rio pericial (autoria da assinatura), embora possa afastar tal resultado se o tribunal divergir fundamentadamente do juÃ­zo pericial (art. 157.Âº/1, 163.Âº/1, parte final, 163.Âº/2, 97.Âº/5).
+Em julgamento, pode uma testemunha recusar-se a prestar declaraÃ§Ãµes?
+Sim, cfr. o art.134.Âº CPP.
 
-1 O que pode fazer o arguido, se o MP entender que existem indícios suficientes dos crimes, ou seja se quiser contestar porque:
-    -acha que aquele crime não aconteceu 
-    -ou porque afirma que a pessoa que diz ter sofrido o crime lhe tinha dado consentimento para tal, 
-    -ou simplesmente se o arguido foi acusado e não pretende ir a julgamento--> o que pode fazer o arguido para evitar ser submetido a julgamento--> ABERTURA DE INSTRUÇÃO
-2 Nos termos do artigo 328.º, n.º 6, do Código de Processo Penal, o adiamento da audiência de julgamento por prazo superior a 30 dias implica a perda de eficácia da prova produzida com sujeição ao princípio da imediação. Tal perda de eficácia ocorre independentemente da existência de documentação a que alude o artigo 363.º do mesmo diploma)
+1 O que pode fazer o arguido, se o MP entender que existem indÃ­cios suficientes dos crimes, ou seja se quiser contestar porque:
 
-
+acha que aquele crime nÃ£o aconteceu.
+ou porque afirma que a pessoa que diz ter sofrido o crime lhe tinha dado consentimento para tal,
+ou simplesmente se o arguido foi acusado e nÃ£o pretende ir a julgamento--> o que pode fazer o arguido para evitar ser submetido a julgamento--> ABERTURA DE INSTRUÃ‡ÃƒO.
+2 Nos termos do artigo 328.Âº, nÂº 6, do CÃ³digo de Processo Penal, o adiamento da audiÃªncia de julgamento por prazo superior a 30 dias implica a perda de eficÃ¡cia da prova produzida com sujeiÃ§Ã£o ao princÃ­pio da imediaÃ§Ã£o. Tal perda de eficÃ¡cia ocorre independentemente da existÃªncia de documentaÃ§Ã£o a que alude o artigo 363.Âº do mesmo diploma.
