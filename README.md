@@ -14,7 +14,10 @@ The LawTalk Project consists of developing a chatbot using Ollama LLM's and the 
 ### `src`: Contains the Source Code of the Project
 
 - **`app.py`**: Contains the core chatbot implementation using Ollama LLM's.
-- **`divide_pdf.py`**: Contains the script to divide PDF files in many smaller PDF's.
+- **`divide_codigo_penal.py`**: Contains the script to divide one of the main PDF files in many smaller PDF's.
+- **`divide_codigo_processual_penal.py`**: Contains the script to divide one of the main PDF files in many smaller PDF's.
+- **`divide_direito_processual_penal.py`**: Contains the script to divide one of the PDF files in many smaller PDF's.
+- **`process_single_files.py`**: Contains the script to process the smaller PDF files into many smaller TXT's.
 - **`document_loader.py`**: Contains the script for loading the PDF files to the database.
 - **`evaluate.csv`**: Contains the Test Dataset for the evaluation of the LLM Models.
 - **`evaluate.py`**: Contains the Jupyter Notebook for evaluating the LLM Models.
